@@ -27,7 +27,7 @@ The folloiwng 14 species were recorded during my visits to a number of sites (mo
 # Orchidoideae
 This genus is...
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![Common Spotted]({{ site.baseurl }}/images/commonspotted.jpg)
 
 ## **Bee Orchid** (*Ophrys apifera*)
 
