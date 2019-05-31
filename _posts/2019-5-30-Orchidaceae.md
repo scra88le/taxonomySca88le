@@ -71,7 +71,8 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
 Generally found in wet meadows
 
-![Early Marsh](/assets/images/earlymarsh.jpg){:class="img-responsive"}
+![Early Marsh]({{ site.baseurl }}/images/marsh1.JPG)
+![Early Marsh]({{ site.baseurl }}/images/marsh2.JPG)
 
 **Sub-family:** Orchidoideae
 
