@@ -50,6 +50,8 @@ This genus is...
 D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe, as far east as Siberia and is a member of the large D. maculata group of the genus Dactylorhiza. 
 
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
+![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
+![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
 
 **Sub-family:** Orchidoideae
 
