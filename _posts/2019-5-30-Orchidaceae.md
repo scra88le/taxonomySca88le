@@ -51,7 +51,6 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
-![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
 
 **Sub-family:** Orchidoideae
 
