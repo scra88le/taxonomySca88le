@@ -13,21 +13,30 @@ The taxonomy of the Orchidaceae (orchid family) has evolved slowly during the la
 
 The folloiwng 14 species were recorded during my visits to a number of sites (mostly BBOWT) across Oxfordshire Bedfordshire and Buckinghamshire. The following list details the sites visited together with the species recorded:
 
-* **Bernwood, Oxford** - Green winged orchid
-* **Hartslock NR, Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade orchids
-* **Homefiled Wood, Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade orchids
-* **Warburg, Henley** - Greater Butterly, Fly and Commomn Twayblade orchids
-* **Sydlings Copse, Oxford** - Early Purple orchid
+* **[Bernwood][bw link], Oxford** - Green winged orchid
+* **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade orchids
+* **[Homefiled Wood][hfw link], Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade orchids
+* **[Warburg][wb link], Henley** - Greater Butterly, Fly and Commomn Twayblade orchids
+* **[Sydlings Copse][syd link], Oxford** - Early Purple orchid
 * **[Lye Valley][lv link], Oxford** - Early Marsh and Common Spotted orchid
-* **Pixey Mead, Oxford** - Early Marsh orchid
-* **Bald Hill, Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly orchids 
-* **Knocking Hoe, Pegsdon** - Burnt Tip orchid
-* **Totternhoe Knolls, Totternhoe** - Man, Common Twayblade and Common Spotted orchids
+* **[Pixey Mead][px link], Oxford** - Early Marsh orchid
+* **[Bald Hill][bh link], Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly orchids 
+* **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip orchid
+* **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted orchids
 
-[lv link]: ttp://www.friendsoflyevalley.org.uk
+[bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
+[hl link]: https://hartslock.org.uk/blog/
+[lv link]: http://www.friendsoflyevalley.org.uk
+[hfw link]: https://afamilydayout.co.uk/homefield/
+[wb link]: https://www.bbowt.org.uk/nature-reserves/warburg-nature-reserve
+[syd link]: https://www.bbowt.org.uk/nature-reserves/sydlings-copse
+[px link]: http://judithwebb.weebly.com/oxford-meadows-sac.html
+[bh link]: https://en.wikipedia.org/wiki/Aston_Rowant_National_Nature_Reserve
+[kh link]: https://mknhs.org.uk/trip-report-knocking-hoe-nature-reserve-9-june-2018/
+[tk link]: https://www.wildlifebcn.org/sites/default/files/2018-06/case_study_-_totternhoe_orchids_final.pdf
 
 # Orchidoideae
-This genus is...
+The *orchidoid* orchids, are a significant subfamily of the Orchidaceae within the UK. I recorded the following species during the summer of 2019. 
 
 
 ## **Bee Orchid** (*Ophrys apifera*)
@@ -42,17 +51,19 @@ This genus is...
 
 **Dates seen:** June 2019
 
-**Habitat:** Chalk-grassland meadow
+**Habitat:** Chalk-grassland meadows
 
-**Classification:** ?
+**Conservation Status:** ?
 
 **UK Distribution:** Thoughtout England and coastal Wales, most common in South East England
 
 ## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
-D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. 
+D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where it emerged in late May. Homefield has a small chalk grassland meadow (c.1 acre), where the majority of its Orchid species are found.
 
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted2.JPG)
+
+**Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. Height is typically 10 to 60cm.
 
 **Sub-family:** Orchidoideae
 
@@ -64,11 +75,11 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 
 **Dates seen:** late May to June 2019
 
-**Habitat:** ?
+**Habitat:** chalk and limestone downs and meadows
 
-**Classification:** ?
+**Conservation Status:** Common
 
-**UK Distribution:** ?
+**UK Distribution:** UK wide, expect the Scottish Highlands
 
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
 Generally found in wet meadows
