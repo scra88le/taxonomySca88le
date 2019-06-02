@@ -13,16 +13,16 @@ The taxonomy of the Orchidaceae (orchid family) has evolved slowly during the la
 
 The folloiwng 14 species were recorded during my visits to a number of sites (mostly BBOWT) across Oxfordshire Bedfordshire and Buckinghamshire. The following list details the sites visited together with the species recorded:
 
-* **[Bernwood][bw link], Oxford** - Green winged orchid
-* **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade orchids
-* **[Homefiled Wood][hfw link], Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade orchids
-* **[Warburg][wb link], Henley** - Greater Butterly, Fly and Commomn Twayblade orchids
-* **[Sydlings Copse][syd link], Oxford** - Early Purple orchid
-* **[Lye Valley][lv link], Oxford** - Early Marsh and Common Spotted orchid
-* **[Pixey Mead][px link], Oxford** - Early Marsh orchid
-* **[Bald Hill][bh link], Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly orchids 
-* **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip orchid
-* **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted orchids
+* **[Bernwood][bw link], Oxford** - Green winged
+* **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade
+* **[Homefiled Wood][hfw link], Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade
+* **[Warburg][wb link], Henley** - Greater Butterly, Fly and Commomn Twayblade
+* **[Sydlings Copse][syd link], Oxford** - Early Purple
+* **[Lye Valley][lv link], Oxford** - Early Marsh and Common Spotted
+* **[Pixey Mead][px link], Oxford** - Early Marsh
+* **[Bald Hill][bh link], Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly
+* **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip
+* **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
 
 [bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
 [hl link]: https://hartslock.org.uk/blog/
@@ -36,7 +36,7 @@ The folloiwng 14 species were recorded during my visits to a number of sites (mo
 [tk link]: https://www.wildlifebcn.org/sites/default/files/2018-06/case_study_-_totternhoe_orchids_final.pdf
 
 # Orchidoideae
-The *orchidoid* orchids, are a significant subfamily of the Orchidaceae within the UK. I recorded the following species during the summer of 2019. 
+The *orchidoid* orchids, are a significant subfamily of the Orchidaceae within the UK. During the summer of 2019 I recorded the following Orchdoideaa species: 
 
 
 ## **Bee Orchid** (*Ophrys apifera*)
@@ -58,12 +58,12 @@ The *orchidoid* orchids, are a significant subfamily of the Orchidaceae within t
 **UK Distribution:** Thoughtout England and coastal Wales, most common in South East England
 
 ## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
-D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where it emerged in late May. Homefield has a small chalk grassland meadow (c.1 acre), where the majority of its Orchid species are found.
+D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where various specimens started to emerge as of late May. 
 
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted2.JPG)
 
-**Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. Height is typically 10 to 60cm.
+**Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. The Common Spotted can grow to a height of 60cm, but typically smaller than this.
 
 **Sub-family:** Orchidoideae
 
@@ -73,19 +73,21 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 
 **Location:** Homefield Woods
 
-**Dates seen:** late May to June 2019
+**Dates seen:** late May to July 2019
 
-**Habitat:** chalk and limestone downs and meadows
+**Habitat:** highly variable: woodland, dry grassland, wet meadows, marshes, dune slacks and human-made habitats
 
 **Conservation Status:** Common
 
-**UK Distribution:** UK wide, expect the Scottish Highlands
+**UK Distribution:** UK wide, except the Scottish Highlands
 
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
-Generally found in wet meadows
+Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at Pixey Mead, a SSSI, just north of Oxford. This ancient wet meadow had hundreds of plants starting to flower as of late May.  
 
 ![Early Marsh]({{ site.baseurl }}/images/marsh1.JPG)
 ![Early Marsh]({{ site.baseurl }}/images/marsh2.JPG)
+
+**Identification:** 
 
 **Sub-family:** Orchidoideae
 
@@ -234,4 +236,10 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
  Seen on the margins of or within chalk beechwoods at Hatlock and Warburg in shade or semi shade. The species recorded were typically no higher than 30cm. The eggshaped flowers are creamy white, with no distinctive scent. It is differentiated from the similar and closely related Cephalanthera longifolia, by comparing the leaves.
 
 ![White Helleborine](/assets/images/whitehelleborine.jpg){:class="img-responsive"}
+
+References
+==========
+[John and Gerry's Orchids of Britain and Europe](http://www.orchidsofbritainandeuropetest.uk/index.htm)
+[Orchid Observers identification guide](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/orchid-observers/orchid-observers-id-guide.pdf)
+[A begineer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
 
