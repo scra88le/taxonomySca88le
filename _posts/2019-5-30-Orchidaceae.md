@@ -18,11 +18,13 @@ The folloiwng 14 species were recorded during my visits to a number of sites (mo
 * **Homefiled Wood, Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade orchids
 * **Warburg, Henley** - Greater Butterly, Fly and Commomn Twayblade orchids
 * **Sydlings Copse, Oxford** - Early Purple orchid
-* **Lye Valley, Oxford** - Early Marsh and Common Spotted orchid
+* **[Lye Valley][lv link], Oxford** - Early Marsh and Common Spotted orchid
 * **Pixey Mead, Oxford** - Early Marsh orchid
 * **Bald Hill, Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly orchids 
 * **Knocking Hoe, Pegsdon** - Burnt Tip orchid
 * **Totternhoe Knolls, Totternhoe** - Man, Common Twayblade and Common Spotted orchids
+
+[lv link]: ttp://www.friendsoflyevalley.org.uk
 
 # Orchidoideae
 This genus is...
@@ -47,7 +49,7 @@ This genus is...
 **UK Distribution:** Thoughtout England and coastal Wales, most common in South East England
 
 ## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
-D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe, as far east as Siberia and is a member of the large D. maculata group of the genus Dactylorhiza. 
+D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. 
 
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
 ![Common Spotted]({{ site.baseurl }}/images/commonspotted2.JPG)
