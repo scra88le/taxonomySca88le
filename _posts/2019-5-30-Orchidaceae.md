@@ -24,16 +24,7 @@ The folloiwng 14 species were recorded during my visits to a number of sites (mo
 * **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip
 * **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
 
-[bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
-[hl link]: https://hartslock.org.uk/blog/
-[lv link]: http://www.friendsoflyevalley.org.uk
-[hfw link]: https://afamilydayout.co.uk/homefield/
-[wb link]: https://www.bbowt.org.uk/nature-reserves/warburg-nature-reserve
-[syd link]: https://www.bbowt.org.uk/nature-reserves/sydlings-copse
-[px link]: http://judithwebb.weebly.com/oxford-meadows-sac.html
-[bh link]: https://en.wikipedia.org/wiki/Aston_Rowant_National_Nature_Reserve
-[kh link]: https://mknhs.org.uk/trip-report-knocking-hoe-nature-reserve-9-june-2018/
-[tk link]: https://www.wildlifebcn.org/sites/default/files/2018-06/case_study_-_totternhoe_orchids_final.pdf
+Today there are xxxx genera of orchid worldwide. The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019.
 
 # Orchidoideae
 The *orchidoid* orchids, are a significant subfamily of the Orchidaceae within the UK. During the summer of 2019 I recorded the following Orchdoideaa species: 
@@ -82,7 +73,7 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 **UK Distribution:** UK wide, except the Scottish Highlands
 
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
-Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at Pixey Mead, a SSSI, just north of Oxford. This ancient wet meadow had hundreds of plants starting to flower as of late May.  
+Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May.  
 
 ![Early Marsh]({{ site.baseurl }}/images/marsh1.JPG)
 ![Early Marsh]({{ site.baseurl }}/images/marsh2.JPG)
@@ -101,7 +92,7 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 **Habitat:** Wet meadows
 
-**Classification:** ?
+**Conservation Status:** ?
 
 **UK Distribution:** ?
 
@@ -171,9 +162,11 @@ Distingushing hybrids from parents at Hartslock
 **UK Distribution:** Southern England
 
 # Epidendroideae
-The genus Epidendroideae is...
+The Epidendroideae subfamily is the largest of all the orchid subfamilies, comprising more than 15,000 species in 576 genera. This subfamily contains genera that are epiphytes
 
 ## **Birds Nest Orchid** (*Neottia nidus-avis*)
+The Bird's-nest orchid is leafless and without the green chlorophyll of other plants that enable them to gain energy from sunlight through photosynthesis; instead, it grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
+
 Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No chrlorofilm, mycorrhizal fungi? reference to the tangled mass of roots that support the short creeping rhizome
 
 ![Birdsnest](/assets/images/birdsnest.jpg){:class="img-responsive"}
@@ -240,6 +233,19 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 References
 ==========
 [John and Gerry's Orchids of Britain and Europe](http://www.orchidsofbritainandeuropetest.uk/index.htm)
+
 [Orchid Observers identification guide](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/orchid-observers/orchid-observers-id-guide.pdf)
+
 [A begineer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
+
+[bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
+[hl link]: https://hartslock.org.uk/blog/
+[lv link]: http://www.friendsoflyevalley.org.uk
+[hfw link]: https://afamilydayout.co.uk/homefield/
+[wb link]: https://www.bbowt.org.uk/nature-reserves/warburg-nature-reserve
+[syd link]: https://www.bbowt.org.uk/nature-reserves/sydlings-copse
+[px link]: http://judithwebb.weebly.com/oxford-meadows-sac.html
+[bh link]: https://en.wikipedia.org/wiki/Aston_Rowant_National_Nature_Reserve
+[kh link]: https://mknhs.org.uk/trip-report-knocking-hoe-nature-reserve-9-june-2018/
+[tk link]: https://www.wildlifebcn.org/sites/default/files/2018-06/case_study_-_totternhoe_orchids_final.pdf
 
