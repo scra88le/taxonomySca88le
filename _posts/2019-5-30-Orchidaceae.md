@@ -15,7 +15,7 @@ The folloiwng 14 species were recorded during my visits to a number of sites (mo
 
 * **[Bernwood][bw link], Oxford** - Green winged
 * **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade
-* **[Homefiled Wood][hfw link], Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade
+* **[Homefield Wood][hfw link], Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade
 * **[Warburg][wb link], Henley** - Greater Butterly, Fly and Commomn Twayblade
 * **[Sydlings Copse][syd link], Oxford** - Early Purple
 * **[Lye Valley][lv link], Oxford** - Early Marsh and Common Spotted
