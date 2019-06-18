@@ -11,7 +11,7 @@ The taxonomy of the Orchidaceae (orchid family) has evolved slowly during the la
 * Epidendroideae
 * Vanilloideae
 
-The folloiwng 14 species were recorded during my visits to a number of sites (mostly BBOWT) across Oxfordshire Bedfordshire and Buckinghamshire. The following list details the sites visited together with the species recorded:
+The folloiwng 40 species were recorded during my visits to a number of BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire, as well as a trip to the Picos de Europa. The following list details the sites visited together with the species recorded:
 
 * **[Bernwood][bw link], Oxford** - Green winged
 * **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade
@@ -25,6 +25,24 @@ The folloiwng 14 species were recorded during my visits to a number of sites (mo
 * **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
 
 Today there are xxxx genera of orchid worldwide. The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019.
+
+Genera
+# Epipactis
+# Cepalanthera
+# Neottia 
+# Listera
+# Platanthera
+# Gymnadenia 
+# Coeloglossum
+# Dactylorhiza
+# Orchis
+# Aceras
+# Himantoglossum
+# Anacamptis
+# Serapias
+# Ophrys
+# Nigritella
+
 
 # Orchidoideae
 The *orchidoid* orchids, are a significant subfamily of the Orchidaceae within the UK. During the summer of 2019 I recorded the following Orchdoideaa species: 
