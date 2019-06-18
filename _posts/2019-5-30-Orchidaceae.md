@@ -26,161 +26,33 @@ The folloiwng 40 species were recorded during my visits to a number of BBOWT sit
 
 Today there are xxxx genera of orchid worldwide. The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019.
 
-Genera
+Recorded Genera
+=============== 
+
 # Epipactis
 # Cepalanthera
-# Neottia 
-# Listera
-# Platanthera
-# Gymnadenia 
-# Coeloglossum
-# Dactylorhiza
-# Orchis
-# Aceras
-# Himantoglossum
-# Anacamptis
-# Serapias
-# Ophrys
-# Nigritella
 
+## **White Helleborine** (*Cephalanthera damasonium*)
 
-# Orchidoideae
-The *orchidoid* orchids, are a significant subfamily of the Orchidaceae within the UK. During the summer of 2019 I recorded the following Orchdoideaa species: 
+**Sub-family:** Epidendroideae
 
+**Genus:** Cephalanthera
 
-## **Bee Orchid** (*Ophrys apifera*)
+**Species:** C. damasonium
 
-**Sub-family:** Orchidoideae
-
-**Genus:** Ophrys
-
-**Species:** O. apifera
-
-**Location:** Homefield Woods
-
-**Dates seen:** June 2019
-
-**Habitat:** Chalk-grassland meadows
-
-**Conservation Status:** ?
-
-**UK Distribution:** Thoughtout England and coastal Wales, most common in South East England
-
-## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
-D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where various specimens started to emerge as of late May. 
-
-![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
-![Common Spotted]({{ site.baseurl }}/images/commonspotted2.JPG)
-
-**Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. The Common Spotted can grow to a height of 60cm, but typically smaller than this.
-
-**Sub-family:** Orchidoideae
-
-**Genus:** Dactylorhiza 
-
-**Species:** D. fuchsii
-
-**Location:** Homefield Woods
-
-**Dates seen:** late May to July 2019
-
-**Habitat:** highly variable: woodland, dry grassland, wet meadows, marshes, dune slacks and human-made habitats
-
-**Conservation Status:** Common
-
-**UK Distribution:** UK wide, except the Scottish Highlands
-
-## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
-Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May.  
-
-![Early Marsh]({{ site.baseurl }}/images/marsh1.JPG)
-![Early Marsh]({{ site.baseurl }}/images/marsh2.JPG)
-
-**Identification:** 
-
-**Sub-family:** Orchidoideae
-
-**Genus:** Dactylorhiza 
-
-**Species:** D. incarnata
-
-**Location:** Pixey Mead, Lye Valley
-
-**Dates seen:** late May to June 2019
-
-**Habitat:** Wet meadows
-
-**Conservation Status:** ?
-
-**UK Distribution:** ?
-
-## **Early Purple Orchid** (*Orchis mascula*)
-Generally found in shady areas
-
-![Early Purple](/assets/images/earlypurple.jpg){:class="img-responsive"}
-
-**Sub-family:** Orchidoideae
-
-**Genus:** Orchis
-
-**Species:** O. mascula
-
-**Location:** Sydlings Copse
-
-**Dates seen:** late April to May
-
-**Habitat:** edge of woodland in meadow
-
-**Classification:** ?
-
-**UK Distribution:** ?
-
-## **Fly Orchid** (*Ophrys insectifera*)
-Likes insects! Slender plant with deep red flowers
-
-
-**Sub-family:** Orchidoideae
-
-**Genus:** Ophrys
-
-**Species:** O. insectifera
-
-**Location:** Homefield Woods, Warburg
-
-**Dates seen:** late April to May
-
-**Habitat:** favours damp, alkaline, unimproved soil. Found growing in beech woodlands, on forest path.
-
-**Classification:** Vunerable
-
-**UK Distribution:** England
-
-## **Lady Orchid** (*Orchis purpurea*)
-The shape of the labellum is distinct between the Monkey, Military and Lady orchid's. They freely hybridize (See below) 
-
-![Lady](/assets/images/lady.jpg){:class="img-responsive"}
-
-Distingushing hybrids from parents at Hartslock
-
-
-**Sub-family:** Orchidoideae
-
-**Genus:** Orchis
-
-**Species:** O. purpurea
-
-**Location:** Hartlock BBWOT reserve
+**Location:** Hartlock BBWOT reserve, Warburg BBOWT reserve
 
 **Dates seen:** mid to late May 2019
 
-**Habitat:** Chalk grassland meadow
+**Habitat:** Next to chalk-grassland, calcareous solis in small beech wood.
 
-**Classification:** ?
+**Classification:** Vulnerable
 
 **UK Distribution:** Southern England
 
-# Epidendroideae
-The Epidendroideae subfamily is the largest of all the orchid subfamilies, comprising more than 15,000 species in 576 genera. This subfamily contains genera that are epiphytes
+ Seen on the margins of or within chalk beechwoods at Hatlock and Warburg in shade or semi shade. The species recorded were typically no higher than 30cm. The eggshaped flowers are creamy white, with no distinctive scent. It is differentiated from the similar and closely related Cephalanthera longifolia, by comparing the leaves.
+
+# Neottia 
 
 ## **Birds Nest Orchid** (*Neottia nidus-avis*)
 The Bird's-nest orchid is leafless and without the green chlorophyll of other plants that enable them to gain energy from sunlight through photosynthesis; instead, it grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
@@ -225,26 +97,159 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **UK Distribution:** Throughout the UK
 
+# Listera
+# Platanthera
+# Gymnadenia 
+# Coeloglossum
+# Dactylorhiza
 
-## **White Helleborine** (*Cephalanthera damasonium*)
+## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
+D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where various specimens started to emerge as of late May. 
 
-**Sub-family:** Epidendroideae
+![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
+![Common Spotted]({{ site.baseurl }}/images/commonspotted2.JPG)
 
-**Genus:** Cephalanthera
+**Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. The Common Spotted can grow to a height of 60cm, but typically smaller than this.
 
-**Species:** C. damasonium
+**Sub-family:** Orchidoideae
 
-**Location:** Hartlock BBWOT reserve, Warburg BBOWT reserve
+**Genus:** Dactylorhiza 
+
+**Species:** D. fuchsii
+
+**Location:** Homefield Woods
+
+**Dates seen:** late May to July 2019
+
+**Habitat:** highly variable: woodland, dry grassland, wet meadows, marshes, dune slacks and human-made habitats
+
+**Conservation Status:** Common
+
+**UK Distribution:** UK wide, except the Scottish Highlands
+
+**Polination:** ?
+
+## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
+Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May.  
+
+![Early Marsh]({{ site.baseurl }}/images/marsh1.JPG)
+![Early Marsh]({{ site.baseurl }}/images/marsh2.JPG)
+
+**Identification:** 
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Dactylorhiza 
+
+**Species:** D. incarnata
+
+**Location:** Pixey Mead, Lye Valley
+
+**Dates seen:** late May to June 2019
+
+**Habitat:** Wet meadows
+
+**Conservation Status:** ?
+
+**UK Distribution:** ?
+
+# Orchis
+
+## **Early Purple Orchid** (*Orchis mascula*)
+Generally found in shady areas
+
+![Early Purple](/assets/images/earlypurple.jpg){:class="img-responsive"}
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Orchis
+
+**Species:** O. mascula
+
+**Location:** Sydlings Copse
+
+**Dates seen:** late April to May
+
+**Habitat:** edge of woodland in meadow
+
+**Classification:** ?
+
+**UK Distribution:** ?
+
+## **Lady Orchid** (*Orchis purpurea*)
+The shape of the labellum is distinct between the Monkey, Military and Lady orchid's. They freely hybridize (See below) 
+
+![Lady](/assets/images/lady.jpg){:class="img-responsive"}
+
+Distingushing hybrids from parents at Hartslock
+
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Orchis
+
+**Species:** O. purpurea
+
+**Location:** Hartlock BBWOT reserve
 
 **Dates seen:** mid to late May 2019
 
-**Habitat:** Next to chalk-grassland, calcareous solis in small beech wood.
+**Habitat:** Chalk grassland meadow
 
-**Classification:** Vulnerable
+**Classification:** ?
 
 **UK Distribution:** Southern England
 
- Seen on the margins of or within chalk beechwoods at Hatlock and Warburg in shade or semi shade. The species recorded were typically no higher than 30cm. The eggshaped flowers are creamy white, with no distinctive scent. It is differentiated from the similar and closely related Cephalanthera longifolia, by comparing the leaves.
+# Aceras
+# Himantoglossum
+# Anacamptis
+# Serapias
+# Ophrys
+
+## **Bee Orchid** (*Ophrys apifera*)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Ophrys
+
+**Species:** O. apifera
+
+**Location:** Homefield Woods
+
+**Dates seen:** June 2019
+
+**Habitat:** Chalk-grassland meadows
+
+**Conservation Status:** ?
+
+**UK Distribution:** Thoughtout England and coastal Wales, most common in South East England
+
+## **Fly Orchid** (*Ophrys insectifera*)
+Likes insects! Slender plant with deep red flowers
+
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Ophrys
+
+**Species:** O. insectifera
+
+**Location:** Homefield Woods, Warburg
+
+**Dates seen:** late April to May
+
+**Habitat:** favours damp, alkaline, unimproved soil. Found growing in beech woodlands, on forest path.
+
+**Classification:** Vunerable
+
+**UK Distribution:** England
+
+# Nigritella
+
+# Epidendroideae
+The Epidendroideae subfamily is the largest of all the orchid subfamilies, comprising more than 15,000 species in 576 genera. This subfamily contains genera that are epiphytes
+
+
 
 ![White Helleborine](/assets/images/whitehelleborine.jpg){:class="img-responsive"}
 
