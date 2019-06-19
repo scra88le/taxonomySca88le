@@ -312,6 +312,30 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 ## Marsh Helleborine (*Epipactis palustris*)
 
 # Gymnadenia 
+
+## Fragrant Orchid (*Gymnadenia conopsea*)
+
+![Fragrant]({{ site.baseurl }}/images/fragrant1.JPG)
+![Fragrant]({{ site.baseurl }}/images/fragrant2.JPG)
+
+**Identification:** 
+
+**Sub-family:** 
+
+**Genus:** Gymnadenia 
+
+**Species:** G. conopsea
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** 
+
 # Himantoglossum
 # Listera
 # Nigritella
