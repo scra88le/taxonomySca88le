@@ -213,7 +213,7 @@ The white and yellow variant:
 
 **UK Distribution:** Not found. Seen in northern Spain
 
-## **Spotted Heath Orchid** (*Dactylorhiza maculata *)
+## **Spotted Heath Orchid** (*Dactylorhiza maculata*)
 
 ![Sicillian]({{ site.baseurl }}/images/spotheath1.JPG)
 ![Sicillian]({{ site.baseurl }}/images/spotheath2.JPG)
@@ -265,7 +265,7 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 ## (*Epipactis kleinii*)
 
 ![E. kleinii]({{ site.baseurl }}/images/kleinii1.JPG)
-![E. kleinii]({{ site.baseurl }}/images/kleninii2.JPG)
+![E. kleinii]({{ site.baseurl }}/images/kleinii2.JPG)
 
 **Identification:** 
 
