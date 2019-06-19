@@ -461,7 +461,7 @@ Generally found in shady areas
 The shape of the labellum is distinct between the Monkey, Military and Lady orchid's. They freely hybridize (See below) 
 
 ![Lady]({{ site.baseurl }}/images/lady1.JPG)
-![Lday]({{ site.baseurl }}/images/lady2.JPG)
+![Lady]({{ site.baseurl }}/images/lady2.JPG)
 
 Distingushing hybrids from parents at Hartslock
 
@@ -485,6 +485,9 @@ Distingushing hybrids from parents at Hartslock
 # Ophrys
 
 ## **Bee Orchid** (*Ophrys apifera*)
+
+![Bee]({{ site.baseurl }}/images/bee1.JPG)
+![Bee]({{ site.baseurl }}/images/bee2.JPG)
 
 **Sub-family:** Orchidoideae
 
