@@ -3,7 +3,7 @@ layout: post
 title: Taxonomy of the Orchidaceae
 ---
 
-The taxonomy of the Orchidaceae (orchid family) has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. According to *Dressler*, there are five subfamilies, 22 tribes, 70 subtribes, and about 850 genera of orchids. The orchid subfamilies are:
+The taxonomy of the Orchidaceae has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. According to *Dressler* there are currently five subfamilies, 22 tribes, 70 subtribes, and about 850 genera of orchids. The orchid subfamilies are:
 
 * Apostasioideae
 * Cypripedioideae
@@ -11,7 +11,7 @@ The taxonomy of the Orchidaceae (orchid family) has evolved slowly during the la
 * Epidendroideae
 * Vanilloideae
 
-The folloiwng 40 species were recorded during my visits to a number of BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire, as well as a trip to the Picos de Europa. The following list details the sites visited together with the species recorded:
+The folloiwng 40 species were recorded during my visits to a number of BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire, as well as a field trip to the Picos de Europa mountain range in northern Spain. The following list details the sites visited together with the species recorded:
 
 * **[Bernwood][bw link], Oxford** - Green winged
 * **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade
@@ -24,15 +24,34 @@ The folloiwng 40 species were recorded during my visits to a number of BBOWT sit
 * **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip
 * **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
 
-Today there are xxxx genera of orchid worldwide. The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019.
+Today there are xxxx genera of orchid worldwide. The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019. 
 
-Recorded Genera
-=============== 
+Each species recorded below has the following information:
 
-# Epipactis
+## Observation data
+Sub-family
+Genus
+Species 
+Location - where did I observe the species
+Dates seen - what time of year did I make the observation(s)
+Habitat - what type of habitat(s) was the species recorded in
+
+## Other data
+Identification - what are the distinguishing morphological features that allow identification
+Polination - how is the plant typically polinated
+UK classification - what is the current conservation status of the species
+UK distribution - where within the UK is the species typically found
+
+
+The species recorded, by genera, is as follows:
+
 # Cepalanthera
 
 ## **White Helleborine** (*Cephalanthera damasonium*)
+
+![White Helleborine]({{ site.baseurl }}/images/whitehell1.JPG)
+![White Helleborine]({{ site.baseurl }}/images/whitehell2.JPG)
+
 
 **Sub-family:** Epidendroideae
 
@@ -44,13 +63,21 @@ Recorded Genera
 
 **Dates seen:** mid to late May 2019
 
-**Habitat:** Next to chalk-grassland, calcareous solis in small beech wood.
+**Habitat:** Margins of chalk-grassland, calcareous solis in small beech wood.
 
-**Classification:** Vulnerable
+**Identification:**
+
+**Polination:** 
+
+**UK Classification:** Vulnerable
 
 **UK Distribution:** Southern England
 
  Seen on the margins of or within chalk beechwoods at Hatlock and Warburg in shade or semi shade. The species recorded were typically no higher than 30cm. The eggshaped flowers are creamy white, with no distinctive scent. It is differentiated from the similar and closely related Cephalanthera longifolia, by comparing the leaves.
+
+
+
+# Epipactis
 
 # Neottia 
 
@@ -251,7 +278,7 @@ The Epidendroideae subfamily is the largest of all the orchid subfamilies, compr
 
 
 
-![White Helleborine](/assets/images/whitehelleborine.jpg){:class="img-responsive"}
+
 
 References
 ==========
