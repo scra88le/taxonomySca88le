@@ -438,7 +438,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 ## **Early Purple Orchid** (*Orchis mascula*)
 Generally found in shady areas
 
-![Early Purple](/assets/images/earlypurple.jpg){:class="img-responsive"}
+![EarlyPurple]({{ site.baseurl }}/images/earlypurple1.JPG)
+![EarlyPurple]({{ site.baseurl }}/images/earlypurple2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -459,7 +460,8 @@ Generally found in shady areas
 ## **Lady Orchid** (*Orchis purpurea*)
 The shape of the labellum is distinct between the Monkey, Military and Lady orchid's. They freely hybridize (See below) 
 
-![Lady](/assets/images/lady.jpg){:class="img-responsive"}
+![Lady]({{ site.baseurl }}/images/lady1.JPG)
+![Lday]({{ site.baseurl }}/images/lady2.JPG)
 
 Distingushing hybrids from parents at Hartslock
 
