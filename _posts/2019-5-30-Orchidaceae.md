@@ -213,14 +213,37 @@ The white and yellow variant:
 
 **UK Distribution:** Not found. Seen in northern Spain
 
-## **Scilian Orchid** (*Dactylorhiza markusii*)
+## **Spotted Heath Orchid** (*Dactylorhiza maculata *)
 
-![Scilian]({{ site.baseurl }}/images/markusii1.JPG)
-![Scilian]({{ site.baseurl }}/images/markusii2.JPG)
+![Sicillian]({{ site.baseurl }}/images/spotheath1.JPG)
+![Sicillian]({{ site.baseurl }}/images/spotheath2.JPG)
 
 **Identification:** 
 
 **Sub-family:** Orchidoideae
+
+**Genus:** Dactylorhiza 
+
+**Species:** D. maculata
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** Not found. Seen in northern Spain
+
+## **Sicillian Orchid** (*Dactylorhiza markusii*)
+
+![Sicillian]({{ site.baseurl }}/images/markusii1.JPG)
+![Sicillian]({{ site.baseurl }}/images/markusii2.JPG)
+
+**Identification:** 
+
+**Sub-family:** 
 
 **Genus:** Dactylorhiza 
 
@@ -236,8 +259,57 @@ The white and yellow variant:
 
 **UK Distribution:** Not found. Seen in northern Spain
 
-
 # Epipactis
+Epipactis is a genus consisting of approximately 70 species. These orchids grow in open spaces in forests, in undergrowth, on calcareous soils and are often found in wet dune-slacks near the sea.
+
+## (*Epipactis kleinii*)
+
+![E. kleinii]({{ site.baseurl }}/images/kleinii1.JPG)
+![E. kleinii]({{ site.baseurl }}/images/kleninii2.JPG)
+
+**Identification:** 
+
+**Sub-family:** 
+
+**Genus:** Epipactis
+
+**Species:** E. kleinii
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** Not found. Seen in northern Spain
+
+## Broad Leaved Helleborine (*Epipactis helleborine*)
+
+![Broad leaveed]({{ site.baseurl }}/images/broadleaved1.JPG)
+![Broad leaveed]({{ site.baseurl }}/images/broadleaved2.JPG)
+
+**Identification:** 
+
+**Sub-family:** 
+
+**Genus:** Epipactis
+
+**Species:** E. helleborine
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** 
+
+
+## Marsh Helleborine (*Epipactis palustris*)
 
 # Neottia 
 
