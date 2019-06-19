@@ -101,12 +101,6 @@ The species recorded, by genera, is as follows:
 
 **UK Distribution:** 
 
-
-
-
-
-
-
 # Coeloglossum
 
 ## **Frog Orchid** (*Coeloglossum viride*)
@@ -134,58 +128,6 @@ The species recorded, by genera, is as follows:
 **UK Classification:** 
 
 **UK Distribution:** 
-
-
-# Epipactis
-
-# Neottia 
-
-## **Birds Nest Orchid** (*Neottia nidus-avis*)
-The Bird's-nest orchid is leafless and without the green chlorophyll of other plants that enable them to gain energy from sunlight through photosynthesis; instead, it grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
-
-Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No chrlorofilm, mycorrhizal fungi? reference to the tangled mass of roots that support the short creeping rhizome
-
-![Birdsnest](/assets/images/birdsnest.jpg){:class="img-responsive"}
-
-**Sub-family:** Epidendroideae
-
-**Genus:** Neottia
-
-**Species:** N. nidus-avis
-
-**Location:** Homefield Woods
-
-**Dates seen:** May 2019
-
-**Habitat:** Prefers shady woodland on akaline soils, typically amongst mature Beech trees
-
-**Classification:** ?
-
-**UK Distribution:** Southern England
-
-## **Common Twayblade** (*Neottia ovata*)
-
-![Common Twayblade](/assets/images/commontwayblade.jpg){:class="img-responsive"}
-
-**Sub-family:** Epidendroideae
-
-**Genus:** Neottia
-
-**Species:** N. ovata
-
-**Location:** Hartslock, Warburg, Homefield Woods
-
-**Dates seen:** late May to June 2019
-
-**Habitat:** Meadows, scrub
-
-**Classification:** ?
-
-**UK Distribution:** Throughout the UK
-
-# Listera
-# Platanthera
-# Gymnadenia 
 
 # Dactylorhiza
 
@@ -239,6 +181,59 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 **UK Distribution:** ?
 
+
+# Epipactis
+
+# Neottia 
+
+## **Birds Nest Orchid** (*Neottia nidus-avis*)
+The Bird's-nest orchid is leafless and without the green chlorophyll of other plants that enable them to gain energy from sunlight through photosynthesis; instead, it grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
+
+Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No chrlorofilm, mycorrhizal fungi? reference to the tangled mass of roots that support the short creeping rhizome
+
+![Birdsnest](/assets/images/birdsnest.jpg){:class="img-responsive"}
+
+**Sub-family:** Epidendroideae
+
+**Genus:** Neottia
+
+**Species:** N. nidus-avis
+
+**Location:** Homefield Woods
+
+**Dates seen:** May 2019
+
+**Habitat:** Prefers shady woodland on akaline soils, typically amongst mature Beech trees
+
+**Classification:** ?
+
+**UK Distribution:** Southern England
+
+## **Common Twayblade** (*Neottia ovata*)
+
+![Common Twayblade](/assets/images/commontwayblade.jpg){:class="img-responsive"}
+
+**Sub-family:** Epidendroideae
+
+**Genus:** Neottia
+
+**Species:** N. ovata
+
+**Location:** Hartslock, Warburg, Homefield Woods
+
+**Dates seen:** late May to June 2019
+
+**Habitat:** Meadows, scrub
+
+**Classification:** ?
+
+**UK Distribution:** Throughout the UK
+
+# Listera
+# Platanthera
+# Gymnadenia 
+
+
 # Orchis
 
 ## **Early Purple Orchid** (*Orchis mascula*)
@@ -286,7 +281,6 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** Southern England
 
-# Aceras
 # Himantoglossum
 # Anacamptis
 # Serapias
