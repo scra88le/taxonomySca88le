@@ -123,7 +123,7 @@ The species recorded, by genera, is as follows:
 
 **Location:** Picos
 
-**Dates seen:** early June
+**Dates seen:** early June 2019
 
 **Habitat:** damp north facing meadow above 1000m
 
