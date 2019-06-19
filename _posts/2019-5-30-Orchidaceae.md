@@ -508,6 +508,8 @@ Distingushing hybrids from parents at Hartslock
 ## **Fly Orchid** (*Ophrys insectifera*)
 Likes insects! Slender plant with deep red flowers
 
+![Fly]({{ site.baseurl }}/images/fly1.JPG)
+![Fly]({{ site.baseurl }}/images/fly2.JPG)
 
 **Sub-family:** Orchidoideae
 
