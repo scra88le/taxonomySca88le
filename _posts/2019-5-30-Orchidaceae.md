@@ -134,8 +134,8 @@ The species recorded, by genera, is as follows:
 ## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
 D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where various specimens started to emerge as of late May. 
 
-![Common Spotted]({{ site.baseurl }}/images/commonspotted.JPG)
-![Common Spotted]({{ site.baseurl }}/images/commonspotted2.JPG)
+![Common Spotted]({{ site.baseurl }}/images/commonspot1.JPG)
+![Common Spotted]({{ site.baseurl }}/images/commonspot2.JPG)
 
 **Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. The Common Spotted can grow to a height of 60cm, but typically smaller than this.
 
@@ -160,8 +160,10 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
 Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May.  
 
-![Early Marsh]({{ site.baseurl }}/images/marsh1.JPG)
-![Early Marsh]({{ site.baseurl }}/images/marsh2.JPG)
+![Early Marsh]({{ site.baseurl }}/images/earlymarsh1.JPG)
+![Early Marsh]({{ site.baseurl }}/images/earlymarsh2.JPG)
+![Early Marsh]({{ site.baseurl }}/images/earlymarsh3.JPG)
+![Early Marsh]({{ site.baseurl }}/images/earlymarsh4.JPG)
 
 **Identification:** 
 
