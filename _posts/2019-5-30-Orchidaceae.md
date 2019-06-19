@@ -183,6 +183,31 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 **UK Distribution:** ?
 
+## **Elder Flowered Orchid** (*Dactylorhiza sambucina*)
+
+![Elder Flowered]({{ site.baseurl }}/images/elderflower1.JPG)
+![Elder Flowered]({{ site.baseurl }}/images/elderflower2.JPG)
+![Elder Flowered]({{ site.baseurl }}/images/elderflower3.JPG)
+![Elder Flowered]({{ site.baseurl }}/images/elderflower4.JPG)
+
+**Identification:** 
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Dactylorhiza 
+
+**Species:** D. sambucina
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** Not found. Seen in northern Spain
+
 
 # Epipactis
 
