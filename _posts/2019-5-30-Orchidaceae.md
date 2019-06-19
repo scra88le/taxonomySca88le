@@ -75,6 +75,38 @@ The species recorded, by genera, is as follows:
 
  Seen on the margins of or within chalk beechwoods at Hatlock and Warburg in shade or semi shade. The species recorded were typically no higher than 30cm. The eggshaped flowers are creamy white, with no distinctive scent. It is differentiated from the similar and closely related Cephalanthera longifolia, by comparing the leaves.
 
+## **Red Helleborine** (*Cephalanthera rubra*)
+
+![Red Helleborine]({{ site.baseurl }}/images/redhell1.JPG)
+![Red Helleborine]({{ site.baseurl }}/images/redhell2.JPG)
+
+
+**Sub-family:** Epidendroideae
+
+**Genus:** Cephalanthera
+
+**Species:** C. rubra
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** Margins of woodland in steam limestone gorge 
+
+**Identification:**
+
+**Polination:** 
+
+**UK Classification:** 
+
+**UK Distribution:** 
+
+
+
+
+
+
+
 # Coeloglossum
 
 ## **Frog Orchid** (*Coeloglossum viride*)
