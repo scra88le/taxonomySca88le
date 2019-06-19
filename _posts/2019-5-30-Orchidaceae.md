@@ -311,6 +311,10 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 ## Marsh Helleborine (*Epipactis palustris*)
 
+# Gymnadenia 
+# Himantoglossum
+# Listera
+# Nigritella
 # Neottia 
 
 ## **Birds Nest Orchid** (*Neottia nidus-avis*)
@@ -355,11 +359,6 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 **Classification:** ?
 
 **UK Distribution:** Throughout the UK
-
-# Listera
-# Platanthera
-# Gymnadenia 
-
 
 # Orchis
 
@@ -408,9 +407,6 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** Southern England
 
-# Himantoglossum
-# Anacamptis
-# Serapias
 # Ophrys
 
 ## **Bee Orchid** (*Ophrys apifera*)
@@ -451,7 +447,9 @@ Likes insects! Slender plant with deep red flowers
 
 **UK Distribution:** England
 
-# Nigritella
+# Platanthera
+# Serapias
+
 
 # Epidendroideae
 The Epidendroideae subfamily is the largest of all the orchid subfamilies, comprising more than 15,000 species in 576 genera. This subfamily contains genera that are epiphytes
