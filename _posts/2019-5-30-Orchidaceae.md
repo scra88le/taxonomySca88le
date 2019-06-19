@@ -37,10 +37,10 @@ Each species recorded below has the following information:
 * Habitat - what type of habitat(s) was the species recorded in
 
 ## Other data
-Identification - what are the distinguishing morphological features that allow identification
-Polination - how is the plant typically polinated
-UK classification - what is the current conservation status of the species
-UK distribution - where within the UK is the species typically found
+* Identification - what are the distinguishing morphological features that allow identification
+* Polination - how is the plant typically polinated
+* UK classification - what is the current conservation status of the species
+* UK distribution - where within the UK is the species typically found
 
 
 The species recorded, by genera, is as follows:
@@ -215,8 +215,26 @@ The white and yellow variant:
 
 ## **Scilian Orchid** (*Dactylorhiza markusii*)
 
-![Scilian]({{ site.baseurl }}/images/scilian1.JPG)
+![Scilian]({{ site.baseurl }}/images/markusii1.JPG)
+![Scilian]({{ site.baseurl }}/images/markusii2.JPG)
 
+**Identification:** 
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Dactylorhiza 
+
+**Species:** D. markusii
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** Not found. Seen in northern Spain
 
 
 # Epipactis
