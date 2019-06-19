@@ -185,8 +185,11 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 ## **Elder Flowered Orchid** (*Dactylorhiza sambucina*)
 
+The red and orange variant:
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower1.JPG)
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower2.JPG)
+
+The white and yellow variant:
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower3.JPG)
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower4.JPG)
 
@@ -207,6 +210,11 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 **Conservation Status:** ?
 
 **UK Distribution:** Not found. Seen in northern Spain
+
+## **Scilian Orchid** (*Dactylorhiza markusii*)
+
+![Scilian]({{ site.baseurl }}/images/scilian1.JPG)
+
 
 
 # Epipactis
