@@ -337,16 +337,60 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 **UK Distribution:** 
 
 # Himantoglossum
-# Listera
-# Nigritella
+
+## Lizard Orchid (*Himantoglossum hircinum*)
+
+![Lizard]({{ site.baseurl }}/images/lizard1.JPG)
+![Lizard]({{ site.baseurl }}/images/lizard2.JPG)
+
+**Identification:** 
+
+**Sub-family:** 
+
+**Genus:** Himantoglossum
+
+**Species:** H. hircinum
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** 
+
 # Neottia 
+
+## Common Twayblade (*Neottia ovata*)
+
+![Twayblade]({{ site.baseurl }}/images/tway1.JPG)
+![Twayblade]({{ site.baseurl }}/images/tway2.JPG)
+
+**Sub-family:** Epidendroideae
+
+**Genus:** Neottia
+
+**Species:** N. ovata
+
+**Location:** Hartslock, Warburg, Homefield Woods
+
+**Dates seen:** late May to early June 2019
+
+**Habitat:** damp meadows, scrub
+
+**Classification:** ?
+
+**UK Distribution:** Throughout the UK
 
 ## **Birds Nest Orchid** (*Neottia nidus-avis*)
 The Bird's-nest orchid is leafless and without the green chlorophyll of other plants that enable them to gain energy from sunlight through photosynthesis; instead, it grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
 
 Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No chrlorofilm, mycorrhizal fungi? reference to the tangled mass of roots that support the short creeping rhizome
 
-![Birdsnest](/assets/images/birdsnest.jpg){:class="img-responsive"}
+![Birdsnest]({{ site.baseurl }}/images/birds1.JPG)
+![Birdsnest]({{ site.baseurl }}/images/birds2.JPG)
 
 **Sub-family:** Epidendroideae
 
@@ -364,25 +408,13 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **UK Distribution:** Southern England
 
-## **Common Twayblade** (*Neottia ovata*)
 
-![Common Twayblade](/assets/images/commontwayblade.jpg){:class="img-responsive"}
+# Nigritella
 
-**Sub-family:** Epidendroideae
 
-**Genus:** Neottia
 
-**Species:** N. ovata
 
-**Location:** Hartslock, Warburg, Homefield Woods
 
-**Dates seen:** late May to June 2019
-
-**Habitat:** Meadows, scrub
-
-**Classification:** ?
-
-**UK Distribution:** Throughout the UK
 
 # Orchis
 
