@@ -411,9 +411,26 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 # Nigritella
 
+## **Black Vanilla Orchid** (*Nigritella nigra*)
 
+![Vanilla]({{ site.baseurl }}/images/vanilla1.JPG)
+![Vanilla]({{ site.baseurl }}/images/vanilla2.JPG)
 
+**Sub-family:** Orchidoideae
 
+**Genus:** Nigritella
+
+**Species:** N. nigra
+
+**Location:** Picos
+
+**Dates seen:** June 2019
+
+**Habitat:** 
+
+**Classification:** ?
+
+**UK Distribution:** 
 
 
 # Orchis
