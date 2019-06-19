@@ -185,11 +185,13 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 ## **Elder Flowered Orchid** (*Dactylorhiza sambucina*)
 
-The red and orange variant:
+The red and orange variant:  
+
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower1.JPG)
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower2.JPG)
 
-The white and yellow variant:
+The white and yellow variant:  
+
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower3.JPG)
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower4.JPG)
 
