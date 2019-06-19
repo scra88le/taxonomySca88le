@@ -91,7 +91,7 @@ The species recorded, by genera, is as follows:
 
 **Dates seen:** early June 2019
 
-**Habitat:** Margins of woodland in steam limestone gorge 
+**Habitat:** scrub in woodland magin, on steep limestone gorge 
 
 **Identification:**
 
