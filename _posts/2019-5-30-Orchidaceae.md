@@ -11,7 +11,9 @@ The taxonomy of the Orchidaceae has evolved slowly during the last 250 years, st
 * Epidendroideae
 * Vanilloideae
 
-The folloiwng 40 species were recorded during my visits to a number of BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire, as well as a field trip to the Picos de Europa mountain range in northern Spain. The following list details the sites visited together with the species recorded:
+# BBOWT Sites
+
+The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire were visited to collect samples:
 
 * **[Bernwood][bw link], Oxford** - Green winged
 * **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade
@@ -23,6 +25,18 @@ The folloiwng 40 species were recorded during my visits to a number of BBOWT sit
 * **[Bald Hill][bh link], Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly
 * **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip
 * **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
+
+# Picos de Europa sites
+
+I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east in the xxx plains. The following sites were visited:
+
+* Liencres dunes
+* Bejes meadows
+* Cervera de Pisuergina
+* La Rasilla
+* Vanes
+* Lebena
+
 
 Today there are xxxx genera of orchid worldwide. The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019. 
 
@@ -432,6 +446,56 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **UK Distribution:** 
 
+# Ophrys
+
+## **Bee Orchid** (*Ophrys apifera*)
+
+![Bee]({{ site.baseurl }}/images/bee1.JPG)
+![Bee]({{ site.baseurl }}/images/bee2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Ophrys
+
+**Species:** O. apifera
+
+**Location:** Homefield Woods
+
+**Dates seen:** June 2019
+
+**Habitat:** Chalk-grassland meadows
+
+**Conservation Status:** ?
+
+**UK Distribution:** Thoughtout England and coastal Wales, most common in South East England
+
+## **Fly Orchid** (*Ophrys insectifera*)
+Likes insects! Slender plant with deep red flowers
+
+![Fly]({{ site.baseurl }}/images/fly1.JPG)
+![Fly]({{ site.baseurl }}/images/fly2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Ophrys
+
+**Species:** O. insectifera
+
+**Location:** Homefield Woods, Warburg
+
+**Dates seen:** late April to May
+
+**Habitat:** favours damp, alkaline, unimproved soil. Found growing in beech woodlands, on forest path.
+
+**Classification:** Vunerable
+
+**UK Distribution:** England
+
+## **Woodcock Orchid** (*Ophrys scolopax*)
+
+![Woodcock]({{ site.baseurl }}/images/woodcock1.JPG)
+![Woodcock]({{ site.baseurl }}/images/woodcock2.JPG)
+
 
 # Orchis
 
@@ -482,50 +546,6 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** Southern England
 
-# Ophrys
-
-## **Bee Orchid** (*Ophrys apifera*)
-
-![Bee]({{ site.baseurl }}/images/bee1.JPG)
-![Bee]({{ site.baseurl }}/images/bee2.JPG)
-
-**Sub-family:** Orchidoideae
-
-**Genus:** Ophrys
-
-**Species:** O. apifera
-
-**Location:** Homefield Woods
-
-**Dates seen:** June 2019
-
-**Habitat:** Chalk-grassland meadows
-
-**Conservation Status:** ?
-
-**UK Distribution:** Thoughtout England and coastal Wales, most common in South East England
-
-## **Fly Orchid** (*Ophrys insectifera*)
-Likes insects! Slender plant with deep red flowers
-
-![Fly]({{ site.baseurl }}/images/fly1.JPG)
-![Fly]({{ site.baseurl }}/images/fly2.JPG)
-
-**Sub-family:** Orchidoideae
-
-**Genus:** Ophrys
-
-**Species:** O. insectifera
-
-**Location:** Homefield Woods, Warburg
-
-**Dates seen:** late April to May
-
-**Habitat:** favours damp, alkaline, unimproved soil. Found growing in beech woodlands, on forest path.
-
-**Classification:** Vunerable
-
-**UK Distribution:** England
 
 # Platanthera
 # Serapias
