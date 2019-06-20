@@ -647,6 +647,27 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** NA
 
+## **Green-winged Orchid** (*Orchis morio*)
+
+![GreenWing]({{ site.baseurl }}/images/greenwing1.JPG)
+![GreenWing]({{ site.baseurl }}/images/greenwing2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Orchis
+
+**Species:** O. morio
+
+**Location:** Bernwood Meadows
+
+**Dates seen:** early May 2019
+
+**Habitat:** grassland meadow
+
+**Classification:** ?
+
+**UK Distribution:** NA
+
 # Platanthera
 # Serapias
 
