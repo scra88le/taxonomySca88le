@@ -3,13 +3,7 @@ layout: post
 title: Taxonomy of the Orchidaceae
 ---
 
-The taxonomy of the Orchidaceae has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. According to *Dressler* there are currently five subfamilies, 22 tribes, 70 subtribes, and about 850 genera of orchids. The orchid subfamilies are:
-
-* Apostasioideae
-* Cypripedioideae
-* Orchidoideae
-* Epidendroideae
-* Vanilloideae
+The taxonomy of the Orchidaceae has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. 
 
 # BBOWT Sites
 
@@ -37,8 +31,15 @@ I also had a one week field trip to the Picos de Europa mountain range in northe
 * Vanes
 * Lebena
 
+According to *Dressler* there are currently five subfamilies, 22 tribes, 70 subtribes, and about 850 genera of orchids. The orchid subfamilies are:
 
-Today there are xxxx genera of orchid worldwide. The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019. 
+* Apostasioideae
+* Cypripedioideae
+* Orchidoideae
+* Epidendroideae
+* Vanilloideae
+
+The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019. 
 
 Each species recorded below has the following information:
 
