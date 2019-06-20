@@ -537,8 +537,8 @@ Likes insects! Slender plant with deep red flowers
 
 ## **Yellow Bee Orchid** (*Ophrys lutea*)
 
-![EarlySpider]({{ site.baseurl }}/images/yellowbee1.JPG)
-![EarlySpider]({{ site.baseurl }}/images/yellowbee2.JPG)
+![YellowBee]({{ site.baseurl }}/images/yellowbee1.JPG)
+![YellowBee]({{ site.baseurl }}/images/yellowbee2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -555,6 +555,27 @@ Likes insects! Slender plant with deep red flowers
 **Classification:** 
 
 **UK Distribution:** N/A
+
+## **Sawfly Orchid** (*Ophrys tenthredinifera*)
+
+![Sawfly]({{ site.baseurl }}/images/sawfly1.JPG)
+![Sawfly]({{ site.baseurl }}/images/sawfly2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Ophrys
+
+**Species:** O. tenthredinifera
+
+**Location:** Picos
+
+**Dates seen:** early June
+
+**Habitat:** 
+
+**Classification:** 
+
+**UK Distribution:** 
 
 # Orchis
 
