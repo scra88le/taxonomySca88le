@@ -710,6 +710,28 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** NA
 
+## **Man Orchid** (*Orchis anthropophora*)
+
+![Man]({{ site.baseurl }}/images/man1.JPG)
+![Man]({{ site.baseurl }}/images/man2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Orchis
+
+**Species:** O. anthropophora
+
+**Location:** 
+
+**Dates seen:** early May 2019
+
+**Habitat:** 
+
+**Classification:** ?
+
+**UK Distribution:** 
+
+
 # Neotinea
 
 ## **Burnt-tip Orchid** (*Neotinea ustulata*)
