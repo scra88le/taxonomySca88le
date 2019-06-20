@@ -689,6 +689,27 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** NA
 
+## **Pale-flowered Orchid** (*Orchis pallens*)
+
+![PaleFlowered]({{ site.baseurl }}/images/pale1.JPG)
+![PaleFlowered]({{ site.baseurl }}/images/pale2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Orchis
+
+**Species:** O. pallens
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** limestone grassland
+
+**Classification:** ?
+
+**UK Distribution:** NA
+
 # Neotinea
 
 ## **Burnt-tip Orchid** (*Neotinea ustulata*)
