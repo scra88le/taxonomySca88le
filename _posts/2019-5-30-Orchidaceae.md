@@ -497,6 +497,64 @@ Likes insects! Slender plant with deep red flowers
 ![Woodcock]({{ site.baseurl }}/images/woodcock1.JPG)
 ![Woodcock]({{ site.baseurl }}/images/woodcock2.JPG)
 
+**Sub-family:** Orchidoideae
+
+**Genus:** Ophrys
+
+**Species:** O. scolopax
+
+**Location:** Picos
+
+**Dates seen:** early June
+
+**Habitat:** 
+
+**Classification:** 
+
+**UK Distribution:** N/A
+
+
+## **Early Spider Orchid** (*Ophrys sphegodes*)
+
+![EarlySpider]({{ site.baseurl }}/images/spider1.JPG)
+![EarlySpider]({{ site.baseurl }}/images/spider2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Ophrys
+
+**Species:** O. sphegodes
+
+**Location:** Picos
+
+**Dates seen:** early June
+
+**Habitat:** 
+
+**Classification:** 
+
+**UK Distribution:** 
+
+## **Yellow Bee Orchid** (*Ophrys lutea*)
+
+![EarlySpider]({{ site.baseurl }}/images/yellowbee1.JPG)
+![EarlySpider]({{ site.baseurl }}/images/yellowbee2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Ophrys
+
+**Species:** O. lutea
+
+**Location:** Picos
+
+**Dates seen:** early June
+
+**Habitat:** 
+
+**Classification:** 
+
+**UK Distribution:** N/A
 
 # Orchis
 
