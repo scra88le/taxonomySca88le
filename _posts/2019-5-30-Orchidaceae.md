@@ -668,6 +668,50 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** NA
 
+## **Bug Orchid** (*Orchis coriophora*)
+
+![GreenWing]({{ site.baseurl }}/images/bug1.JPG)
+![GreenWing]({{ site.baseurl }}/images/bug2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Orchis
+
+**Species:** O. coriophora
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** limestone grassland
+
+**Classification:** ?
+
+**UK Distribution:** NA
+
+# Neotinea
+
+## **Burnt-tip Orchid** (*Neotinea ustulata*)
+
+![BurntTip]({{ site.baseurl }}/images/burnt1.JPG)
+![BurntTip]({{ site.baseurl }}/images/burnt2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Neotinea
+
+**Species:** N. ustulata
+
+**Location:** 
+
+**Dates seen:** late May 2019
+
+**Habitat:** chalk grassland
+
+**Classification:** Red - Endangered & Critically Endangered
+
+**UK Distribution:** 
+
 # Platanthera
 # Serapias
 
