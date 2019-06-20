@@ -5,7 +5,7 @@ title: Taxonomy of the Orchidaceae
 
 The taxonomy of the Orchidaceae has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. 
 
-# BBOWT Sites
+## BBOWT Sites
 
 The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire were visited to collect samples:
 
@@ -20,7 +20,7 @@ The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire we
 * **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip
 * **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
 
-# Picos de Europa sites
+## Picos de Europa sites
 
 I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east in the xxx plains. The following sites were visited:
 
