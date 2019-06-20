@@ -513,7 +513,6 @@ Likes insects! Slender plant with deep red flowers
 
 **UK Distribution:** N/A
 
-
 ## **Early Spider Orchid** (*Ophrys sphegodes*)
 
 ![EarlySpider]({{ site.baseurl }}/images/spider1.JPG)
@@ -756,6 +755,49 @@ Distingushing hybrids from parents at Hartslock
 **UK Distribution:** 
 
 # Platanthera
+
+## **Greater Butterfly Orchid** (*Platanthera chlorantha*)
+
+![GreaterButterly]({{ site.baseurl }}/images/greaterbutt1.JPG)
+![GreaterButterly]({{ site.baseurl }}/images/greaterbutt2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Platanthera
+
+**Species:** P. chlorantha
+
+**Location:** 
+
+**Dates seen:** late May 2019
+
+**Habitat:** chalk grassland
+
+**Classification:** 
+
+**UK Distribution:** 
+
+## **Lesser Butterfly Orchid** (*Platanthera bifolia*)
+
+![LesserButterly]({{ site.baseurl }}/images/lesserbutt1.JPG)
+![LesserButterly]({{ site.baseurl }}/images/lesserbutt2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Platanthera
+
+**Species:** P. biofolia
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** sand dunes
+
+**Classification:** 
+
+**UK Distribution:** 
+
 # Serapias
 
 
