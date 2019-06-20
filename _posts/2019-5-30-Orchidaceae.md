@@ -626,6 +626,26 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** Southern England
 
+## **Pink Butterfly Orchid** (*Orchis papilionacea*)
+
+![PinkButterfly]({{ site.baseurl }}/images/pinkbutt1.JPG)
+![PinkButterfly]({{ site.baseurl }}/images/pinkbutt2.JPG)
+
+**Sub-family:** Orchidoideae
+
+**Genus:** Orchis
+
+**Species:** O. papilionacea
+
+**Location:** Picos
+
+**Dates seen:** early June 2019
+
+**Habitat:** limestone grassland meadow
+
+**Classification:** ?
+
+**UK Distribution:** NA
 
 # Platanthera
 # Serapias
