@@ -391,16 +391,21 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 **Dates seen:** late May to early June 2019
 
-**Habitat:** damp meadows, scrub
+**Habitat:** widespread - grassland, scrub, deciduous woodland
 
 **Identification:** 
-* entirely green, 20-60cm tall
-* whitetish hairs on stem, 
-* two large paired leaves at ground level
+* stem entirely green, 20-60cm tall, whitetish hairs
+* two large paired leaves at ground level, with distinct veins
+* bracts 3 to 5cm long
+* 20 to 80 flowers, yellowy-green, sepals and petals oval curving into loose hood
+* labellum pendant, 7 to 15mm long, tip divided into two elongated lobes
+* globular ovary
 
-**Classification:** ?
+**Pollination:** pollinated by numerous insects (due to abundant nectar).
 
-**UK Distribution:** Throughout the UK
+**Classification:** Least concern
+
+**Distribution:** Throughout UK
 
 ## **Birds Nest Orchid** (*Neottia nidus-avis*)
 The Bird's-nest orchid is leafless and without the green chlorophyll of other plants that enable them to gain energy from sunlight through photosynthesis; instead, it grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
