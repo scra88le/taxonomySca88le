@@ -383,8 +383,6 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 ![Twayblade]({{ site.baseurl }}/images/tway1.JPG)
 ![Twayblade]({{ site.baseurl }}/images/tway2.JPG)
 
-**Sub-family:** Epidendroideae
-
 **Genus:** Neottia
 
 **Species:** N. ovata
@@ -394,6 +392,11 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 **Dates seen:** late May to early June 2019
 
 **Habitat:** damp meadows, scrub
+
+**Identification:** 
+* entirely green, 20-60cm tall
+* whitetish hairs on stem, 
+* two large paired leaves at ground level
 
 **Classification:** ?
 
@@ -729,7 +732,6 @@ Distingushing hybrids from parents at Hartslock
 **Classification:** ?
 
 **UK Distribution:** 
-
 
 # Neotinea
 
