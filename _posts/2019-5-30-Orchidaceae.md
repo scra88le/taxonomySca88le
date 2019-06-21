@@ -67,9 +67,6 @@ The species recorded, by genera, is as follows:
 ![White Helleborine]({{ site.baseurl }}/images/whitehell1.JPG)
 ![White Helleborine]({{ site.baseurl }}/images/whitehell2.JPG)
 
-
-**Sub-family:** Epidendroideae
-
 **Genus:** Cephalanthera
 
 **Species:** C. damasonium
@@ -78,71 +75,79 @@ The species recorded, by genera, is as follows:
 
 **Dates seen:** mid to late May 2019
 
-**Habitat:** Margins of chalk-grassland, calcareous solis in small beech wood.
+**Habitat:** shaded margins of calcareous woodland, mostly beech woods (the plant is rhizomatous)
 
-**Identification:**
+**Identification:** 
+* plant is 15 to 40cm tall
+* 2 to 5 oval to lanceolate leaves
+* leafy bracts
+* flowers whitetish yellow and egged shaped, almost closed and erect, no scent
 
-**Polination:** 
+**Pollination:** largely self pollinated
 
 **UK Classification:** Vulnerable
 
-**UK Distribution:** Southern England
+**UK Distribution:** Southern England but not abundant
 
- Seen on the margins of or within chalk beechwoods at Hatlock and Warburg in shade or semi shade. The species recorded were typically no higher than 30cm. The eggshaped flowers are creamy white, with no distinctive scent. It is differentiated from the similar and closely related Cephalanthera longifolia, by comparing the leaves.
 
 ## **Red Helleborine** (*Cephalanthera rubra*)
 
 ![Red Helleborine]({{ site.baseurl }}/images/redhell1.JPG)
 ![Red Helleborine]({{ site.baseurl }}/images/redhell2.JPG)
 
-
-**Sub-family:** Epidendroideae
-
 **Genus:** Cephalanthera
 
 **Species:** C. rubra
 
-**Location:** Picos
+**Location:** near Lebeña, Picos de Europa
 
 **Dates seen:** early June 2019
 
 **Habitat:** scrub in woodland magin, on steep limestone gorge 
 
 **Identification:**
+* plant is 15 to 60cm tall, spindly stem with greyish hairs
+* 2 to 8 narrow oval to lancelot leaves
+* upper bracts shorter than flowers
+* up to 20 flowers, slightly open, bright pink, spreading laterals, dorsal lobe curving over petals
+* subsessile overy
 
-**Polination:** 
+**Pollination:** mostly autogamously
 
-**UK Classification:** 
+**UK Classification:** Critically Endangered
 
-**UK Distribution:** 
+**UK Distribution:** Southern England
 
 # Coeloglossum
+Coeloglossum is thought to have only one species, *Coeloglossum viride*, the frog orchid. Recent classifications regard *Coeloglossum* as part of the larger genus, *Dactylorhiza*, so that C. viride becomes *Dactylorhiza viridis*.
 
 ## **Frog Orchid** (*Coeloglossum viride*)
 
 ![White Helleborine]({{ site.baseurl }}/images/frog1.JPG)
 ![White Helleborine]({{ site.baseurl }}/images/frog2.JPG)
 
-
-**Sub-family:** 
-
 **Genus:** Coeloglossum
 
 **Species:** C. viride
 
-**Location:** Picos
+**Location:** Bejes, Picos de Europa
 
 **Dates seen:** early June 2019
 
-**Habitat:** damp north facing meadow above 1000m
+**Habitat:** damp meadow above 1000m, slightly acidic soils
 
 **Identification:**
+* plant is 5 to 15cm tall
+* 3 to 5 leaves, unspotted, suberect
+* bract legth exceeding flowers
+* 5 to 25 flowers, oval-triangular sepals green, sometimes purple
+* pendant like labellum, three lobes at tip
 
-**Polination:** 
+**Pollination:** bees and small wasps, or autogamously
 
-**UK Classification:** 
+**UK Classification:** Vulnerable
 
-**UK Distribution:** 
+**UK Distribution:** UK wide, but not abundant
 
 # Dactylorhiza
 
@@ -749,7 +754,7 @@ Distingushing hybrids from parents at Hartslock
 
 **Genus:** Neotinea
 
-**Species:** N. ustulata
+**Species:** N. ustulata (symnonym  *Orchis ustulata*)
 
 **Location:** 
 
