@@ -61,6 +61,7 @@ Each species recorded below has the following information:
 The species recorded, by genera, is as follows:
 
 # Cepalanthera
+This genus have rhizomes rather than tubers. About 15 species are currently recognized, most of them native to Europe and Asia. Common names for some European often include *helleborine*, thought orchids in other genera such as *Epipactis* are also called helleborine.
 
 ## **White Helleborine** (*Cephalanthera damasonium*)
 
@@ -87,8 +88,7 @@ The species recorded, by genera, is as follows:
 
 **UK Classification:** Vulnerable
 
-**UK Distribution:** Southern England but not abundant
-
+**UK Distribution:** Southern England, but not abundant
 
 ## **Red Helleborine** (*Cephalanthera rubra*)
 
@@ -116,7 +116,7 @@ The species recorded, by genera, is as follows:
 
 **UK Classification:** Critically Endangered
 
-**UK Distribution:** Southern England
+**UK Distribution:** Southern England, but not abundant
 
 # Coeloglossum
 Coeloglossum is thought to have only one species, *Coeloglossum viride*, the frog orchid. Recent classifications regard *Coeloglossum* as part of the larger genus, *Dactylorhiza*, so that C. viride becomes *Dactylorhiza viridis*.
@@ -159,8 +159,6 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 
 **Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. The Common Spotted can grow to a height of 60cm, but typically smaller than this.
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Dactylorhiza 
 
 **Species:** D. fuchsii
@@ -171,11 +169,11 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 
 **Habitat:** highly variable: woodland, dry grassland, wet meadows, marshes, dune slacks and human-made habitats
 
-**Conservation Status:** Common
+**Pollination:**
+
+**UK Classification:** Common
 
 **UK Distribution:** UK wide, except the Scottish Highlands
-
-**Polination:** ?
 
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
 Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May.  
@@ -334,6 +332,8 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 # Gymnadenia 
 
 ## Fragrant Orchid (*Gymnadenia conopsea*)
+
+Should be marked as chalk fragrant?
 
 ![Fragrant]({{ site.baseurl }}/images/fragrant1.JPG)
 ![Fragrant]({{ site.baseurl }}/images/fragrant2.JPG)
@@ -619,11 +619,6 @@ The shape of the labellum is distinct between the Monkey, Military and Lady orch
 ![Lady]({{ site.baseurl }}/images/lady1.JPG)
 ![Lady]({{ site.baseurl }}/images/lady2.JPG)
 
-Distingushing hybrids from parents at Hartslock
-
-
-**Sub-family:** Orchidoideae
-
 **Genus:** Orchis
 
 **Species:** O. purpurea
@@ -637,6 +632,46 @@ Distingushing hybrids from parents at Hartslock
 **Classification:** ?
 
 **UK Distribution:** Southern England
+
+## **Monkey Orchid** (*Orchis purpurea*)
+
+![Monkey]({{ site.baseurl }}/images/monkey1.JPG)
+![Monkey]({{ site.baseurl }}/images/monkey2.JPG)
+
+**Genus:** Orchis
+
+**Species:** O. simia
+
+**Location:** Hartlock BBWOT reserve
+
+**Dates seen:** mid to late May 2019
+
+**Habitat:** Chalk grassland meadow
+
+**Classification:** ?
+
+**UK Distribution:** Southern England
+
+## **Lady x Monkey Orchid** (*Orchis x angusticrucis*)
+
+Distingushing hybrids from parents at Hartslock
+
+![LadyxMonkey]({{ site.baseurl }}/images/ladymonkey1.JPG)
+![LadyxMonkey]({{ site.baseurl }}/images/ladymonkey2.JPG)
+
+**Genus:** Orchis
+
+**Species:** Orchis x angusticrucis (aka. *O.purpurea x O.simia*)
+
+**Location:** Hartslock
+
+**Dates seen:** early May 2019
+
+**Habitat:** chalk grassland
+
+**Classification:** ?
+
+**UK Distribution:** 
 
 ## **Pink Butterfly Orchid** (*Orchis papilionacea*)
 
@@ -727,8 +762,6 @@ Distingushing hybrids from parents at Hartslock
 ![Man]({{ site.baseurl }}/images/man1.JPG)
 ![Man]({{ site.baseurl }}/images/man2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Orchis
 
 **Species:** O. anthropophora
@@ -750,13 +783,11 @@ Distingushing hybrids from parents at Hartslock
 ![BurntTip]({{ site.baseurl }}/images/burnt1.JPG)
 ![BurntTip]({{ site.baseurl }}/images/burnt2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Neotinea
 
 **Species:** N. ustulata (symnonym  *Orchis ustulata*)
 
-**Location:** 
+**Location:** Knocking Hoe
 
 **Dates seen:** late May 2019
 
@@ -772,8 +803,6 @@ Distingushing hybrids from parents at Hartslock
 
 ![GreaterButterly]({{ site.baseurl }}/images/greaterbutt1.JPG)
 ![GreaterButterly]({{ site.baseurl }}/images/greaterbutt2.JPG)
-
-**Sub-family:** Orchidoideae
 
 **Genus:** Platanthera
 
@@ -794,8 +823,6 @@ Distingushing hybrids from parents at Hartslock
 ![LesserButterly]({{ site.baseurl }}/images/lesserbutt1.JPG)
 ![LesserButterly]({{ site.baseurl }}/images/lesserbutt2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Platanthera
 
 **Species:** P. biofolia
@@ -812,6 +839,27 @@ Distingushing hybrids from parents at Hartslock
 
 # Serapias
 
+## **Heart-flowered Orchid** (*Platanthera bifolia*)
+
+![HeartFlowered]({{ site.baseurl }}/images/heart1.JPG)
+![HeartFlowered]({{ site.baseurl }}/images/heart2.JPG)
+
+**Genus:** Serapias
+
+**Species:** S. cordigera
+
+**Location:** Picos (Liencres)
+
+**Dates seen:** early June 2019
+
+**Habitat:** sand dunes
+
+**Classification:** 
+
+
+**UK Distribution:** 
+
+The sepals and petals are brownish-purple with dark stripes. The central lobe is darker, heart shaped, 20-35 mm long, and has two black lumps near the base.
 
 # Epidendroideae
 The Epidendroideae subfamily is the largest of all the orchid subfamilies, comprising more than 15,000 species in 576 genera. This subfamily contains genera that are epiphytes
@@ -827,6 +875,9 @@ References
 [Orchid Observers identification guide](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/orchid-observers/orchid-observers-id-guide.pdf)
 
 [A begineer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
+
+https://www.ghostorchidproject.co.uk/
+
 
 [bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
 [hl link]: https://hartslock.org.uk/blog/
