@@ -254,6 +254,27 @@ The white and yellow variant:
 
 **UK Distribution:** Not found. Seen in northern Spain
 
+## **Southern Marsh Orchid** (*Dactylorhiza praetermissa*)
+
+![SouthernMarsh]({{ site.baseurl }}/images/southernmarsh1.JPG)
+![SouthernMarsh]({{ site.baseurl }}/images/southernmarsh2.JPG)
+
+**Identification:** 
+
+**Genus:** Dactylorhiza 
+
+**Species:** D. praetermissa
+
+**Location:** Dry Sandford Pit BBWOT Reserve
+
+**Dates seen:** late June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** 
+
 ## **Sicillian Orchid** (*Dactylorhiza markusii*)
 
 ![Sicillian]({{ site.baseurl }}/images/markusii1.JPG)
@@ -328,6 +349,26 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 
 ## Marsh Helleborine (*Epipactis palustris*)
+
+![MarshHelleborine]({{ site.baseurl }}/images/marshhell1.JPG)
+![MarshHelleborine]({{ site.baseurl }}/images/marshhell2.JPG)
+
+**Identification:** 
+
+
+**Genus:** Epipactis
+
+**Species:** E. palustris
+
+**Location:** Dry Sandford Pit BBOWT Reserve
+
+**Dates seen:** early June 2019
+
+**Habitat:** 
+
+**Conservation Status:** ?
+
+**UK Distribution:** 
 
 # Gymnadenia 
 
@@ -435,7 +476,6 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 **Classification:** ?
 
 **UK Distribution:** Southern England
-
 
 # Nigritella
 
@@ -673,6 +713,25 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** 
 
+## **Military Orchid** (*Orchis *)
+
+![LadyxMonkey]({{ site.baseurl }}/images/military1.JPG)
+![LadyxMonkey]({{ site.baseurl }}/images/military2.JPG)
+
+**Genus:** Orchis
+
+**Species:** Orchis 
+
+**Location:** Homefield Woods
+
+**Dates seen:** early May 2019
+
+**Habitat:** chalk grassland
+
+**Classification:** ?
+
+**UK Distribution:** 
+
 ## **Pink Butterfly Orchid** (*Orchis papilionacea*)
 
 ![PinkButterfly]({{ site.baseurl }}/images/pinkbutt1.JPG)
@@ -839,7 +898,7 @@ Distingushing hybrids from parents at Hartslock
 
 # Serapias
 
-## **Heart-flowered Orchid** (*Platanthera bifolia*)
+## **Heart-flowered Orchid** (*Serapias cordigera*)
 
 ![HeartFlowered]({{ site.baseurl }}/images/heart1.JPG)
 ![HeartFlowered]({{ site.baseurl }}/images/heart2.JPG)
@@ -856,16 +915,47 @@ Distingushing hybrids from parents at Hartslock
 
 **Classification:** 
 
-
 **UK Distribution:** 
 
 The sepals and petals are brownish-purple with dark stripes. The central lobe is darker, heart shaped, 20-35 mm long, and has two black lumps near the base.
 
-# Epidendroideae
-The Epidendroideae subfamily is the largest of all the orchid subfamilies, comprising more than 15,000 species in 576 genera. This subfamily contains genera that are epiphytes
+## **Tongue Orchid** (*Serapias linuga*)
 
+![Tongue]({{ site.baseurl }}/images/tongue1.JPG)
+![Tongue]({{ site.baseurl }}/images/tongue2.JPG)
 
+**Genus:** Serapias
 
+**Species:** S. lingua
+
+**Location:** Picos 
+
+**Dates seen:** early June 2019
+
+**Habitat:** meadows
+
+**Classification:** 
+
+**UK Distribution:** 
+
+## **Serapias x ambigua **
+
+![Ambigua]({{ site.baseurl }}/images/ambigua1.JPG)
+![Ambigua]({{ site.baseurl }}/images/ambigua2.JPG)
+
+**Genus:** Serapias
+
+**Species:** S. x ambigua
+
+**Location:** Picos 
+
+**Dates seen:** early June 2019
+
+**Habitat:** meadows
+
+**Classification:** 
+
+**UK Distribution:** 
 
 
 References
@@ -877,6 +967,9 @@ References
 [A begineer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
 
 https://www.ghostorchidproject.co.uk/
+
+Acknowledgements
+================
 
 
 [bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
