@@ -66,6 +66,8 @@ I also had a one week field trip to the Picos de Europa mountain range in northe
 * Vañes, Palencia
 * Lebeña, Cantabria
 
+---------------------
+
 # Cepalanthera
 This genus have rhizomes rather than tubers. About 15 species are currently recognized, most of them native to Europe and Asia. Common names for some European often include *helleborine*, though orchids in other genera such as *Epipactis* are also called helleborine.
 
