@@ -8,20 +8,21 @@ The taxonomy of the *Orchidaceae* has evolved slowly during the last 250 years, 
 
 There are currently five recognised subfamilies (comprising 22 tribes, 70 subtribes):
 
-* Apostasioideae - only two genera and 15 species are recognised within the Apostasioideae
+* Apostasioideae - only two genera and 15 species are recognised within the Apostasioideae. They thought to be the basal lineage for the Orchid family
 * Cypripedioideae - have five genera and 165 species which together comprise the slipper orchids
-* Orchidoideae - typically single stamen (monanadrous) plants of x genera and y species
+* Orchidoideae - typically single stamen (monanadrous) terrestrial plants, with tubers or rhizomes, of around 62 genera and 3200 species
 * Epidendroideae - the largest subfamily by far, with 576 genera and 15,000 species. Most are ephiphytes or parasitic upon mycorrhizal fungi
 * Vanilloideae - their distribution is pantropical, throughout Asia, Australia and the Americas and comprises 15 genera and around 180 species.
 
-The UK species are all within the Orchidoideae and Epidendroideae subfamilies, with a single species *Cypripedium calceolus* (more commonly known as Lady's Slipper), in the Cypripedioideae family.
-
-The type genus for the family is *Orchis*, which is within the sub-family *Orchidoideae*. 
+All UK species are within the Orchidoideae and Epidendroideae subfamilies, with a single species *Cypripedium calceolus* (more commonly known as Lady's Slipper), in the Cypripedioideae family. The type genus for the Orchidaceae family is *Orchis*, which is within the sub-family *Orchidoideae*. 
 
 
 # Orchid anatomy
 Orchids belong to the Monocotyledons, in that they have a single leaf (cotyledon) at germination. Their leaves are tyically simple, with parallel veins
 
+
+# Collecting Specimens
+From May to September of 2019 I visited a number of BBWOT (Berkshire, Buckinghamshire and Oxfordshire) nature reserves to photograph native UK speices. I also took a holiday in the Picos de Europa in early June. This area is renowned within Europe for a high density of Orchid specimens.
 
 ## BBOWT Sites
 
@@ -37,8 +38,9 @@ The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire we
 * **[Bald Hill][bh link], Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly
 * **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip
 * **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
+* **[Dry Sandford Pit][ds link], Dry Sandford** - Marsh Helleborine, Southern Marsh and Common Spotted
 
-## Picos de Europa sites
+## Picos de Europa Sites
 
 I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east in the xxx plains. The following sites were visited:
 
@@ -720,14 +722,14 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** 
 
-## **Military Orchid** (*Orchis *)
+## **Military Orchid** (*Orchis militaris*)
 
-![LadyxMonkey]({{ site.baseurl }}/images/military1.JPG)
-![LadyxMonkey]({{ site.baseurl }}/images/military2.JPG)
+![Military]({{ site.baseurl }}/images/military1.JPG)
+![Military]({{ site.baseurl }}/images/military2.JPG)
 
 **Genus:** Orchis
 
-**Species:** Orchis 
+**Species:** O. militaris
 
 **Location:** Homefield Woods
 
