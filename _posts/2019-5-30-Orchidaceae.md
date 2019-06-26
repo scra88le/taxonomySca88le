@@ -1027,7 +1027,7 @@ References
 Acknowledgements
 ================
 
-I would like to acknowledge the help and amazing breadth of knowledge of [Teresa Farino](http://www.iberianwildlife.com/teresa-farino.htm), the Gilbert White of the Picos. Also Dr Andrew Lack for his help in indentification of the Marsh Orchids.
+I would like to acknowledge the help and knowledge of [Teresa Farino](http://www.iberianwildlife.com/teresa-farino.htm), the Gilbert White of the Picos. Also Dr Andrew Lack for his help in indentification of the Marsh Orchids.
 
 
 [bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
