@@ -37,7 +37,7 @@ Each species recorded in the sections below has the following information:
 ## Other data
 * Identification - what are the distinguishing morphological features that allow identification
 * Polination - how is the plant typically polinated
-* UK classification - what is the current conservation status of the species
+* UK classification - what is the current conservation status of the species according to the *Vascular Plant Red Data List for Great Britain*
 * UK distribution - where within the UK is the species typically found
 
 ## BBOWT Sites
@@ -204,23 +204,24 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 **Species:** D. incarnata
 
-**Location:** Pixey Mead, Lye Valley
+**Location:** Pixey Mead
 
 **Dates seen:** late May to June 2019
 
-**Habitat:** Wet meadows, marsh
+**Habitat:** Wet (not improved) meadows and marsh that are alkaline
 
 **Identification:**
-* unmarked, slender leaves
-* flowers are flesh pink colour,
+* 4 to 8 unmarked, slender leaves with hooded tips
+* flowers are flesh pink colour, bracts clearly exceed flowers
 * the lateral sepals are held upwards, like donkey's ears
+* lip has three shallow lobes, with sides strongly bent downwards
 * note there are five subspecies of *incarnata*
 
 **Pollination:** variety of insects
 
-**UK Classification:** ?
+**UK Classification:** Least Concern
 
-**UK Distribution:** ?
+**UK Distribution:** widely across UK
 
 ## **Elder Flowered Orchid** (*Dactylorhiza sambucina*)
 
@@ -234,8 +235,6 @@ The white and yellow variant:
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower3.JPG)
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower4.JPG)
 
-**Identification:** 
-
 **Genus:** Dactylorhiza 
 
 **Species:** D. sambucina
@@ -244,18 +243,23 @@ The white and yellow variant:
 
 **Dates seen:** early June 2019
 
-**Habitat:** 
+**Habitat:** likes full sun, unimproved grassland, always in mountains upto 2,500m
 
-**Conservation Status:** ?
+**Identification:** 
+* 10 to 30cm tall, stem thick and hollowed out
+* 4 to 7 lanceolate leaves
+* flowers yellow or red
+* lateral sepals erect, labellum trilobed and slightly convex
+* elder-flower scented
 
-**UK Distribution:** Not found. Seen in northern Spain
+**UK Classification:** NA.
 
-## **Spotted Heath Orchid** (*Dactylorhiza maculata*)
+**UK Distribution:** NA.
+
+## **Heath spotted Orchid** (*Dactylorhiza maculata*)
 
 ![Sicillian]({{ site.baseurl }}/images/spotheath1.JPG)
 ![Sicillian]({{ site.baseurl }}/images/spotheath2.JPG)
-
-**Identification:** 
 
 **Genus:** Dactylorhiza 
 
@@ -265,11 +269,19 @@ The white and yellow variant:
 
 **Dates seen:** early June 2019
 
-**Habitat:** 
+**Habitat:** acid soils (unusually for UK species), heathland and marsh
 
-**Conservation Status:** ?
+**Identification:** 
+* 20 to 60cm tall, with 4 to 10 ten lanceolate leaves
+* short bracts
+* 15 to 50 pale white to pinkish flowers , lateral sepals
+* labellum triloed to subentire, flat or slightly convex, with light purple spots
 
-**UK Distribution:** Not found. Seen in northern Spain
+**Pollination:** bees and flies
+
+**UK Classification:** Least Concern
+
+**UK Distribution:** Widely distributed in the west and north of Britain. Less common in South East.
 
 ## **Southern Marsh Orchid** (*Dactylorhiza praetermissa*)
 
@@ -988,6 +1000,10 @@ References
 [A begineer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
 
 [The UK Ghost Orchid Project](https://www.ghostorchidproject.co.uk/)
+
+[ICUN Red List of Threatened Species](https://www.iucnredlist.org/)
+
+[Vascular Plant Red Data List for Great Britain](http://jncc.defra.gov.uk/pdf/pub05_speciesstatusvpredlist3_web.pdf)
 
 Acknowledgements
 ================
