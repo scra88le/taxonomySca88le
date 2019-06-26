@@ -294,7 +294,7 @@ The white and yellow variant:
 
 **Species:** D. praetermissa
 
-**Location:** Dry Sandford Pit BBWOT Reserve
+**Location:** Dry Sandford Pit BBWOT Reserve, Picos
 
 **Dates seen:** late June 2019
 
@@ -401,6 +401,8 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 **UK Distribution:** 
 
+---------------
+
 # Gymnadenia 
 
 ## Fragrant Orchid (*Gymnadenia conopsea*)
@@ -428,6 +430,8 @@ Should be marked as chalk fragrant?
 
 **UK Distribution:** 
 
+----------
+
 # Himantoglossum
 
 ## Lizard Orchid (*Himantoglossum hircinum*)
@@ -452,6 +456,8 @@ Should be marked as chalk fragrant?
 **Conservation Status:** ?
 
 **UK Distribution:** 
+
+--------------
 
 # Neottia 
 
@@ -508,6 +514,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **UK Distribution:** Southern England
 
+-----------
+
 # Nigritella
 
 ## **Black Vanilla Orchid** (*Nigritella nigra*)
@@ -530,6 +538,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 **Classification:** ?
 
 **UK Distribution:** 
+
+--------------
 
 # Ophrys
 
@@ -659,6 +669,8 @@ Likes insects! Slender plant with deep red flowers
 **Classification:** 
 
 **UK Distribution:** 
+
+-----------
 
 # Orchis
 
@@ -866,6 +878,8 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** 
 
+-------------
+
 # Neotinea
 
 ## **Burnt-tip Orchid** (*Neotinea ustulata*)
@@ -886,6 +900,8 @@ Distingushing hybrids from parents at Hartslock
 **Classification:** Red - Endangered & Critically Endangered
 
 **UK Distribution:** 
+
+------------
 
 # Platanthera
 
@@ -926,6 +942,8 @@ Distingushing hybrids from parents at Hartslock
 **Classification:** 
 
 **UK Distribution:** 
+
+--------------
 
 # Serapias
 
@@ -988,6 +1006,7 @@ The sepals and petals are brownish-purple with dark stripes. The central lobe is
 
 **UK Distribution:** 
 
+------------
 
 References
 ==========
@@ -1007,6 +1026,8 @@ References
 
 Acknowledgements
 ================
+
+I would like to acknowledge the help and amazing breadth of knowledge of [Teresa Farino](http://www.iberianwildlife.com/teresa-farino.htm), the Gilbert White of the Picos. Also Dr Andrew Lack for his help in indentification of the Marsh Orchids.
 
 
 [bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
