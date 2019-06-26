@@ -18,7 +18,7 @@ All UK species are within the Orchidoideae and Epidendroideae subfamilies, with 
 
 
 # Orchid Anatomy
-* Roots - terrestrial orchids may have rhizomes or tubers. Some terrestrial orchids have two subterranean tubers; one beinf used as a food reserve for winter. Epiphytic orchids have aerial roots that can be several meters long.
+* Roots - terrestrial orchids may have rhizomes or tubers. Some terrestrial orchids have two subterranean tubers; one being used as a food reserve for winter. *Epiphytic* orchids have aerial roots that can be several meters long.
 * Leaves - all Orchids are monocots, in that they have a single leaf (cotyledon) that are simple with parallel veins. Leaves may be ovate, lanceolate or orbiulate. Note that Orchids of the genus *Corallorhiza* (Coralroot orchids) lack leaves altogether, and instead form are a parasite on the roots of mature trees and use specialized fungi to harvest sugars.
 * Flowers - the flowers of orchids are bilaterally symmetrical and therefore orchids found in Europe are typically made up of three sepals and three petals, where one petal being distrinctly different from the others in that it forms a lip. The lip often being highly decorated or of a very different shape to the other petals. The lip (or labellum) is actually the upper medial petal; as the flower develops, the inferior ovary usually rotates 180°
 
@@ -126,6 +126,8 @@ This genus have rhizomes rather than tubers. About 15 species are currently reco
 
 **UK Distribution:** Southern England, but not abundant
 
+---------------------
+
 # Coeloglossum
 Coeloglossum is thought to have only one species, *Coeloglossum viride*, the frog orchid. Recent classifications regard *Coeloglossum* as part of the larger genus, *Dactylorhiza*, so that C. viride becomes *Dactylorhiza viridis*.
 
@@ -157,7 +159,10 @@ Coeloglossum is thought to have only one species, *Coeloglossum viride*, the fro
 
 **UK Distribution:** UK wide, but not abundant
 
+---------------
+
 # Dactylorhiza
+Plants in the *Dactylorhiza* are hardy tuberous geophytes. They typically have long lanceolate leaves which are often also speckled, with an inflorescence consisting of 25 to 50 . The flowers are typically white or shades of pink to red. The name Dactylorhiza derives from daktylos = finger and rhiza = root
 
 ## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
 D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where various specimens started to emerge as of late May. 
@@ -171,27 +176,29 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 
 **Species:** D. fuchsii
 
-**Location:** Homefield Woods
+**Location:** Lye Vally, Homefield Woods
 
 **Dates seen:** late May to July 2019
 
 **Habitat:** highly variable: woodland, dry grassland, wet meadows, marshes, dune slacks and human-made habitats
 
-**Pollination:**
+**Identification:**
+* height up to 65cm, green leaves, marked with solid dark spots
+* flowers pink to pale white, lateral asymmetric sepals are horizontal, with lines and spots
+* labellum divided into three lobes, central lobe longer and triangular
+* mildly scented 
 
-**UK Classification:** Common
+**Pollination:** variety of insects
+
+**UK Classification:** Least Concern
 
 **UK Distribution:** UK wide, except the Scottish Highlands
 
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
-Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May.  
+Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May. Incarnate is similar to the Southern Marsh; but this is typically a larger plant, with larger flowers that are a darker pink.  
 
 ![Early Marsh]({{ site.baseurl }}/images/earlymarsh1.JPG)
 ![Early Marsh]({{ site.baseurl }}/images/earlymarsh2.JPG)
-
-**Identification:** 
-
-**Sub-family:** Orchidoideae
 
 **Genus:** Dactylorhiza 
 
@@ -201,9 +208,17 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 **Dates seen:** late May to June 2019
 
-**Habitat:** Wet meadows
+**Habitat:** Wet meadows, marsh
 
-**Conservation Status:** ?
+**Identification:**
+* unmarked, slender leaves
+* flowers are flesh pink colour,
+* the lateral sepals are held upwards, like donkey's ears
+* note there are five subspecies of *incarnata*
+
+**Pollination:** variety of insects
+
+**UK Classification:** ?
 
 **UK Distribution:** ?
 
@@ -220,8 +235,6 @@ The white and yellow variant:
 ![Elder Flowered]({{ site.baseurl }}/images/elderflower4.JPG)
 
 **Identification:** 
-
-**Sub-family:** Orchidoideae
 
 **Genus:** Dactylorhiza 
 
@@ -243,8 +256,6 @@ The white and yellow variant:
 ![Sicillian]({{ site.baseurl }}/images/spotheath2.JPG)
 
 **Identification:** 
-
-**Sub-family:** Orchidoideae
 
 **Genus:** Dactylorhiza 
 
@@ -303,6 +314,8 @@ The white and yellow variant:
 **Conservation Status:** ?
 
 **UK Distribution:** Not found. Seen in northern Spain
+
+-----------
 
 # Epipactis
 Epipactis is a genus consisting of approximately 70 species. These orchids grow in open spaces in forests, in undergrowth, on calcareous soils and are often found in wet dune-slacks near the sea.
