@@ -3,7 +3,25 @@ layout: post
 title: Taxonomy of the Orchidaceae
 ---
 
-The taxonomy of the Orchidaceae has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. 
+# Orchid Taxonomy
+The taxonomy of the *Orchidaceae* has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. Whilst there are 50 or so native speices within Britain and Ireland (36 of which are found within Berkshire, Buckinghamshire and Oxfordshire), there are now thought to be currently around 28,000 accepted species worlwide, distributed amongst some 900 genera. Orchid taxonomy is still being revised and each year approximately 150 new species are discovered. 
+
+There are currently five recognised subfamilies (comprising 22 tribes, 70 subtribes):
+
+* Apostasioideae - only two genera and 15 species are recognised within the Apostasioideae
+* Cypripedioideae - have five genera and 165 species which together comprise the slipper orchids
+* Orchidoideae - typically single stamen (monanadrous) plants of x genera and y species
+* Epidendroideae - the largest subfamily by far, with 576 genera and 15,000 species. Most are ephiphytes or parasitic upon mycorrhizal fungi
+* Vanilloideae - their distribution is pantropical, throughout Asia, Australia and the Americas and comprises 15 genera and around 180 species.
+
+The UK species are all within the Orchidoideae and Epidendroideae subfamilies, with a single species *Cypripedium calceolus* (more commonly known as Lady's Slipper), in the Cypripedioideae family.
+
+The type genus for the family is *Orchis*, which is within the sub-family *Orchidoideae*. 
+
+
+# Orchid anatomy
+Orchids belong to the Monocotyledons, in that they have a single leaf (cotyledon) at germination. Their leaves are tyically simple, with parallel veins
+
 
 ## BBOWT Sites
 
@@ -24,22 +42,13 @@ The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire we
 
 I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east in the xxx plains. The following sites were visited:
 
-* Liencres dunes
-* Bejes meadows
-* Cervera de Pisuergina
-* La Rasilla
-* Vanes
-* Lebena
+* Liencres dunes, Cantabria
+* Bejes meadows, Cantabria
+* Cervera de Pisuergina, Palencia
+* Vañes, Palencia
+* Lebeña, Cantabria
 
-According to *Dressler* there are currently five subfamilies, 22 tribes, 70 subtribes, and about 850 genera of orchids. The orchid subfamilies are:
-
-* Apostasioideae
-* Cypripedioideae
-* Orchidoideae
-* Epidendroideae
-* Vanilloideae
-
-The UK species are all within the Orchidoidaea and Epidendroideae subfamilies. The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019. 
+ The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019. 
 
 Each species recorded below has the following information:
 
@@ -180,8 +189,6 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 ![Early Marsh]({{ site.baseurl }}/images/earlymarsh1.JPG)
 ![Early Marsh]({{ site.baseurl }}/images/earlymarsh2.JPG)
-![Early Marsh]({{ site.baseurl }}/images/earlymarsh3.JPG)
-![Early Marsh]({{ site.baseurl }}/images/earlymarsh4.JPG)
 
 **Identification:** 
 
@@ -960,13 +967,15 @@ The sepals and petals are brownish-purple with dark stripes. The central lobe is
 
 References
 ==========
+[Wikipedia entry on the Orchidaceae](https://en.wikipedia.org/wiki/Orchidaceae)
+
 [John and Gerry's Orchids of Britain and Europe](http://www.orchidsofbritainandeuropetest.uk/index.htm)
 
 [Orchid Observers identification guide](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/orchid-observers/orchid-observers-id-guide.pdf)
 
 [A begineer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
 
-https://www.ghostorchidproject.co.uk/
+[The UK Ghost Orchid Project](https://www.ghostorchidproject.co.uk/)
 
 Acknowledgements
 ================
