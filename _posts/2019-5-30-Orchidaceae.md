@@ -4,45 +4,45 @@ title: Taxonomy of the Orchidaceae
 ---
 
 # Orchid Taxonomy
-The taxonomy of the *Orchidaceae* has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. Whilst there are 50 or so native speices within Britain and Ireland (36 of which are found within Berkshire, Buckinghamshire and Oxfordshire), there are now thought to be currently around 28,000 accepted species worlwide, distributed amongst some 900 genera. Orchid taxonomy is still being revised and each year approximately 150 new species are discovered. 
+The taxonomy of the *Orchidaceae* has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. Whilst there are 50 or so native speices within Britain and Ireland, 36 of which are found within Berkshire, Buckinghamshire and Oxfordshire. Worldwide there are thought to be around 28,000 accepted species, distributed amongst some 900 genera. Orchid taxonomy is still actively being revised and each year approximately 150 new species are discovered. 
 
-There are currently five recognised subfamilies (comprising 22 tribes, 70 subtribes):
+There are currently five recognised subfamilies, comprising 22 tribes, 70 subtribes:
 
-* *Apostasioideae* - only two genera and 15 species are recognised within the Apostasioideae. They thought to be the basal lineage for the Orchid family
-* *Cypripedioideae* - have five genera and 165 species which together comprise the slipper orchids
-* *Orchidoideae* - typically single stamen (monanadrous) terrestrial plants, with tubers or rhizomes, of around 62 genera and 3200 species
-* *Epidendroideae* - the largest subfamily by far, with 576 genera and 15,000 species. Most are ephiphytes or parasitic upon mycorrhizal fungi
-* *Vanilloideae* - their distribution is pantropical, throughout Asia, Australia and the Americas and comprises 15 genera and around 180 species.
+* *Apostasioideae* - only two genera and 15 species are recognised within the Apostasioideae, they are thought to be the basel lineage for the Orchid family
+* *Cypripedioideae* - five genera and 165 species, this group is known as the slipper orchids
+* *Orchidoideae* - typically single stamen terrestrial plants, with tubers or rhizomes, of around 62 genera and 3200 species
+* *Epidendroideae* - the largest subfamily by far, with 576 genera and 15,000 species; most are ephiphytes or parasitic upon mycorrhizal fungi
+* *Vanilloideae* - there are 15 genera and around 180 species whose distribution is pantropical, throughout Asia, Australia and the Americas 
 
-All UK species are within the Orchidoideae and Epidendroideae subfamilies, with a single species *Cypripedium calceolus* (more commonly known as Lady's Slipper), in the Cypripedioideae family. The type genus for the Orchidaceae family is *Orchis*, which is within the sub-family *Orchidoideae*. 
+All UK species are within the Orchidoideae and Epidendroideae subfamilies, with a single species *Cypripedium calceolus*, commonly known as Lady's Slipper, in the Cypripedioideae family. The type genus for the Orchidaceae family is *Orchis*, which is within the sub-family *Orchidoideae*. 
 
 
 # Orchid Anatomy
-* Roots - terrestrial orchids may have rhizomes or tubers. Some terrestrial orchids have two subterranean tubers; one being used as a food reserve for winter. *Epiphytic* orchids have aerial roots that can be several meters long.
-* Leaves - all Orchids are monocots, in that they have a single leaf (cotyledon) that are simple with parallel veins. Leaves may be ovate, lanceolate or orbiulate. Note that Orchids of the genus *Corallorhiza* (Coralroot orchids) lack leaves altogether, and instead form are a parasite on the roots of mature trees and use specialized fungi to harvest sugars.
-* Flowers - the flowers of orchids are bilaterally symmetrical and therefore orchids found in Europe are typically made up of three sepals and three petals, where one petal being distrinctly different from the others in that it forms a lip. The lip often being highly decorated or of a very different shape to the other petals. The lip (or labellum) is actually the upper medial petal; as the flower develops, the inferior ovary usually rotates 180°
+* Roots - terrestrial orchids may have rhizomes or tubers. Some terrestrial orchids have two subterranean tubers; one being used as a food reserve for winter. Epiphytic orchids have aerial roots that can be several meters long.
+* Leaves - all Orchids that have leaves are simple with parallel veins. Leaves may be ovate, lanceolate or orbiulate. Note that Orchids of the genus *Corallorhiza* (Coralroot orchids) lack leaves altogether, and instead are parasitic on the roots of mature trees and use specialized fungi to harvest sugars.
+* Flowers - the flowers of orchids are bilaterally symmetrical and orchids found in Europe are typically made up of three sepals and three petals, where one petal is distrinctly different from the others in that it forms a lip or *labellum*. The lip is often highly decorated or of a very different shape to the other petals. The labellum is actually the upper medial petal; as the flower develops, the inferior ovary usually rotates 180°.
 
 # Species Recorded
-From May 2019 I visited a number of BBWOT (Berkshire, Buckinghamshire and Oxfordshire) nature reserves to photograph native UK speices. The list belwo shows the BBOWT sites I visted, together with the species recorded. I also took a field trip to the Picos de Europa, in northern Spain, in early June. This area is renowned within Europe for a high density of Orchid specimens, and whilst having many similar species to that which are native to the UK, there are a large number of species that are several that are not native.
+From May 2019 I visited a number of Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust (BBOWT) nature reserves to photograph native UK speices. The following list shows the BBOWT sites I visted, together with the species observed. I also took a field trip to the Picos de Europa, in northern Spain, in early June. This area is renowned within Europe for a high density of Orchid specimens, and whilst having many similar species to those which are native to the UK, there are a some that are not found in the UK.
 
 Each species recorded in the sections below has the following information:
 
 ## Observation data
 * Genus
 * Species 
-* Location - where did I observe the species
+* Location - where I observed the species
 * Dates seen - what time of year did I make the observation(s)
 * Habitat - what type of habitat(s) was the species recorded in
 
 ## Other data
 * Identification - what are the distinguishing morphological features that allow identification
-* Polination - how is the plant typically polinated
+* Pollination - how is the plant typically pollinated
 * UK classification - what is the current conservation status of the species according to the *Vascular Plant Red Data List for Great Britain*
-* UK distribution - where within the UK is the species typically found
+* UK distribution - where within the UK is the species typically found.
 
 ## BBOWT Sites
 
-The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire were visited to collect photographs of orchids:
+The following sites across Oxfordshire, Bedfordshire and Buckinghamshire were visited to collect photographs of orchids:
 
 * **[Bernwood][bw link], Oxford** - Green winged
 * **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade
@@ -58,7 +58,7 @@ The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire we
 * **[Cothill Fen][ch link], Cothill** - Marsh Helleborine and Common Spotted
 
 ## Picos de Europa Sites
-I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east in the xxx plains. The following sites were visited:
+I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east of Picos massif. The following sites were visited:
 
 * Liencres dunes, Cantabria
 * Bejes meadows, Cantabria
@@ -69,7 +69,7 @@ I also had a one week field trip to the Picos de Europa mountain range in northe
 ---------------------
 
 # Cepalanthera
-This genus have rhizomes rather than tubers. About 15 species are currently recognized, most of them native to Europe and Asia. Common names for some European often include *helleborine*, though orchids in other genera such as *Epipactis* are also called helleborine.
+This genus have rhizomes rather than tubers. About 15 species are currently recognized, most of them native to Europe and Asia. Common names for some European species often include *helleborine*, though orchids in other genera such as *Epipactis* are also called helleborine.
 
 ## **White Helleborine** (*Cephalanthera damasonium*)
 
