@@ -8,54 +8,26 @@ The taxonomy of the *Orchidaceae* has evolved slowly during the last 250 years, 
 
 There are currently five recognised subfamilies (comprising 22 tribes, 70 subtribes):
 
-* Apostasioideae - only two genera and 15 species are recognised within the Apostasioideae. They thought to be the basal lineage for the Orchid family
-* Cypripedioideae - have five genera and 165 species which together comprise the slipper orchids
-* Orchidoideae - typically single stamen (monanadrous) terrestrial plants, with tubers or rhizomes, of around 62 genera and 3200 species
-* Epidendroideae - the largest subfamily by far, with 576 genera and 15,000 species. Most are ephiphytes or parasitic upon mycorrhizal fungi
-* Vanilloideae - their distribution is pantropical, throughout Asia, Australia and the Americas and comprises 15 genera and around 180 species.
+* *Apostasioideae* - only two genera and 15 species are recognised within the Apostasioideae. They thought to be the basal lineage for the Orchid family
+* *Cypripedioideae* - have five genera and 165 species which together comprise the slipper orchids
+* *Orchidoideae* - typically single stamen (monanadrous) terrestrial plants, with tubers or rhizomes, of around 62 genera and 3200 species
+* *Epidendroideae* - the largest subfamily by far, with 576 genera and 15,000 species. Most are ephiphytes or parasitic upon mycorrhizal fungi
+* *Vanilloideae* - their distribution is pantropical, throughout Asia, Australia and the Americas and comprises 15 genera and around 180 species.
 
 All UK species are within the Orchidoideae and Epidendroideae subfamilies, with a single species *Cypripedium calceolus* (more commonly known as Lady's Slipper), in the Cypripedioideae family. The type genus for the Orchidaceae family is *Orchis*, which is within the sub-family *Orchidoideae*. 
 
 
-# Orchid anatomy
-Orchids belong to the Monocotyledons, in that they have a single leaf (cotyledon) at germination. Their leaves are tyically simple, with parallel veins
+# Orchid Anatomy
+* Roots - terrestrial orchids may have rhizomes or tubers. Some terrestrial orchids have two subterranean tubers; one beinf used as a food reserve for winter. Epiphytic orchids have aerial roots that can be several meters long.
+* Leaves - all Orchids are monocots, in that they have a single leaf (cotyledon) that are simple with parallel veins. Leaves may be ovate, lanceolate or orbiulate. Note that Orchids of the genus *Corallorhiza* (Coralroot orchids) lack leaves altogether, and instead form are a parasite on the roots of mature trees and use specialized fungi to harvest sugars.
+* Flowers - the flowers of orchids are bilaterally symmetrical and therefore orchids found in Europe are typically made up of three sepals and three petals, where one petal being distrinctly different from the others in that it forms a lip. The lip often being highly decorated or of a very different shape to the other petals. The lip (or labellum) is actually the upper medial petal; as the flower develops, the inferior ovary usually rotates 180°
 
+# Species Recorded
+From May 2019 I visited a number of BBWOT (Berkshire, Buckinghamshire and Oxfordshire) nature reserves to photograph native UK speices. The list belwo shows the BBOWT sites I visted, together with the species recorded. I also took a field trip to the Picos de Europa, in northern Spain, in early June. This area is renowned within Europe for a high density of Orchid specimens, and whilst having many similar species to that which are native to the UK, there are a large number of species that are several that are not native.
 
-# Collecting Specimens
-From May to September of 2019 I visited a number of BBWOT (Berkshire, Buckinghamshire and Oxfordshire) nature reserves to photograph native UK speices. I also took a holiday in the Picos de Europa in early June. This area is renowned within Europe for a high density of Orchid specimens.
-
-## BBOWT Sites
-
-The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire were visited to collect samples:
-
-* **[Bernwood][bw link], Oxford** - Green winged
-* **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade
-* **[Homefield Wood][hfw link], Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade
-* **[Warburg][wb link], Henley** - Greater Butterly, Fly and Commomn Twayblade
-* **[Sydlings Copse][syd link], Oxford** - Early Purple
-* **[Lye Valley][lv link], Oxford** - Early Marsh and Common Spotted
-* **[Pixey Mead][px link], Oxford** - Early Marsh
-* **[Bald Hill][bh link], Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly
-* **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip
-* **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
-* **[Dry Sandford Pit][ds link], Dry Sandford** - Marsh Helleborine, Southern Marsh and Common Spotted
-
-## Picos de Europa Sites
-
-I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east in the xxx plains. The following sites were visited:
-
-* Liencres dunes, Cantabria
-* Bejes meadows, Cantabria
-* Cervera de Pisuergina, Palencia
-* Vañes, Palencia
-* Lebeña, Cantabria
-
- The following two sections list all the orchid species I recorded within Oxfordshire, Buckinghamshire and Bedfordhsire during the summer of 2019. 
-
-Each species recorded below has the following information:
+Each species recorded in the sections below has the following information:
 
 ## Observation data
-* Sub-family
 * Genus
 * Species 
 * Location - where did I observe the species
@@ -68,11 +40,34 @@ Each species recorded below has the following information:
 * UK classification - what is the current conservation status of the species
 * UK distribution - where within the UK is the species typically found
 
+## BBOWT Sites
 
-The species recorded, by genera, is as follows:
+The folloiwng BBOWT sites across Oxfordshire Bedfordshire and Buckinghamshire were visited to collect photographs of orchids:
+
+* **[Bernwood][bw link], Oxford** - Green winged
+* **[Hartslock NR][hl link], Goring** - Monkey, Lady, Lady x Monkey, White Helleborine and Common Twayblade
+* **[Homefield Wood][hfw link], Marlow** - Military, Fly, Bee, Greater Butterly, Birdsnest and Common Twayblade
+* **[Warburg][wb link], Henley** - Greater Butterly, Fly and Commomn Twayblade
+* **[Sydlings Copse][syd link], Oxford** - Early Purple
+* **[Lye Valley][lv link], Oxford** - Early Marsh and Common Spotted
+* **[Pixey Mead][px link], Oxford** - Early Marsh
+* **[Bald Hill][bh link], Ashton Rowant** - Early Purple, Common Spotted, Twayblade and Greater Butterfly
+* **[Knocking Hoe][kh link], Pegsdon** - Burnt Tip
+* **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
+* **[Dry Sandford Pit][ds link], Dry Sandford** - Marsh Helleborine, Southern Marsh and Common Spotted
+* **[Cothill Fen][ch link], Cothill** - Marsh Helleborine and Common Spotted
+
+## Picos de Europa Sites
+I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east in the xxx plains. The following sites were visited:
+
+* Liencres dunes, Cantabria
+* Bejes meadows, Cantabria
+* Cervera de Pisuergina, Palencia
+* Vañes, Palencia
+* Lebeña, Cantabria
 
 # Cepalanthera
-This genus have rhizomes rather than tubers. About 15 species are currently recognized, most of them native to Europe and Asia. Common names for some European often include *helleborine*, thought orchids in other genera such as *Epipactis* are also called helleborine.
+This genus have rhizomes rather than tubers. About 15 species are currently recognized, most of them native to Europe and Asia. Common names for some European often include *helleborine*, though orchids in other genera such as *Epipactis* are also called helleborine.
 
 ## **White Helleborine** (*Cephalanthera damasonium*)
 
@@ -87,7 +82,7 @@ This genus have rhizomes rather than tubers. About 15 species are currently reco
 
 **Dates seen:** mid to late May 2019
 
-**Habitat:** shaded margins of calcareous woodland, mostly beech woods (the plant is rhizomatous)
+**Habitat:** shaded margins of calcareous woodland, mostly beech woods
 
 **Identification:** 
 * plant is 15 to 40cm tall
@@ -993,4 +988,7 @@ Acknowledgements
 [bh link]: https://en.wikipedia.org/wiki/Aston_Rowant_National_Nature_Reserve
 [kh link]: https://mknhs.org.uk/trip-report-knocking-hoe-nature-reserve-9-june-2018/
 [tk link]: https://www.wildlifebcn.org/sites/default/files/2018-06/case_study_-_totternhoe_orchids_final.pdf
+[ds link]: https://www.bbowt.org.uk/nature-reserves/dry-sandford-pit
+[ch link]: https://freshwaterhabitats.org.uk/cothill-fen-flagship-site/
+
 
