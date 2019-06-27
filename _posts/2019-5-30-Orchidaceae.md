@@ -8,7 +8,7 @@ The taxonomy of the *Orchidaceae* has evolved slowly during the last 250 years, 
 
 There are currently five recognised subfamilies, comprising 22 tribes, 70 subtribes:
 
-* *Apostasioideae* - only two genera and 15 species are recognised within the Apostasioideae, they are thought to be the basel lineage for the Orchid family
+* *Apostasioideae* - only two genera and 15 species are recognised within the Apostasioideae, they are thought to be the basal lineage for the Orchid family
 * *Cypripedioideae* - five genera and 165 species, this group is known as the slipper orchids
 * *Orchidoideae* - typically single stamen terrestrial plants, with tubers or rhizomes, of around 62 genera and 3200 species
 * *Epidendroideae* - the largest subfamily by far, with 576 genera and 15,000 species; most are ephiphytes or parasitic upon mycorrhizal fungi
@@ -1027,7 +1027,7 @@ References
 Acknowledgements
 ================
 
-I would like to acknowledge the help and knowledge of [Teresa Farino](http://www.iberianwildlife.com/teresa-farino.htm), the Gilbert White of the Picos. Also Dr Andrew Lack for his help in indentification of the Marsh Orchids.
+I would like to acknowledge the help and knowledge of [Teresa Farino](http://www.iberianwildlife.com/teresa-farino.htm). Also Dr Andrew Lack for his help in indentification of the Marsh Orchids.
 
 
 [bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
