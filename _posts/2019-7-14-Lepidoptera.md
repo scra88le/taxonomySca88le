@@ -49,6 +49,7 @@ The Drepanidae is a family of moths with about 660 species described worldwide.
 
 ### **Pale Tussock** (*Calliteara pudibunda*)
 The female Pale Tussock is shown below on the left, and the male on the right:
+
 ![PaleTussuck]({{ site.baseurl }}/images/moths/paletussockfemale.JPG)
 ![PaleTussuck]({{ site.baseurl }}/images/moths/paletussockmale.JPG)
 
