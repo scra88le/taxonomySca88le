@@ -68,6 +68,40 @@ I also had a one week field trip to the Picos de Europa mountain range in northe
 
 ---------------------
 
+# Anacamptis
+The Anacamptis genus are terristrial orchids that occur on grasslands, limestone and chalk desposits. The type species is the *Pyramdial orchid*. 
+
+## **Pyramidal Orchid** (*Anacamptis pyramidalis*)
+
+The rare white flowered variant of the Pyramdial Orchid *Anacamptis pyramidalis var. albiflora* is shown below:
+
+![Pyramidal Orchid]({{ site.baseurl }}/images/orchids/pyramid1.JPG)
+![Pyramidal Orchid]({{ site.baseurl }}/images/orchids/pyramid2.JPG)
+
+**Genus:** Anacamptis
+
+**Species:** A. pyramidalis
+
+**Location:** Aston Clinton Ragpits BBOWT reserve, Hinksey Hill Roundabout, Oxford.
+
+**Dates seen:** mid July 2019
+
+**Habitat:** Anacamptis pyramidalis requires a sunny spot typically on well drain chalk soils
+
+**Identification:** 
+* plant is 10 to 60cm tall
+* 3 to 4 linear to lanceolate basal leaves
+* flowers arranged in a distrinctive compact pyramidal shape
+* flowers typically pink to purple, rarely white
+
+**Pollination:** butterflys and moths
+
+**UK Classification:** Least Concern
+
+**UK Distribution:** Locally common in England, less common in Scotland
+
+---------------------
+
 # Cepalanthera
 This genus have rhizomes rather than tubers. About 15 species are currently recognized, most of them native to Europe and Asia. Common names for some European species often include *helleborine*, though orchids in other genera such as *Epipactis* are also called helleborine.
 
