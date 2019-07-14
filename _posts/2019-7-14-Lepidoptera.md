@@ -48,6 +48,7 @@ The Drepanidae is a family of moths with about 660 species described worldwide.
 **Location:** Picos de Europa, Spain
 
 ### **Pale Tussock** (*Calliteara pudibunda*)
+The female Pale Tussock is shown below on the left, and the male on the right:
 ![PaleTussuck]({{ site.baseurl }}/images/moths/paletussockfemale.JPG)
 ![PaleTussuck]({{ site.baseurl }}/images/moths/paletussockmale.JPG)
 
@@ -107,6 +108,18 @@ The geometer moths belong to the family Geometridae.
 **Genus:** Epirrhoe 
 
 **Species:** E. alternata
+
+**Date seen:** early June
+
+**Location:** Pesaguero, 
+
+### **Peppered** (*Biston betularia*)
+
+![Peppered]({{ site.baseurl }}/images/moths/peppered.JPG)
+
+**Genus:** Biston 
+
+**Species:** B. betularia
 
 **Date seen:** early June
 
@@ -189,6 +202,24 @@ The geometer moths belong to the family Geometridae.
 
 -----------
 
+## Notodontidae
+Notodontidae is a family of moths with approximately 3,800 known species.
+
+### **Pebble Prominent** (*Notodonta ziczac*)
+
+![Pebbleprominent]({{ site.baseurl }}/images/moths/pebbleprominent.JPG)
+
+**Genus:** Notodonta
+
+**Species:** N. ziczac
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+
+-------
+
 ## Sphingidae
 The Sphingidae are a family of moths (Lepidoptera), commonly known as hawk moths, sphinx moths, and hornworms; it includes about 1,450 species.
 
@@ -199,6 +230,18 @@ The Sphingidae are a family of moths (Lepidoptera), commonly known as hawk moths
 **Genus:** Deilephila
 
 **Species:** D. elpenor
+
+**Date seen:** early July
+
+**Location:** Polgeel, North Cornwall
+
+### **Privet Hawk-moth** (*Sphinx ligustri*)
+
+![PrivetHawk]({{ site.baseurl }}/images/moths/privethawk.JPG)
+
+**Genus:** Sphinx 
+
+**Species:** S. ligustri
 
 **Date seen:** early July
 
