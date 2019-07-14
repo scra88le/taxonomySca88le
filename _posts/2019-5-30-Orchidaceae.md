@@ -73,8 +73,8 @@ This genus have rhizomes rather than tubers. About 15 species are currently reco
 
 ## **White Helleborine** (*Cephalanthera damasonium*)
 
-![White Helleborine]({{ site.baseurl }}/images/whitehell1.JPG)
-![White Helleborine]({{ site.baseurl }}/images/whitehell2.JPG)
+![White Helleborine]({{ site.baseurl }}/images/orchids/whitehell1.JPG)
+![White Helleborine]({{ site.baseurl }}/images/orchids/whitehell2.JPG)
 
 **Genus:** Cephalanthera
 
@@ -100,8 +100,8 @@ This genus have rhizomes rather than tubers. About 15 species are currently reco
 
 ## **Red Helleborine** (*Cephalanthera rubra*)
 
-![Red Helleborine]({{ site.baseurl }}/images/redhell1.JPG)
-![Red Helleborine]({{ site.baseurl }}/images/redhell2.JPG)
+![Red Helleborine]({{ site.baseurl }}/images/orchids/redhell1.JPG)
+![Red Helleborine]({{ site.baseurl }}/images/orchids/redhell2.JPG)
 
 **Genus:** Cephalanthera
 
@@ -133,8 +133,8 @@ Coeloglossum is thought to have only one species, *Coeloglossum viride*, the fro
 
 ## **Frog Orchid** (*Coeloglossum viride*)
 
-![White Helleborine]({{ site.baseurl }}/images/frog1.JPG)
-![White Helleborine]({{ site.baseurl }}/images/frog2.JPG)
+![White Helleborine]({{ site.baseurl }}/images/orchids/frog1.JPG)
+![White Helleborine]({{ site.baseurl }}/images/orchids/frog2.JPG)
 
 **Genus:** Coeloglossum
 
@@ -167,8 +167,8 @@ Plants in the *Dactylorhiza* are hardy tuberous geophytes. They typically have l
 ## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
 D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where various specimens started to emerge as of late May. 
 
-![Common Spotted]({{ site.baseurl }}/images/commonspot1.JPG)
-![Common Spotted]({{ site.baseurl }}/images/commonspot2.JPG)
+![Common Spotted]({{ site.baseurl }}/images/orchids/commonspot1.JPG)
+![Common Spotted]({{ site.baseurl }}/images/orchids/commonspot2.JPG)
 
 **Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. The Common Spotted can grow to a height of 60cm, but typically smaller than this.
 
@@ -197,8 +197,8 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
 Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May. Incarnate is similar to the Southern Marsh; but this is typically a larger plant, with larger flowers that are a darker pink.  
 
-![Early Marsh]({{ site.baseurl }}/images/earlymarsh1.JPG)
-![Early Marsh]({{ site.baseurl }}/images/earlymarsh2.JPG)
+![Early Marsh]({{ site.baseurl }}/images/orchids/earlymarsh1.JPG)
+![Early Marsh]({{ site.baseurl }}/images/orchids/earlymarsh2.JPG)
 
 **Genus:** Dactylorhiza 
 
@@ -227,13 +227,13 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 The red and orange variant:  
 
-![Elder Flowered]({{ site.baseurl }}/images/elderflower1.JPG)
-![Elder Flowered]({{ site.baseurl }}/images/elderflower2.JPG)
+![Elder Flowered]({{ site.baseurl }}/images/orchids/elderflower1.JPG)
+![Elder Flowered]({{ site.baseurl }}/images/orchids/elderflower2.JPG)
 
 The white and yellow variant:  
 
-![Elder Flowered]({{ site.baseurl }}/images/elderflower3.JPG)
-![Elder Flowered]({{ site.baseurl }}/images/elderflower4.JPG)
+![Elder Flowered]({{ site.baseurl }}/images/orchids/elderflower3.JPG)
+![Elder Flowered]({{ site.baseurl }}/images/orchids/elderflower4.JPG)
 
 **Genus:** Dactylorhiza 
 
@@ -258,8 +258,8 @@ The white and yellow variant:
 
 ## **Heath spotted Orchid** (*Dactylorhiza maculata*)
 
-![Sicillian]({{ site.baseurl }}/images/spotheath1.JPG)
-![Sicillian]({{ site.baseurl }}/images/spotheath2.JPG)
+![Sicillian]({{ site.baseurl }}/images/orchids/spotheath1.JPG)
+![Sicillian]({{ site.baseurl }}/images/orchids/spotheath2.JPG)
 
 **Genus:** Dactylorhiza 
 
@@ -285,8 +285,8 @@ The white and yellow variant:
 
 ## **Southern Marsh Orchid** (*Dactylorhiza praetermissa*)
 
-![SouthernMarsh]({{ site.baseurl }}/images/southernmarsh1.JPG)
-![SouthernMarsh]({{ site.baseurl }}/images/southernmarsh2.JPG)
+![SouthernMarsh]({{ site.baseurl }}/images/orchids/southernmarsh1.JPG)
+![SouthernMarsh]({{ site.baseurl }}/images/orchids/southernmarsh2.JPG)
 
 **Identification:** 
 
@@ -306,8 +306,8 @@ The white and yellow variant:
 
 ## **Sicillian Orchid** (*Dactylorhiza markusii*)
 
-![Sicillian]({{ site.baseurl }}/images/markusii1.JPG)
-![Sicillian]({{ site.baseurl }}/images/markusii2.JPG)
+![Sicillian]({{ site.baseurl }}/images/orchids/markusii1.JPG)
+![Sicillian]({{ site.baseurl }}/images/orchids/markusii2.JPG)
 
 **Identification:** 
 
@@ -334,8 +334,8 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 ## (*Epipactis kleinii*)
 
-![E. kleinii]({{ site.baseurl }}/images/kleinii1.JPG)
-![E. kleinii]({{ site.baseurl }}/images/kleinii2.JPG)
+![E. kleinii]({{ site.baseurl }}/images/orchids/kleinii1.JPG)
+![E. kleinii]({{ site.baseurl }}/images/orchids/kleinii2.JPG)
 
 **Identification:** 
 
@@ -357,8 +357,8 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 ## Broad Leaved Helleborine (*Epipactis helleborine*)
 
-![Broad leaveed]({{ site.baseurl }}/images/broadleaved1.JPG)
-![Broad leaveed]({{ site.baseurl }}/images/broadleaved2.JPG)
+![Broad leaveed]({{ site.baseurl }}/images/orchids/broadleaved1.JPG)
+![Broad leaveed]({{ site.baseurl }}/images/orchids/broadleaved2.JPG)
 
 **Identification:** 
 
@@ -381,8 +381,8 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 ## Marsh Helleborine (*Epipactis palustris*)
 
-![MarshHelleborine]({{ site.baseurl }}/images/marshhell1.JPG)
-![MarshHelleborine]({{ site.baseurl }}/images/marshhell2.JPG)
+![MarshHelleborine]({{ site.baseurl }}/images/orchids/marshhell1.JPG)
+![MarshHelleborine]({{ site.baseurl }}/images/orchids/marshhell2.JPG)
 
 **Identification:** 
 
@@ -409,8 +409,8 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 Should be marked as chalk fragrant?
 
-![Fragrant]({{ site.baseurl }}/images/fragrant1.JPG)
-![Fragrant]({{ site.baseurl }}/images/fragrant2.JPG)
+![Fragrant]({{ site.baseurl }}/images/orchids/fragrant1.JPG)
+![Fragrant]({{ site.baseurl }}/images/orchids/fragrant2.JPG)
 
 **Identification:** 
 
@@ -436,8 +436,8 @@ Should be marked as chalk fragrant?
 
 ## Lizard Orchid (*Himantoglossum hircinum*)
 
-![Lizard]({{ site.baseurl }}/images/lizard1.JPG)
-![Lizard]({{ site.baseurl }}/images/lizard2.JPG)
+![Lizard]({{ site.baseurl }}/images/orchids/lizard1.JPG)
+![Lizard]({{ site.baseurl }}/images/orchids/lizard2.JPG)
 
 **Identification:** 
 
@@ -463,8 +463,8 @@ Should be marked as chalk fragrant?
 
 ## Common Twayblade (*Neottia ovata*)
 
-![Twayblade]({{ site.baseurl }}/images/tway1.JPG)
-![Twayblade]({{ site.baseurl }}/images/tway2.JPG)
+![Twayblade]({{ site.baseurl }}/images/orchids/tway1.JPG)
+![Twayblade]({{ site.baseurl }}/images/orchids/tway2.JPG)
 
 **Genus:** Neottia
 
@@ -495,8 +495,8 @@ The Bird's-nest orchid is leafless and without the green chlorophyll of other pl
 
 Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No chrlorofilm, mycorrhizal fungi? reference to the tangled mass of roots that support the short creeping rhizome
 
-![Birdsnest]({{ site.baseurl }}/images/birds1.JPG)
-![Birdsnest]({{ site.baseurl }}/images/birds2.JPG)
+![Birdsnest]({{ site.baseurl }}/images/orchids/birds1.JPG)
+![Birdsnest]({{ site.baseurl }}/images/orchids/birds2.JPG)
 
 **Sub-family:** Epidendroideae
 
@@ -520,8 +520,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 ## **Black Vanilla Orchid** (*Nigritella nigra*)
 
-![Vanilla]({{ site.baseurl }}/images/vanilla1.JPG)
-![Vanilla]({{ site.baseurl }}/images/vanilla2.JPG)
+![Vanilla]({{ site.baseurl }}/images/orchids/vanilla1.JPG)
+![Vanilla]({{ site.baseurl }}/images/orchids/vanilla2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -545,8 +545,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 ## **Bee Orchid** (*Ophrys apifera*)
 
-![Bee]({{ site.baseurl }}/images/bee1.JPG)
-![Bee]({{ site.baseurl }}/images/bee2.JPG)
+![Bee]({{ site.baseurl }}/images/orchids/bee1.JPG)
+![Bee]({{ site.baseurl }}/images/orchids/bee2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -567,8 +567,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 ## **Fly Orchid** (*Ophrys insectifera*)
 Likes insects! Slender plant with deep red flowers
 
-![Fly]({{ site.baseurl }}/images/fly1.JPG)
-![Fly]({{ site.baseurl }}/images/fly2.JPG)
+![Fly]({{ site.baseurl }}/images/orchids/fly1.JPG)
+![Fly]({{ site.baseurl }}/images/orchids/fly2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -588,8 +588,8 @@ Likes insects! Slender plant with deep red flowers
 
 ## **Woodcock Orchid** (*Ophrys scolopax*)
 
-![Woodcock]({{ site.baseurl }}/images/woodcock1.JPG)
-![Woodcock]({{ site.baseurl }}/images/woodcock2.JPG)
+![Woodcock]({{ site.baseurl }}/images/orchids/woodcock1.JPG)
+![Woodcock]({{ site.baseurl }}/images/orchids/woodcock2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -609,8 +609,8 @@ Likes insects! Slender plant with deep red flowers
 
 ## **Early Spider Orchid** (*Ophrys sphegodes*)
 
-![EarlySpider]({{ site.baseurl }}/images/spider1.JPG)
-![EarlySpider]({{ site.baseurl }}/images/spider2.JPG)
+![EarlySpider]({{ site.baseurl }}/images/orchids/spider1.JPG)
+![EarlySpider]({{ site.baseurl }}/images/orchids/spider2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -630,8 +630,8 @@ Likes insects! Slender plant with deep red flowers
 
 ## **Yellow Bee Orchid** (*Ophrys lutea*)
 
-![YellowBee]({{ site.baseurl }}/images/yellowbee1.JPG)
-![YellowBee]({{ site.baseurl }}/images/yellowbee2.JPG)
+![YellowBee]({{ site.baseurl }}/images/orchids/yellowbee1.JPG)
+![YellowBee]({{ site.baseurl }}/images/orchids/yellowbee2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -651,8 +651,8 @@ Likes insects! Slender plant with deep red flowers
 
 ## **Sawfly Orchid** (*Ophrys tenthredinifera*)
 
-![Sawfly]({{ site.baseurl }}/images/sawfly1.JPG)
-![Sawfly]({{ site.baseurl }}/images/sawfly2.JPG)
+![Sawfly]({{ site.baseurl }}/images/orchids/sawfly1.JPG)
+![Sawfly]({{ site.baseurl }}/images/orchids/sawfly2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -677,8 +677,8 @@ Likes insects! Slender plant with deep red flowers
 ## **Early Purple Orchid** (*Orchis mascula*)
 Generally found in shady areas
 
-![EarlyPurple]({{ site.baseurl }}/images/earlypurple1.JPG)
-![EarlyPurple]({{ site.baseurl }}/images/earlypurple2.JPG)
+![EarlyPurple]({{ site.baseurl }}/images/orchids/earlypurple1.JPG)
+![EarlyPurple]({{ site.baseurl }}/images/orchids/earlypurple2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -699,8 +699,8 @@ Generally found in shady areas
 ## **Lady Orchid** (*Orchis purpurea*)
 The shape of the labellum is distinct between the Monkey, Military and Lady orchid's. They freely hybridize (See below) 
 
-![Lady]({{ site.baseurl }}/images/lady1.JPG)
-![Lady]({{ site.baseurl }}/images/lady2.JPG)
+![Lady]({{ site.baseurl }}/images/orchids/lady1.JPG)
+![Lady]({{ site.baseurl }}/images/orchids/lady2.JPG)
 
 **Genus:** Orchis
 
@@ -718,8 +718,8 @@ The shape of the labellum is distinct between the Monkey, Military and Lady orch
 
 ## **Monkey Orchid** (*Orchis purpurea*)
 
-![Monkey]({{ site.baseurl }}/images/monkey1.JPG)
-![Monkey]({{ site.baseurl }}/images/monkey2.JPG)
+![Monkey]({{ site.baseurl }}/images/orchids/monkey1.JPG)
+![Monkey]({{ site.baseurl }}/images/orchids/monkey2.JPG)
 
 **Genus:** Orchis
 
@@ -739,8 +739,8 @@ The shape of the labellum is distinct between the Monkey, Military and Lady orch
 
 Distingushing hybrids from parents at Hartslock
 
-![LadyxMonkey]({{ site.baseurl }}/images/ladymonkey1.JPG)
-![LadyxMonkey]({{ site.baseurl }}/images/ladymonkey2.JPG)
+![LadyxMonkey]({{ site.baseurl }}/images/orchids/ladymonkey1.JPG)
+![LadyxMonkey]({{ site.baseurl }}/images/orchids/ladymonkey2.JPG)
 
 **Genus:** Orchis
 
@@ -758,8 +758,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Military Orchid** (*Orchis militaris*)
 
-![Military]({{ site.baseurl }}/images/military1.JPG)
-![Military]({{ site.baseurl }}/images/military2.JPG)
+![Military]({{ site.baseurl }}/images/orchids/military1.JPG)
+![Military]({{ site.baseurl }}/images/orchids/military2.JPG)
 
 **Genus:** Orchis
 
@@ -777,8 +777,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Pink Butterfly Orchid** (*Orchis papilionacea*)
 
-![PinkButterfly]({{ site.baseurl }}/images/pinkbutt1.JPG)
-![PinkButterfly]({{ site.baseurl }}/images/pinkbutt2.JPG)
+![PinkButterfly]({{ site.baseurl }}/images/orchids/pinkbutt1.JPG)
+![PinkButterfly]({{ site.baseurl }}/images/orchids/pinkbutt2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -798,8 +798,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Green-winged Orchid** (*Orchis morio*)
 
-![GreenWing]({{ site.baseurl }}/images/greenwing1.JPG)
-![GreenWing]({{ site.baseurl }}/images/greenwing2.JPG)
+![GreenWing]({{ site.baseurl }}/images/orchids/greenwing1.JPG)
+![GreenWing]({{ site.baseurl }}/images/orchids/greenwing2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -819,8 +819,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Bug Orchid** (*Orchis coriophora*)
 
-![GreenWing]({{ site.baseurl }}/images/bug1.JPG)
-![GreenWing]({{ site.baseurl }}/images/bug2.JPG)
+![GreenWing]({{ site.baseurl }}/images/orchids/bug1.JPG)
+![GreenWing]({{ site.baseurl }}/images/orchids/bug2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -840,8 +840,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Pale-flowered Orchid** (*Orchis pallens*)
 
-![PaleFlowered]({{ site.baseurl }}/images/pale1.JPG)
-![PaleFlowered]({{ site.baseurl }}/images/pale2.JPG)
+![PaleFlowered]({{ site.baseurl }}/images/orchids/pale1.JPG)
+![PaleFlowered]({{ site.baseurl }}/images/orchids/pale2.JPG)
 
 **Sub-family:** Orchidoideae
 
@@ -861,8 +861,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Man Orchid** (*Orchis anthropophora*)
 
-![Man]({{ site.baseurl }}/images/man1.JPG)
-![Man]({{ site.baseurl }}/images/man2.JPG)
+![Man]({{ site.baseurl }}/images/orchids/man1.JPG)
+![Man]({{ site.baseurl }}/images/orchids/man2.JPG)
 
 **Genus:** Orchis
 
@@ -884,8 +884,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Burnt-tip Orchid** (*Neotinea ustulata*)
 
-![BurntTip]({{ site.baseurl }}/images/burnt1.JPG)
-![BurntTip]({{ site.baseurl }}/images/burnt2.JPG)
+![BurntTip]({{ site.baseurl }}/images/orchids/burnt1.JPG)
+![BurntTip]({{ site.baseurl }}/images/orchids/burnt2.JPG)
 
 **Genus:** Neotinea
 
@@ -907,8 +907,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Greater Butterfly Orchid** (*Platanthera chlorantha*)
 
-![GreaterButterly]({{ site.baseurl }}/images/greaterbutt1.JPG)
-![GreaterButterly]({{ site.baseurl }}/images/greaterbutt2.JPG)
+![GreaterButterly]({{ site.baseurl }}/images/orchids/greaterbutt1.JPG)
+![GreaterButterly]({{ site.baseurl }}/images/orchids/greaterbutt2.JPG)
 
 **Genus:** Platanthera
 
@@ -926,8 +926,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Lesser Butterfly Orchid** (*Platanthera bifolia*)
 
-![LesserButterly]({{ site.baseurl }}/images/lesserbutt1.JPG)
-![LesserButterly]({{ site.baseurl }}/images/lesserbutt2.JPG)
+![LesserButterly]({{ site.baseurl }}/images/orchids/lesserbutt1.JPG)
+![LesserButterly]({{ site.baseurl }}/images/orchids/lesserbutt2.JPG)
 
 **Genus:** Platanthera
 
@@ -949,8 +949,8 @@ Distingushing hybrids from parents at Hartslock
 
 ## **Heart-flowered Orchid** (*Serapias cordigera*)
 
-![HeartFlowered]({{ site.baseurl }}/images/heart1.JPG)
-![HeartFlowered]({{ site.baseurl }}/images/heart2.JPG)
+![HeartFlowered]({{ site.baseurl }}/images/orchids/heart1.JPG)
+![HeartFlowered]({{ site.baseurl }}/images/orchids/heart2.JPG)
 
 **Genus:** Serapias
 
@@ -970,8 +970,8 @@ The sepals and petals are brownish-purple with dark stripes. The central lobe is
 
 ## **Tongue Orchid** (*Serapias linuga*)
 
-![Tongue]({{ site.baseurl }}/images/tongue1.JPG)
-![Tongue]({{ site.baseurl }}/images/tongue2.JPG)
+![Tongue]({{ site.baseurl }}/images/orchids/tongue1.JPG)
+![Tongue]({{ site.baseurl }}/images/orchids/tongue2.JPG)
 
 **Genus:** Serapias
 
@@ -989,8 +989,8 @@ The sepals and petals are brownish-purple with dark stripes. The central lobe is
 
 ## **Serapias x ambigua **
 
-![Ambigua]({{ site.baseurl }}/images/ambigua1.JPG)
-![Ambigua]({{ site.baseurl }}/images/ambigua2.JPG)
+![Ambigua]({{ site.baseurl }}/images/orchids/ambigua1.JPG)
+![Ambigua]({{ site.baseurl }}/images/orchids/ambigua2.JPG)
 
 **Genus:** Serapias
 
