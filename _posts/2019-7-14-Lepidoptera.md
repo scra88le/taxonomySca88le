@@ -12,13 +12,13 @@ title: Lepidoptera
 ### **Alder moth** (*Acronicta alni*)
 ![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
 
-Genus: Acronicta
+**Genus:** Acronicta
 
-Species: A. alni
+**Species:** A. alni
 
-Date seen: early June
+**Date seen:** early June
 
-Location: Pesaguero, Spain
+**Location:** Pesaguero, Spain
 
 ### **Beautiful Marbled moth** (*Eublemma purpurina*)
 
