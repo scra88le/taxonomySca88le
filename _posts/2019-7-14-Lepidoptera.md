@@ -7,7 +7,23 @@ title: Lepidoptera
 
 --------
 
-##  Erebidae
+##  Drepanidae
+The Drepanidae is a family of moths with about 660 species described worldwide.
+
+### **Peach Blossom** (*Thyatira batis*)
+![Peachblossom]({{ site.baseurl }}/images/moths/peachblossom.JPG)
+
+**Genus:** Thyatira 
+
+**Species:** T. batis
+
+**Date seen:** early June
+
+**Location:** Picos de Europa, Spain
+
+---------
+
+## Erebidae
 
 ### **Cream-spot Tiger** (*Epicallia villica*)
 ![Creamspottiger]({{ site.baseurl }}/images/moths/creamspottiger.JPG)
