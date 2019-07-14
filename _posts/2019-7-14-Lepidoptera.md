@@ -51,7 +51,7 @@ The geometer moths belong to the family Geometridae.
 
 ### **Blood Vein** (*Timandra comae*)
 
-![BridsWing]({{ site.baseurl }}/images/moths/bloodvein.JPG)
+![BloodVein]({{ site.baseurl }}/images/moths/bloodvein.JPG)
 
 **Genus:** Timandra
 
@@ -61,6 +61,41 @@ The geometer moths belong to the family Geometridae.
 
 **Location:** Pesaguero, Spain
 
+### **Brimstone** (*Opisthograptis luteolata*)
+
+![Brimstone]({{ site.baseurl }}/images/moths/brimstone.JPG)
+
+**Genus:** Opisthograptis 
+
+**Species:** O. luteolata
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+### **Clouded Buff** (*Diacrisia sannio*)
+
+![CloudedBuff]({{ site.baseurl }}/images/moths/cloudedbuff.JPG)
+
+**Genus:** Diacrisia 
+
+**Species:** D. sannio
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+### **Common Carpet** (*Epirrhoe alternata*)
+
+![CommonCarpet]({{ site.baseurl }}/images/moths/commoncarpet.JPG)
+
+**Genus:** Epirrhoe 
+
+**Species:** E. alternata
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
 
 
 
