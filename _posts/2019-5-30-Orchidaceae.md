@@ -73,7 +73,7 @@ The Anacamptis genus are terristrial orchids that occur on grasslands, limestone
 
 ## **Pyramidal Orchid** (*Anacamptis pyramidalis*)
 
-The rare white flowered variant of the Pyramdial Orchid *Anacamptis pyramidalis var. albiflora* is shown below:
+The rare white flowered variant of the Pyramdial Orchid *Anacamptis pyramidalis var. albiflora* is shown on the right below:
 
 ![Pyramidal Orchid]({{ site.baseurl }}/images/orchids/pyramid1.JPG)
 ![Pyramidal Orchid]({{ site.baseurl }}/images/orchids/pyramid2.JPG)
