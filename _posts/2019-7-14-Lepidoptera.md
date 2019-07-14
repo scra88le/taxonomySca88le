@@ -24,6 +24,8 @@ title: Lepidoptera
 
 ![BeautifulMarbled]({{ site.baseurl }}/images/moths/beautifulmarbled.JPG)
 
+**Genus:** Eublemma
+
 **Species:** E. purpurina
 
 **Date seen:** early June
@@ -34,7 +36,26 @@ title: Lepidoptera
 
 ![BridsWing]({{ site.baseurl }}/images/moths/birdswing.JPG)
 
+**Genus:** Dypterygia
+
 **Species:** D. scabriuscula
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+----------
+
+## Geometridae
+The geometer moths belong to the family Geometridae. 
+
+### **Blood Vein** (*Timandra comae*)
+
+![BridsWing]({{ site.baseurl }}/images/moths/bloodvein.JPG)
+
+**Genus:** Timandra
+
+**Species:** T. comae
 
 **Date seen:** early June
 
