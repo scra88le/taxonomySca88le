@@ -8,9 +8,13 @@ title: Lepidoptera
 ## Noctuoidea
 
 ### **Alder moth** (*Acronicta alni*)
-An Alder moth...
-![Ader]({{ site.baseurl }}/images/alder.JPG)
+![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
+
+Genus: Acronicta
+Species: A. alni
+Date seen: early June
+Location: Pesaguero, Spain
 
 ### **Beautiful Marbled moth** (*Eublemma purpurina*)
-A Beautiful Marbled moth...
-![BeautifulMarbled]({{ site.baseurl }}/images/beautifulmarbled.JPG)
+
+![BeautifulMarbled]({{ site.baseurl }}/images/moths/beautifulmarbled.JPG)
