@@ -7,44 +7,20 @@ title: Lepidoptera
 
 --------
 
-## Noctuoidea
+##  Erebidae
 
-### **Alder** (*Acronicta alni*)
-![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
+### **Cream-spot Tiger** (*Epicallia villica*)
+![Creamspottiger]({{ site.baseurl }}/images/moths/creamspottiger.JPG)
 
-**Genus:** Acronicta
+**Genus:** Epicallia
 
-**Species:** A. alni
-
-**Date seen:** early June
-
-**Location:** Pesaguero, Spain
-
-### **Beautiful Marbled** (*Eublemma purpurina*)
-
-![BeautifulMarbled]({{ site.baseurl }}/images/moths/beautifulmarbled.JPG)
-
-**Genus:** Eublemma
-
-**Species:** E. purpurina
+**Species:** E. villica
 
 **Date seen:** early June
 
-**Location:** La rasilla, Spain
+**Location:** Picos de Europa, Spain
 
-### **Bird's Wing** (*Dypterygia scabriuscula*)
-
-![BridsWing]({{ site.baseurl }}/images/moths/birdswing.JPG)
-
-**Genus:** Dypterygia
-
-**Species:** D. scabriuscula
-
-**Date seen:** early June
-
-**Location:** Pesaguero, Spain
-
-----------
+---------
 
 ## Geometridae
 The geometer moths belong to the family Geometridae. 
@@ -96,6 +72,99 @@ The geometer moths belong to the family Geometridae.
 **Date seen:** early June
 
 **Location:** Pesaguero, Spain
+
+------------
+
+## Noctuoidea
+
+### **Alder** (*Acronicta alni*)
+![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
+
+**Genus:** Acronicta
+
+**Species:** A. alni
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+### **Beautiful Marbled** (*Eublemma purpurina*)
+
+![BeautifulMarbled]({{ site.baseurl }}/images/moths/beautifulmarbled.JPG)
+
+**Genus:** Eublemma
+
+**Species:** E. purpurina
+
+**Date seen:** early June
+
+**Location:** La rasilla, Spain
+
+### **Bird's Wing** (*Dypterygia scabriuscula*)
+
+![BridsWing]({{ site.baseurl }}/images/moths/birdswing.JPG)
+
+**Genus:** Dypterygia
+
+**Species:** D. scabriuscula
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+### **L-album Wainscot** (*Mythimna l-album*)
+
+![Lalbumwainscot]({{ site.baseurl }}/images/moths/l-albumwainscot.JPG)
+
+**Genus:** Mythimna
+
+**Species:** M. l-album
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+### **Light Brocade** (*Lacanobia w-latinum*)
+
+![Lightbrocade]({{ site.baseurl }}/images/moths/lightbrocade.JPG)
+
+**Genus:** Lacanobia
+
+**Species:** L. w-latinum
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+### **Orache** (*Trachea atriplicis*)
+
+![Orache]({{ site.baseurl }}/images/moths/orache.JPG)
+
+**Genus:** Trachea
+
+**Species:** T. atriplicis
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+-----------
+
+## Sphingidae
+The Sphingidae are a family of moths (Lepidoptera), commonly known as hawk moths, sphinx moths, and hornworms; it includes about 1,450 species.
+
+### **Elephant Hawk-moth** (*Deilephila elpenor*)
+
+![ElephantHawk]({{ site.baseurl }}/images/moths/elephanthawk.JPG)
+
+**Genus:** Deilephila
+
+**Species:** D. elpenor
+
+**Date seen:** early July
+
+**Location:** Polgeel, North Cornwall
+
 
 
 
