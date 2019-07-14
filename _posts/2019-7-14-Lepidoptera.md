@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taxonomy of the Lepidoptera
+title: Lepidoptera
 ---
 
 # Lepidoptera Taxonomy

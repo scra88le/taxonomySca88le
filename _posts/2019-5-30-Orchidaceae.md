@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taxonomy of the Orchidaceae
+title: Orchidaceae
 ---
 
 # Orchid Taxonomy
