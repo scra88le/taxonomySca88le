@@ -9,7 +9,7 @@ title: Lepidoptera
 
 ## Noctuoidea
 
-### **Alder moth** (*Acronicta alni*)
+### **Alder** (*Acronicta alni*)
 ![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
 
 **Genus:** Acronicta
@@ -20,8 +20,28 @@ title: Lepidoptera
 
 **Location:** Pesaguero, Spain
 
-### **Beautiful Marbled moth** (*Eublemma purpurina*)
+### **Beautiful Marbled** (*Eublemma purpurina*)
 
 ![BeautifulMarbled]({{ site.baseurl }}/images/moths/beautifulmarbled.JPG)
+
+**Species:** E. purpurina
+
+**Date seen:** early June
+
+**Location:** La rasilla, Spain
+
+### **Bird's Wing** (*Dypterygia scabriuscula*)
+
+![BridsWing]({{ site.baseurl }}/images/moths/birdswing.JPG)
+
+**Species:** D. scabriuscula
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+
+
+
 
 ------------
