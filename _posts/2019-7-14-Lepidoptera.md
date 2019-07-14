@@ -20,6 +20,29 @@ title: Lepidoptera
 
 **Location:** Picos de Europa, Spain
 
+### **Orange Footman** (*Wittia sorcula*)
+![Orangefootman]({{ site.baseurl }}/images/moths/orangefootman.JPG)
+
+**Genus:** Wittia
+
+**Species:** W. sorcula
+
+**Date seen:** early June
+
+**Location:** Picos de Europa, Spain
+
+### **Pale Tussock** (*Calliteara pudibunda*)
+![PaleTussuck]({{ site.baseurl }}/images/moths/paletussockfemale.JPG)
+![PaleTussuck]({{ site.baseurl }}/images/moths/paletussockmale.JPG)
+
+**Genus:** Calliteara
+
+**Species:** C. pudibunda
+
+**Date seen:** early June
+
+**Location:** Picos de Europa, Spain
+
 ---------
 
 ## Geometridae
