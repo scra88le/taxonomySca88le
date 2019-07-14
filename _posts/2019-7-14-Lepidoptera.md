@@ -60,6 +60,17 @@ The female Pale Tussock is shown below on the left, and the male on the right:
 
 **Location:** Picos de Europa, Spain
 
+### **White Ermin** (*Spilosoma lubricipeda*)
+![WhiteErmine]({{ site.baseurl }}/images/moths/whiteermin.JPG)
+
+**Genus:** Spilosoma 
+
+**Species:** S. lubricipeda
+
+**Date seen:** early May
+
+**Location:** Bald Hill, Oxfordshire
+
 ---------
 
 ## Geometridae
@@ -111,7 +122,19 @@ The geometer moths belong to the family Geometridae.
 
 **Date seen:** early June
 
-**Location:** Pesaguero, 
+**Location:** Pesaguero, Spain
+
+### **Portland Ribbon Wave** (*Idaea degeneraria*)
+
+![PortlandRibbonWave]({{ site.baseurl }}/images/moths/portlandribbonwave.JPG)
+
+**Genus:** Idaea
+
+**Species:** I. degeneraria
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
 
 ### **Peppered** (*Biston betularia*)
 
@@ -200,6 +223,18 @@ The geometer moths belong to the family Geometridae.
 
 **Location:** Pesaguero, Spain
 
+### **Treble Lines** (*Charanyca trigrammica*)
+
+![Treblelines]({{ site.baseurl }}/images/moths/treblelines.JPG)
+
+**Genus:** Charanyca
+
+**Species:** C. trigrammica
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
 -----------
 
 ## Notodontidae
@@ -212,6 +247,18 @@ Notodontidae is a family of moths with approximately 3,800 known species.
 **Genus:** Notodonta
 
 **Species:** N. ziczac
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
+### **Swallow Prominent** (*Pheosia tremula*)
+
+![Swallowprominent]({{ site.baseurl }}/images/moths/swallowprominent.JPG)
+
+**Genus:** Pheosia
+
+**Species:** P. tremula
 
 **Date seen:** early June
 
@@ -235,6 +282,18 @@ The Sphingidae are a family of moths (Lepidoptera), commonly known as hawk moths
 
 **Location:** Polgeel, North Cornwall
 
+### **Small Elephant Hawk-moth** (*Deilephila porcellus*)
+
+![SmallElephantHawk]({{ site.baseurl }}/images/moths/smallelephanthawk.JPG)
+
+**Genus:** Deilephila
+
+**Species:** D. porcellus
+
+**Date seen:** early June
+
+**Location:** Pesaguero, Spain
+
 ### **Privet Hawk-moth** (*Sphinx ligustri*)
 
 ![PrivetHawk]({{ site.baseurl }}/images/moths/privethawk.JPG)
@@ -248,7 +307,8 @@ The Sphingidae are a family of moths (Lepidoptera), commonly known as hawk moths
 **Location:** Polgeel, North Cornwall
 
 
-
-
-
 ------------
+
+TO DO: include lepidoptera decimal-style checklist number: https://ukmoths.org.uk/systematic-list/
+
+
