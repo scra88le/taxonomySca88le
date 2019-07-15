@@ -8,6 +8,21 @@ title: Lepidoptera (Butterflys)
 # Taxonomy of the Butterfly
 
 
+## Hesperiidae
+
+Being diurnal, they are generally called butterflies.
+
+### **Lulworth skipper** (*Thymelicus acteon*)
+![Lulworthskipper]({{ site.baseurl }}/images/butterflys/lulworthskipper.JPG)
+
+**Genus:** Thymelicus
+
+**Species:** T. acteon
+
+**Date seen:** early June
+
+**Location:** Picos de Europa, Spain
+
 ## Lycaenidae
 
 Lycaenidae is the second-largest family of butterflies, with over 6,000 species worldwide.
@@ -56,6 +71,16 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Location:** Hartslock (BBOWT reserve), Oxfordhshire
 
+### **Holly Blue** (*Celastrina argiolus*)
+![Hollyblue]({{ site.baseurl }}/images/butterflys/hollyblue.JPG)
+
+**Genus:** Celastrina
+
+**Species:** C. argiolus
+
+**Date seen:** mid July
+
+**Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
 ------
 
@@ -86,7 +111,7 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
 ### **Heath fritillary** (*Melitaea athalia*)
-![Gatekeeper]({{ site.baseurl }}/images/butterflys/heathfritillary.JPG)
+![HeathFritillary]({{ site.baseurl }}/images/butterflys/heathfritillary.JPG)
 
 **Genus:** Melitaea
 
@@ -95,6 +120,39 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 **Date seen:** early June, 2019
 
 **Location:** Chobham Common, Surrey
+
+### **Marbled White** (*Melanargia galathea*)
+![Marbledwhite]({{ site.baseurl }}/images/butterflys/marbledwhite.JPG)
+
+**Genus:** Melanargia
+
+**Species:** M. galathea
+
+**Date seen:** mid July
+
+**Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
+
+### **Meadow Brown** (*Maniola jurtina*)
+![Meadowbrown]({{ site.baseurl }}/images/butterflys/meadownbrown.JPG)
+
+**Genus:** Maniola
+
+**Species:** M. jurtina
+
+**Date seen:** mid July
+
+**Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
+
+### **Mountain ringlet** (*Erebia epiphron*)
+![Mountainringlet]({{ site.baseurl }}/images/butterflys/mountainringlet.JPG)
+
+**Genus:** Erebia
+
+**Species:** E. epiphron
+
+**Date seen:** mid June
+
+**Location:** Picos de Europa
 
 
 ----------
