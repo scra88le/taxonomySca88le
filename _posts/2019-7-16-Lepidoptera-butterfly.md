@@ -45,6 +45,18 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Location:** Bald Hill, Oxfordshire
 
+### **Green hairstreak** (*Callophrys rubi*)
+![Greenhairstreak]({{ site.baseurl }}/images/butterflys/greenhairstreak.JPG)
+
+**Genus:** Callophrys
+
+**Species:** C. rubi
+
+**Date seen:** early May
+
+**Location:** Hartslock (BBOWT reserve), Oxfordhshire
+
+
 ------
 
 ##  Nymphalidae
@@ -61,6 +73,46 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 **Date seen:** early June
 
 **Location:** Las Tuerces, Spain
+
+### **Gate keeper** (*Pyronia tithonus*)
+![Gatekeeper]({{ site.baseurl }}/images/butterflys/gatekeeper.JPG)
+
+**Genus:** Pyronia
+
+**Species:** P. tithonus
+
+**Date seen:** mid July
+
+**Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
+
+### **Heath fritillary** (*Melitaea athalia*)
+![Gatekeeper]({{ site.baseurl }}/images/butterflys/heathfritillary.JPG)
+
+**Genus:** Melitaea
+
+**Species:** M. athalia
+
+**Date seen:** early June, 2019
+
+**Location:** Chobham Common, Surrey
+
+
+----------
+
+## Pieridae
+
+The Pieridae family comprises around 76 genera containing about 1,100 species.
+
+### **Green-veined white** (*Pieris napi*)
+![Greenveinedwhite]({{ site.baseurl }}/images/butterflys/greenveined.JPG)
+
+**Genus:** Pieris
+
+**Species:** P. napi
+
+**Date seen:** late May
+
+**Location:** Dry Sandford Pit (BBOWT reserve), Oxfordshire
 
 ----------
 
