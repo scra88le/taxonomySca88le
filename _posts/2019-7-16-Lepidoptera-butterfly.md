@@ -35,7 +35,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 **Location:** Picos de Europa, Spain
 
 ### **Common blue** (*Polyommatus icarus*)
-![CommonBlue]({{ site.baseurl }}/images/butterflys/commomnblue.JPG)
+![CommonBlue]({{ site.baseurl }}/images/butterflys/commonblue.JPG)
 
 **Genus:** Polyommatus
 
