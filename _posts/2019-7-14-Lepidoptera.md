@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Lepidoptera - Moths
+title: Lepidoptera (Moths)
 ---
 
-# Lepidoptera - Moths - Taxonomy
-
 --------
+
+# Taxonomy of Moths
+
 
 ##  Drepanidae
 The Drepanidae is a family of moths with about 660 species described worldwide.
