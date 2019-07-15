@@ -60,17 +60,6 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Location:** Bald Hill, Oxfordshire
 
-### **Green hairstreak** (*Callophrys rubi*)
-![Greenhairstreak]({{ site.baseurl }}/images/butterflys/greenhairstreak.JPG)
-
-**Genus:** Callophrys
-
-**Species:** C. rubi
-
-**Date seen:** early May
-
-**Location:** Hartslock (BBOWT reserve), Oxfordhshire
-
 ### **Holly Blue** (*Celastrina argiolus*)
 ![Hollyblue]({{ site.baseurl }}/images/butterflys/hollyblue.JPG)
 
@@ -81,6 +70,17 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 **Date seen:** mid July
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
+
+### **Green hairstreak** (*Callophrys rubi*)
+![Greenhairstreak]({{ site.baseurl }}/images/butterflys/greenhairstreak.JPG)
+
+**Genus:** Callophrys
+
+**Species:** C. rubi
+
+**Date seen:** early May
+
+**Location:** Hartslock (BBOWT reserve), Oxfordhshire
 
 ------
 
@@ -165,7 +165,6 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 **Date seen:** mid June
 
 **Location:** Picos de Europa
-
 
 ----------
 
