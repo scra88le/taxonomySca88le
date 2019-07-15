@@ -121,6 +121,18 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 
 **Location:** Chobham Common, Surrey
 
+### **Pearl-bordered fritillary** (*Boloria euphrosyne*)
+![PearlBorderedFritillary]({{ site.baseurl }}/images/butterflys/pearlborderedfritillary1.JPG)
+![PearlBorderedFritillary]({{ site.baseurl }}/images/butterflys/pearlborderedfritillary2.JPG)
+
+**Genus:** Boloria euphrosyne
+
+**Species:** B. euphrosyne
+
+**Date seen:** early June, 2019
+
+**Location:** Picos de Europa
+
 ### **Marbled White** (*Melanargia galathea*)
 ![Marbledwhite]({{ site.baseurl }}/images/butterflys/marbledwhite.JPG)
 
