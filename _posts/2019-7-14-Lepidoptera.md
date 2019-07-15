@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lepidoptera
+title: Lepidoptera - Moths
 ---
 
-# Lepidoptera Taxonomy
+# Lepidoptera - Moths - Taxonomy
 
 --------
 
@@ -190,7 +190,7 @@ The geometer moths belong to the family Geometridae.
 
 ### **L-album Wainscot** (*Mythimna l-album*)
 
-![Lalbumwainscot]({{ site.baseurl }}/images/moths/l-albumwainscot.JPG)
+![Lalbumwainscot]({{ site.baseurl }}/images/moths/L-albumwainscot.JPG)
 
 **Genus:** Mythimna
 
