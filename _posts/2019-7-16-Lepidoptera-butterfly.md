@@ -145,7 +145,7 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
 ### **Meadow Brown** (*Maniola jurtina*)
-![Meadowbrown]({{ site.baseurl }}/images/butterflys/meadownbrown.JPG)
+![Meadowbrown]({{ site.baseurl }}/images/butterflys/meadowbrown.JPG)
 
 **Genus:** Maniola
 
