@@ -23,6 +23,28 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Location:** Picos de Europa, Spain
 
+### **Chalkhill blue** (*Polyommatus coridon*)
+![Chalkhill]({{ site.baseurl }}/images/butterflys/chalkhillblue.JPG)
+
+**Genus:** Polyommatus
+
+**Species:** P. coridon
+
+**Date seen:** early June
+
+**Location:** Picos de Europa, Spain
+
+### **Common blue** (*Polyommatus icarus*)
+![CommonBlue]({{ site.baseurl }}/images/butterflys/commomnblue.JPG)
+
+**Genus:** Polyommatus
+
+**Species:** P. icarus
+
+**Date seen:** late May
+
+**Location:** Bald Hill, Oxfordshire
+
 ------
 
 ##  Nymphalidae
@@ -40,5 +62,21 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 
 **Location:** Las Tuerces, Spain
 
+----------
+
+## Riodinidae
+
+Riodinidae is the family of metalmark butterflies. The common name "metalmarks" refers to the small, metallic-looking spots commonly found on their wings. The 1532 species are placed in 146 genera.
+
+### **Duke of Burgundy** (*Hamearis lucina*)
+![Duke of Burgundy]({{ site.baseurl }}/images/butterflys/dukeofburgundy.JPG)
+
+**Genus:** Hamearis (the Duke of Burgundy is the only member of this genus)
+
+**Species:** H. lucina
+
+**Date seen:** early June
+
+**Location:** near Areños, Spain
 
 
