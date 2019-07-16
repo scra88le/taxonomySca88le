@@ -9,7 +9,7 @@ title: Lepidoptera (Butterflies)
 
 ## Hesperiidae
 
-Being diurnal, they are generally called butterflies. The Lulworth skipper is distinguished from the small skipper from the cresent shaped light marking on the forewing. 
+Hesperiidae are diurnal butterflies. The Lulworth skipper is distinguished from the small skipper from the cresent shaped light marking on the forewing. 
 
 ### **Lulworth skipper** (*Thymelicus acteon*)
 ![Lulworthskipper]({{ site.baseurl }}/images/butterflys/lulworthskipper.JPG)
