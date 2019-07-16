@@ -23,9 +23,11 @@ Being diurnal, they are generally called butterflies.
 
 **Location:** Picos de Europa, Spain
 
+----------
+
 ## Lycaenidae
 
-Lycaenidae is the second-largest family of butterflies, with over 6,000 species worldwide.
+Lycaenidae is the second-largest family of butterflies, with over 6,000 species worldwide. The family is traditionally divided into the subfamilies of the blues (Polyommatinae), the coppers (Lycaeninae), the hairstreaks (Theclinae), and the harvesters (Miletinae).
 
 ### **Blue spot hairstreak** (*Satyrium spini*)
 ![Bluespothairstreak]({{ site.baseurl }}/images/butterflys/bluespothairstreak.JPG)
@@ -81,6 +83,18 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 **Date seen:** early May
 
 **Location:** Hartslock (BBOWT reserve), Oxfordhshire
+
+### **Purple-edged copper** (*Lycaena hippothoe*)
+![Purpleedgedcopper]({{ site.baseurl }}/images/butterflys/purpleedgedcopper.JPG)
+
+**Genus:** Lycaena
+
+**Species:** L. hippothoe
+
+**Date seen:** mid June
+
+**Location:** Bejes, Spain
+
 
 ------
 
@@ -166,7 +180,35 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 
 **Location:** Picos de Europa
 
+### **Painted lady** (*Vanessa cardui*)
+![Paintedlady]({{ site.baseurl }}/images/butterflys/paintedlady.JPG)
+
+**Genus:** Vanessa
+
+**Species:** V. cardui
+
+**Date seen:** late June
+
+**Location:** East Oxford
+
 ----------
+
+## Papilionidae
+
+Swallowtail butterflies are large, colorful butterflies in the family Papilionidae, and include over 550 species. The European Swallowtail is the type species of the genus Papilio. 
+
+### **Swallowtail** (*Papilio machaon*)
+![Swallowtail]({{ site.baseurl }}/images/butterflys/swallowtail.JPG)
+
+**Genus:** Papilio
+
+**Species:** P. machaon
+
+**Date seen:** mid June
+
+**Location:** Picos de Europa
+
+------------
 
 ## Pieridae
 
