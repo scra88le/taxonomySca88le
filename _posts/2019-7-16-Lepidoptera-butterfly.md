@@ -9,7 +9,7 @@ title: Lepidoptera (Butterflies)
 
 ## Hesperiidae
 
-Hesperiidae are diurnal butterflies. The Lulworth skipper is distinguished from the small skipper from the cresent shaped light marking on the forewing. 
+Hesperiidae, known as skippers, are recognised by their rapid and darting flight. There are more than 3,500 species described, with the type species being *Hesperia comma*, the Silver-spotted skipper. The Lulworth skipper shown below is distinguished from the small skipper from the cresent shaped light marking on the forewing. 
 
 ### **Lulworth skipper** (*Thymelicus acteon*)
 ![Lulworthskipper]({{ site.baseurl }}/images/butterflys/lulworthskipper.JPG)
@@ -37,7 +37,7 @@ Hesperiidae are diurnal butterflies. The Lulworth skipper is distinguished from 
 
 ## Lycaenidae
 
-Lycaenidae is the second-largest family of butterflies, with over 6,000 species worldwide. The family is traditionally divided into the subfamilies of the blues (Polyommatinae), the coppers (Lycaeninae), the hairstreaks (Theclinae), and the harvesters (Miletinae).
+Lycaenidae is the second-largest family of butterflies, with over 6,000 species described worldwide. The family is traditionally divided into the subfamilies of the blues (*Polyommatinae*), the coppers (*Lycaeninae*), the hairstreaks (*Theclinae*), and the harvesters (*Miletinae*).
 
 ### **Blue spot hairstreak** (*Satyrium spini*)
 ![Bluespothairstreak]({{ site.baseurl }}/images/butterflys/bluespothairstreak.JPG)
