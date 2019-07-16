@@ -10,7 +10,7 @@ title: Lepidoptera (Butterflys)
 
 ## Hesperiidae
 
-Being diurnal, they are generally called butterflies.
+Being diurnal, they are generally called butterflies. The Lulworth skipper is distinguished from the small skipper from the cresent shaped light marking on the forewing. 
 
 ### **Lulworth skipper** (*Thymelicus acteon*)
 ![Lulworthskipper]({{ site.baseurl }}/images/butterflys/lulworthskipper.JPG)
@@ -22,6 +22,17 @@ Being diurnal, they are generally called butterflies.
 **Date seen:** early June
 
 **Location:** Picos de Europa, Spain
+
+### **Small skipper** (*Thymelicus sylvestris*)
+![Smallskipper]({{ site.baseurl }}/images/butterflys/smallskipper.JPG)
+
+**Genus:** Thymelicus
+
+**Species:** T. sylvestris
+
+**Date seen:** mid July
+
+**Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
 ----------
 
