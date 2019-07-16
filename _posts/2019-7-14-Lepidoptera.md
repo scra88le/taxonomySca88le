@@ -6,10 +6,26 @@ title: Lepidoptera (Moths)
 --------
 
 # Taxonomy of Moths
-There are some 160,000 species of moths in the world, compared to 17,500 species of butterflies. 
+There are some 160,000 species of moths in the world, compared to 17,500 species of butterflies. Taxonomists have currently placed moth species into one of 119 families; although classification appears to be highly fluid. The majority of so-called *macro* moths can be found within five families:
+
+* **Arctiidae** -  approximately 10,000 species commonly known as Tiger Moths. Many species in this group display bright colors of red and yellow.
+
+* **Geometridae** - some 15,000 described species, this Family is the second largest of moths in the world. They typically rest with their wings spread open.
+
+* **Noctuidae** - by far the largest moth family, with some 25,000 known species in the world. 
+
+* **Saturniidae** - this family includes the largest of moths, and incorporates some 1,000 worldwide species. The Luna Moth is an example of this family.
+
+* **Sphingidae** -  members of this family are generally large, and contains about 1,000 species. The Privet hawk-moth is an example of this family, and is the UK's largest moth species.
+
+In the UK there are over 2,500 species of moths. Making it one of the more diverse fauna. UK macro moths comprise approximately 900 species which are divided into 19 different families. Micro moths is the term given to a wide variety of very small moths. The group contains many thousands of tiny species, that are not covered in this article.
+
+The following presents some of the moth species that I photographed in the UK (north Cornwall and Oxfordshire) and whilst on a field trip to the Picos de Europa during the summer of 2019.
+
+----------
 
 ##  Drepanidae
-The Drepanidae is a family of moths with about 660 species described worldwide.
+The Drepanidae is a family of moths with about 660 species described worldwide, which inturn are divided into three subfamilies.
 
 ### **Peach Blossom** (*Thyatira batis*)
 ![Peachblossom]({{ site.baseurl }}/images/moths/peachblossom.JPG)
@@ -58,7 +74,7 @@ The female Pale Tussock is shown below on the left, and the male on the right:
 
 **Species:** C. pudibunda
 
-**Date seen:** early June
+**Date seen:** early June 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -152,7 +168,8 @@ The geometer moths belong to the family Geometridae.
 
 ------------
 
-## Noctuoidea
+## Noctuidae
+The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,089 genera and 11,772 species. The type species is *Noctua pronuba* (the Large yellow underwing)
 
 ### **Alder** (*Acronicta alni*)
 ![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
@@ -240,7 +257,7 @@ The geometer moths belong to the family Geometridae.
 -----------
 
 ## Notodontidae
-Notodontidae is a family of moths with approximately 3,800 known species.
+Notodontidae is a family of moths with approximately 3,800 known species. Adult Notodontidae do not feed. Prominents are well known species of this family.
 
 ### **Pebble Prominent** (*Notodonta ziczac*)
 
@@ -270,7 +287,7 @@ Notodontidae is a family of moths with approximately 3,800 known species.
 -------
 
 ## Sphingidae
-The Sphingidae are a family of moths (Lepidoptera), commonly known as hawk moths, sphinx moths, and hornworms; it includes about 1,450 species.
+The Sphingidae are a family of moths, commonly known as hawk moths, sphinx moths, and hornworms; it includes about 1,450 species. The type species is *Sphinx ligustri*, the Privet hawk moth.
 
 ### **Elephant Hawk-moth** (*Deilephila elpenor*)
 
@@ -313,7 +330,7 @@ The Sphingidae are a family of moths (Lepidoptera), commonly known as hawk moths
 
 ## Zygaenidae
 
-Some of the 1000 or so species are commonly known as burnet or forester moths, are in the Zygaenidae family. Zygaenid moths are typically day flying with a slow, fluttering flight, and with typically clubbed antennae. They generally have a metallic sheen and often prominent spots of red or yellow.
+Some of the 1000 or so species commonly known as burnet or forester moths, are in the Zygaenidae family. Zygaenid moths are typically day flying with a slow, fluttering flight, and with clubbed antennae. They generally have a metallic sheen and often prominent spots of red or yellow.
 
 ### **Six-spot burnet** (*Zygaena filipendulae*)
 

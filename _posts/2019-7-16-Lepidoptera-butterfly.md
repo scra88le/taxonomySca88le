@@ -7,7 +7,7 @@ title: Lepidoptera (Butterflies)
 
 # Taxonomy of the Butterfly
 
-The Lepidoptera comprise c.174,000 known species; those which have been described by science. Butterflies are currently divided into seven families, that are shown below together with their common names. Species within the superfamily Papilionoidea (the Scudder butterflies), comprise six of these families (*Hedylidae* being the excluded family), each having species within the United Kingdom. The seven families are outlined below:
+Originally Linnaeus placed all butterflies and moths in the same genus Papilio. Today the *Lepidoptera* comprise c.180,000 known species. Butterflies are currently divided into seven families within the order Lepidoptera . These are shown below together with their common names. Species within the superfamily Papilionoidea (the Scudder butterflies), comprise six of these families, *Hedylidae* being the excluded family. Each family within the Papilionoidea has species within the United Kingdom. The seven families are outlined below:
 
 * *Hedylidae* - American moth-butterflies
 * *Hesperiidae* - Skippers
