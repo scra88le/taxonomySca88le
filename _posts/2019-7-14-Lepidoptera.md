@@ -7,7 +7,6 @@ title: Lepidoptera (Moths)
 
 # Taxonomy of Moths
 
-
 ##  Drepanidae
 The Drepanidae is a family of moths with about 660 species described worldwide.
 
@@ -310,6 +309,24 @@ The Sphingidae are a family of moths (Lepidoptera), commonly known as hawk moths
 
 
 ------------
+
+## Zygaenidae
+
+Some of the 1000 or so species are commonly known as burnet or forester moths, are in the Zygaenidae family. Zygaenid moths are typically day flying with a slow, fluttering flight, and with typically clubbed antennae. They generally have a metallic sheen and often prominent spots of red or yellow.
+
+### **Six-spot burnet** (*Zygaena filipendulae*)
+
+![sixspotburnet]({{ site.baseurl }}/images/moths/sixspotburnet.JPG)
+
+**Genus:** Zygaena 
+
+**Species:** Z. filipendulae
+
+**Date seen:** early June
+
+**Location:** Dry Sandford (BBWOT reserve), Oxfordshire
+
+
 
 TO DO: include lepidoptera decimal-style checklist number: https://ukmoths.org.uk/systematic-list/
 
