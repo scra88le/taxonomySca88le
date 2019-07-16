@@ -6,7 +6,8 @@ title: Lepidoptera (Butterflies)
 --------
 
 # Taxonomy of the Butterfly
-The Lepidoptera comprises about 174,000 known species; those which have been described by science. Butterflys are currently divided into seven families, that are shown below together with their common names. Species within the superfamily Papilionoidea, comprise six of these families (*Hedylidae* being the excluded family), each have species within the United Kingdom. The seven families are outlined below:
+
+The Lepidoptera comprise c.174,000 known species; those which have been described by science. Butterflies are currently divided into seven families, that are shown below together with their common names. Species within the superfamily Papilionoidea (the Scudder butterflies), comprise six of these families (*Hedylidae* being the excluded family), each having species within the United Kingdom. The seven families are outlined below:
 
 * *Hedylidae* - American moth-butterflies
 * *Hesperiidae* - Skippers
@@ -17,7 +18,6 @@ The Lepidoptera comprises about 174,000 known species; those which have been des
 * *Riodinidae* - Metalmarks
 
 ----------
-
 
 ## Hesperiidae
 
@@ -49,7 +49,7 @@ Hesperiidae, known as skippers, are recognised by their rapid and darting flight
 
 ## Lycaenidae
 
-Lycaenidae is the second-largest family of butterflies, with over 6,000 species described worldwide. The family is traditionally divided into the subfamilies of the blues (*Polyommatinae*), the coppers (*Lycaeninae*), the hairstreaks (*Theclinae*), and the harvesters (*Miletinae*).
+Lycaenidae is the second-largest family of butterflies, with over 6,000 species described worldwide. The family is traditionally divided into the subfamilies of the blues (*Polyommatinae*), the coppers (*Lycaeninae*), the hairstreaks (*Theclinae*), and the harvesters (*Miletinae*). 
 
 ### **Blue spot hairstreak** (*Satyrium spini*)
 ![Bluespothairstreak]({{ site.baseurl }}/images/butterflys/bluespothairstreak.JPG)
@@ -143,7 +143,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 ##  Nymphalidae
 
-The Nymphalidae are the largest family of butterflies with more than 6,000 species distributed throughout most of the world.
+The Nymphalidae are the largest family of butterflies with 12 subfamilies, more than 600 genera and over 5,700 species distributed throughout most of the world. Most species of Nymphalidae stand on only four legs while the other two are curled up and many hold their colourful wings flat when resting.
 
 ### **Cardinal** (*Argynnis pandora*)
 ![Cardinal]({{ site.baseurl }}/images/butterflys/cardinal.JPG)
@@ -304,7 +304,7 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 
 ## Papilionidae
 
-Swallowtail butterflies are large, colorful butterflies in the family Papilionidae, and include over 550 species. The European Swallowtail is the type species of the genus Papilio. 
+Swallowtail butterflies are large, colorful butterflies in the family Papilionidae, and include over 550 species. The European Swallowtail is the type species of the genus Papilio, and the type genus of the Papilonidae is Papilio.. 
 
 ### **Swallowtail** (*Papilio machaon*)
 ![Swallowtail]({{ site.baseurl }}/images/butterflys/swallowtail.JPG)
@@ -321,7 +321,7 @@ Swallowtail butterflies are large, colorful butterflies in the family Papilionid
 
 ## Pieridae
 
-The Pieridae family comprises around 76 genera containing about 1,100 species.
+The Pieridae family comprises around 76 genera containing about 1,100 species. Most pierid butterflies are white, yellow, or orange in coloration, often with black spots. 
 
 ### **Green-veined white** (*Pieris napi*)
 ![Greenveinedwhite]({{ site.baseurl }}/images/butterflys/greenveined.JPG)
@@ -338,12 +338,12 @@ The Pieridae family comprises around 76 genera containing about 1,100 species.
 
 ## Riodinidae
 
-Riodinidae is the family of metalmark butterflies. The common name "metalmarks" refers to the small, metallic-looking spots commonly found on their wings. The 1532 species are placed in 146 genera.
+Riodinidae is the family of metalmark butterflies. The common name "metalmarks" refers to the small, metallic-looking spots commonly found on their wings. Three subfamilies split approximately 1500 species into 146 genera. The Duke of Burgundy (below) is the only member of its genus.
 
 ### **Duke of Burgundy** (*Hamearis lucina*)
 ![Duke of Burgundy]({{ site.baseurl }}/images/butterflys/dukeofburgundy.JPG)
 
-**Genus:** Hamearis (the Duke of Burgundy is the only member of this genus)
+**Genus:** Hamearis
 
 **Species:** H. lucina
 
