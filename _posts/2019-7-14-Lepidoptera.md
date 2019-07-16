@@ -6,6 +6,7 @@ title: Lepidoptera (Moths)
 --------
 
 # Taxonomy of Moths
+There are some 160,000 species of moths in the world, compared to 17,500 species of butterflies. 
 
 ##  Drepanidae
 The Drepanidae is a family of moths with about 660 species described worldwide.
@@ -325,7 +326,6 @@ Some of the 1000 or so species are commonly known as burnet or forester moths, a
 **Date seen:** early June
 
 **Location:** Dry Sandford (BBWOT reserve), Oxfordshire
-
 
 
 TO DO: include lepidoptera decimal-style checklist number: https://ukmoths.org.uk/systematic-list/
