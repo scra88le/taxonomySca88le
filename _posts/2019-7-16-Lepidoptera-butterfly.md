@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Lepidoptera (Butterflys)
+title: Lepidoptera (Butterflies)
 ---
 
 --------
 
 # Taxonomy of the Butterfly
-
 
 ## Hesperiidae
 
@@ -46,6 +45,17 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 **Genus:** Satyrium
 
 **Species:** S. spini
+
+**Date seen:** early June
+
+**Location:** Picos de Europa, Spain
+
+### **Brown argus** (*Aricia agestis*)
+![Brownargus]({{ site.baseurl }}/images/butterflys/brownargus.JPG)
+
+**Genus:** Aricia
+
+**Species:** A. agestis
 
 **Date seen:** early June
 
@@ -106,6 +116,16 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Location:** Bejes, Spain
 
+### **Sooty copper** (*Lycaena tityrus*)
+![Sootycopper]({{ site.baseurl }}/images/butterflys/sootycopper.JPG)
+
+**Genus:** Lycaena
+
+**Species:** L. tityrus
+
+**Date seen:** mid June
+
+**Location:** Picos de Europa, Spain
 
 ------
 
@@ -169,6 +189,17 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 
 **Location:** Polgeel, Cornwall
 
+### **Twin-spot fritillary** (*Brenthis hecate*)
+![TwinSpotFritillary]({{ site.baseurl }}/images/butterflys/twinspotfritillary.JPG)
+
+**Genus:** Brenthis hecate
+
+**Species:** B. hecate
+
+**Date seen:** mid June, 2019
+
+**Location:** Picos de Europa, Spain
+
 ### **Marbled White** (*Melanargia galathea*)
 ![Marbledwhite]({{ site.baseurl }}/images/butterflys/marbledwhite.JPG)
 
@@ -223,6 +254,39 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 **Date seen:** mid July
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
+
+### **Small tortoisehell** (*Aglais urticae*)
+![Smalltortoiseshell]({{ site.baseurl }}/images/butterflys/smalltortoiseshell.JPG)
+
+**Genus:** Aglais
+
+**Species:** A. urticae
+
+**Date seen:** mid July
+
+**Location:** Dancer's End (BBOWT reserve), Buckinghamshire
+
+### **Speckled wood** (*Pararge aegeria*)
+![Speckledwood]({{ site.baseurl }}/images/butterflys/speckledwood.JPG)
+
+**Genus:**  Pararge 
+
+**Species:** P. aegeria
+
+**Date seen:** mid June
+
+**Location:** Picos de Europa, Spain 
+
+### **Wall** (*Lasiommata megera*)
+![Wall]({{ site.baseurl }}/images/butterflys/wall.JPG)
+
+**Genus:**   Lasiommata
+
+**Species:** L. megera
+
+**Date seen:** mid June
+
+**Location:** Picos de Europa, Spain 
 
 ----------
 
