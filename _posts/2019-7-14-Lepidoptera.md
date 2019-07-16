@@ -8,7 +8,7 @@ title: Lepidoptera (Moths)
 # Taxonomy of Moths
 There are some 160,000 species of moths in the world, compared to 17,500 species of butterflies. Taxonomists have currently placed moth species into one of 119 families; although classification appears to be highly fluid. The majority of so-called *macro* moths can be found within five families:
 
-* **Arctiidae** -  approximately 10,000 species commonly known as Tiger Moths. Many species in this group display bright colors of red and yellow.
+* **Erebidae** - contains the subfamily *Arctiinae*, which in turn contains many species of tiger moths; typically bright colors of red and yellow.
 
 * **Geometridae** - some 15,000 described species, this Family is the second largest of moths in the world. They typically rest with their wings spread open.
 
@@ -18,7 +18,7 @@ There are some 160,000 species of moths in the world, compared to 17,500 species
 
 * **Sphingidae** -  members of this family are generally large, and contains about 1,000 species. The Privet hawk-moth is an example of this family, and is the UK's largest moth species.
 
-In the UK there are over 2,500 species of moths. Making it one of the more diverse fauna. UK macro moths comprise approximately 900 species which are divided into 19 different families. Micro moths is the term given to a wide variety of very small moths. The group contains many thousands of tiny species, that are not covered in this article.
+In the UK there are over 2,500 species of moths. Making it one of the more diverse fauna. UK macro moths comprise approximately 900 species which are divided into 19 different families. Microlepidoptera is the term given to a wide variety of very small moths, as opposed to macrolepidoptera. The group contains many thousands of tiny species; the division is arbitrary.
 
 The following presents some of the moth species that I photographed in the UK (north Cornwall and Oxfordshire) and whilst on a field trip to the Picos de Europa during the summer of 2019.
 
