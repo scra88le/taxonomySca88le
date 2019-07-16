@@ -147,6 +147,17 @@ The Nymphalidae are the largest family of butterflies with more than 6,000 speci
 
 **Location:** Picos de Europa
 
+### **Silver-washed fritillary** (*Argynnis paphia*)
+![SilverWashedFritillary]({{ site.baseurl }}/images/butterflys/silverwashedfritillary.JPG)
+
+**Genus:** Argynnis
+
+**Species:** A. paphia
+
+**Date seen:** late June, 2019
+
+**Location:** Polgeel, Cornwall
+
 ### **Marbled White** (*Melanargia galathea*)
 ![Marbledwhite]({{ site.baseurl }}/images/butterflys/marbledwhite.JPG)
 
