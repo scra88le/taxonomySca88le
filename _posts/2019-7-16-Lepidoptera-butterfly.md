@@ -23,7 +23,7 @@ Hesperiidae are diurnal butterflies. The Lulworth skipper is distinguished from 
 **Location:** Picos de Europa, Spain
 
 ### **Small skipper** (*Thymelicus sylvestris*)
-![Lulworthskipper]({{ site.baseurl }}/images/butterflys/lulworthskipper.JPG)
+![Lulworthskipper]({{ site.baseurl }}/images/butterflys/smallskipper.JPG)
 
 **Genus:** Thymelicus
 
