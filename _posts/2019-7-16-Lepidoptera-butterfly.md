@@ -51,17 +51,6 @@ Hesperiidae, known as skippers, are recognised by their rapid and darting flight
 
 Lycaenidae is the second-largest family of butterflies, with over 6,000 species described worldwide. The family is traditionally divided into the subfamilies of the blues (*Polyommatinae*), the coppers (*Lycaeninae*), the hairstreaks (*Theclinae*), and the harvesters (*Miletinae*). 
 
-### **Blue spot hairstreak** (*Satyrium spini*)
-![Bluespothairstreak]({{ site.baseurl }}/images/butterflys/bluespothairstreak.JPG)
-
-**Genus:** Satyrium
-
-**Species:** S. spini
-
-**Date seen:** early June, 2019
-
-**Location:** Picos de Europa, Spain
-
 ### **Brown argus** (*Aricia agestis*)
 ![Brownargus]({{ site.baseurl }}/images/butterflys/brownargus.JPG)
 
@@ -105,6 +94,17 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 **Date seen:** mid July, 2019
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
+
+### **Blue spot hairstreak** (*Satyrium spini*)
+![Bluespothairstreak]({{ site.baseurl }}/images/butterflys/bluespothairstreak.JPG)
+
+**Genus:** Satyrium
+
+**Species:** S. spini
+
+**Date seen:** early June, 2019
+
+**Location:** Picos de Europa, Spain
 
 ### **Green hairstreak** (*Callophrys rubi*)
 ![Greenhairstreak]({{ site.baseurl }}/images/butterflys/greenhairstreak.JPG)
