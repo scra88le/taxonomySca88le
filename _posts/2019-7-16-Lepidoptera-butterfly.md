@@ -145,8 +145,6 @@ The female:
 
 **Location:** Picos de Europa, Spain
 
-
-
 ------
 
 ##  Nymphalidae
@@ -286,7 +284,9 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Location:** Dancer's End (BBOWT reserve), Buckinghamshire
 
-### **Speckled wood** (*Pararge aegeria*)
+### **Speckled wood** (*Pararge aegeria aegeria*)
+The Speckled wood colouring varies along a gradient (called a cline) from northern to southern Europe.  In northern Europe (including parts of the UK), there is a darker subspecies (called P. a. tircis) whilst in southern Europe,  a lighter coloured subspecies, called P. a. aegeria. 
+
 ![Speckledwood]({{ site.baseurl }}/images/butterflys/speckledwood.JPG)
 
 **Genus:**  Pararge 
