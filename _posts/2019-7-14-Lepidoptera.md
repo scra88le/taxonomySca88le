@@ -34,7 +34,7 @@ The Drepanidae is a family of moths with about 660 species described worldwide, 
 
 **Species:** T. batis
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -49,7 +49,7 @@ The Drepanidae is a family of moths with about 660 species described worldwide, 
 
 **Species:** E. villica
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -60,7 +60,7 @@ The Drepanidae is a family of moths with about 660 species described worldwide, 
 
 **Species:** W. sorcula
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -74,7 +74,7 @@ The female Pale Tussock is shown below on the left, and the male on the right:
 
 **Species:** C. pudibunda
 
-**Date seen:** early June 2019
+**Date seen:** early June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -85,7 +85,7 @@ The female Pale Tussock is shown below on the left, and the male on the right:
 
 **Species:** S. lubricipeda
 
-**Date seen:** early May
+**Date seen:** early May, 2019
 
 **Location:** Bald Hill, Oxfordshire
 
@@ -102,7 +102,7 @@ The geometer moths belong to the family Geometridae.
 
 **Species:** T. comae
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -114,7 +114,7 @@ The geometer moths belong to the family Geometridae.
 
 **Species:** O. luteolata
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -126,7 +126,7 @@ The geometer moths belong to the family Geometridae.
 
 **Species:** D. sannio
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -138,7 +138,7 @@ The geometer moths belong to the family Geometridae.
 
 **Species:** E. alternata
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -150,7 +150,7 @@ The geometer moths belong to the family Geometridae.
 
 **Species:** I. degeneraria
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -162,7 +162,7 @@ The geometer moths belong to the family Geometridae.
 
 **Species:** B. betularia
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -178,7 +178,7 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Species:** A. alni
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -190,7 +190,7 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Species:** E. purpurina
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** La rasilla, Spain
 
@@ -202,7 +202,7 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Species:** D. scabriuscula
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -214,7 +214,7 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Species:** M. l-album
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -226,7 +226,7 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Species:** L. w-latinum
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -238,7 +238,7 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Species:** T. atriplicis
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -250,7 +250,7 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Species:** C. trigrammica
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -267,7 +267,7 @@ Notodontidae is a family of moths with approximately 3,800 known species. Adult 
 
 **Species:** N. ziczac
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -279,7 +279,7 @@ Notodontidae is a family of moths with approximately 3,800 known species. Adult 
 
 **Species:** P. tremula
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -297,7 +297,7 @@ The Sphingidae are a family of moths, commonly known as hawk moths, sphinx moths
 
 **Species:** D. elpenor
 
-**Date seen:** early July
+**Date seen:** early July, 2019
 
 **Location:** Polgeel, North Cornwall
 
@@ -309,7 +309,7 @@ The Sphingidae are a family of moths, commonly known as hawk moths, sphinx moths
 
 **Species:** D. porcellus
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
 
@@ -321,7 +321,7 @@ The Sphingidae are a family of moths, commonly known as hawk moths, sphinx moths
 
 **Species:** S. ligustri
 
-**Date seen:** early July
+**Date seen:** early July, 2019
 
 **Location:** Polgeel, North Cornwall
 
@@ -340,7 +340,7 @@ Some of the 1000 or so species commonly known as burnet or forester moths, are i
 
 **Species:** Z. filipendulae
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Dry Sandford (BBWOT reserve), Oxfordshire
 
