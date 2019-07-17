@@ -30,7 +30,7 @@ Hesperiidae, known as skippers, are recognised by their rapid and darting flight
 
 **Species:** T. acteon
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -41,7 +41,7 @@ Hesperiidae, known as skippers, are recognised by their rapid and darting flight
 
 **Species:** T. sylvestris
 
-**Date seen:** mid July
+**Date seen:** mid July, 2019
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
@@ -58,7 +58,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Species:** S. spini
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -69,7 +69,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Species:** A. agestis
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -80,7 +80,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Species:** P. coridon
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -91,7 +91,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Species:** P. icarus
 
-**Date seen:** late May
+**Date seen:** late May, 2019
 
 **Location:** Bald Hill, Oxfordshire
 
@@ -102,7 +102,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Species:** C. argiolus
 
-**Date seen:** mid July
+**Date seen:** mid July, 2019
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
@@ -113,7 +113,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Species:** C. rubi
 
-**Date seen:** early May
+**Date seen:** early May, 2019
 
 **Location:** Hartslock (BBOWT reserve), Oxfordhshire
 
@@ -124,7 +124,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Species:** L. hippothoe
 
-**Date seen:** mid June
+**Date seen:** mid June, 2019
 
 **Location:** Bejes, Spain
 
@@ -135,7 +135,7 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Species:** L. tityrus
 
-**Date seen:** mid June
+**Date seen:** mid June, 2019
 
 **Location:** Picos de Europa, Spain
 
@@ -152,7 +152,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** A. pandora
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** Las Tuerces, Spain
 
@@ -163,7 +163,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** P. tithonus
 
-**Date seen:** mid July
+**Date seen:** mid July, 2019
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
@@ -219,7 +219,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** M. galathea
 
-**Date seen:** mid July
+**Date seen:** mid July, 2019
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
@@ -230,7 +230,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** M. jurtina
 
-**Date seen:** mid July
+**Date seen:** mid July, 2019
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
@@ -243,7 +243,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Date seen:** mid June
 
-**Location:** Picos de Europa
+**Location:** Picos de Europa, 2019
 
 ### **Painted lady** (*Vanessa cardui*)
 ![Paintedlady]({{ site.baseurl }}/images/butterflys/paintedlady.JPG)
@@ -252,7 +252,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** V. cardui
 
-**Date seen:** late June
+**Date seen:** late June, 2019
 
 **Location:** East Oxford
 
@@ -263,7 +263,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** A. hyperantus
 
-**Date seen:** mid July
+**Date seen:** mid July, 2019
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
@@ -274,7 +274,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** A. urticae
 
-**Date seen:** mid July
+**Date seen:** mid July, 2019
 
 **Location:** Dancer's End (BBOWT reserve), Buckinghamshire
 
@@ -285,7 +285,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** P. aegeria
 
-**Date seen:** mid June
+**Date seen:** mid June, 2019
 
 **Location:** Picos de Europa, Spain 
 
@@ -296,7 +296,7 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** L. megera
 
-**Date seen:** mid June
+**Date seen:** mid June, 2019
 
 **Location:** Picos de Europa, Spain 
 
@@ -313,7 +313,7 @@ Swallowtail butterflies are large, colorful butterflies in the family Papilionid
 
 **Species:** P. machaon
 
-**Date seen:** mid June
+**Date seen:** mid June, 2019
 
 **Location:** Picos de Europa
 
@@ -330,7 +330,7 @@ The Pieridae family comprises around 76 genera containing about 1,100 species. M
 
 **Species:** P. napi
 
-**Date seen:** late May
+**Date seen:** late May, 2019
 
 **Location:** Dry Sandford Pit (BBOWT reserve), Oxfordshire
 
@@ -347,7 +347,7 @@ Riodinidae is the family of metalmark butterflies. The common name "metalmarks" 
 
 **Species:** H. lucina
 
-**Date seen:** early June
+**Date seen:** early June, 2019
 
 **Location:** near Areños, Spain
 
