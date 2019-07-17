@@ -129,7 +129,11 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 **Location:** Bejes, Spain
 
 ### **Sooty copper** (*Lycaena tityrus*)
+The male:
 ![Sootycopper]({{ site.baseurl }}/images/butterflys/sootycopper.JPG)
+
+The female:
+![Sootycopperfemale]({{ site.baseurl }}/images/butterflys/sootycopperfemale.JPG)
 
 **Genus:** Lycaena
 
@@ -139,22 +143,13 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 **Location:** Picos de Europa, Spain
 
+
+
 ------
 
 ##  Nymphalidae
 
 The Nymphalidae are the largest family of butterflies with 12 subfamilies, more than 600 genera and over 5,700 species distributed throughout most of the world. Most species of Nymphalidae stand on only four legs while the other two are curled up and many hold their colourful wings flat when resting.
-
-### **Cardinal** (*Argynnis pandora*)
-![Cardinal]({{ site.baseurl }}/images/butterflys/cardinal.JPG)
-
-**Genus:** Argynnis
-
-**Species:** A. pandora
-
-**Date seen:** early June, 2019
-
-**Location:** Las Tuerces, Spain
 
 ### **Gate keeper** (*Pyronia tithonus*)
 ![Gatekeeper]({{ site.baseurl }}/images/butterflys/gatekeeper.JPG)
@@ -211,6 +206,17 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 **Date seen:** mid June, 2019
 
 **Location:** Picos de Europa, Spain
+
+### **Cardinal fritillary** (*Argynnis pandora*)
+![Cardinal]({{ site.baseurl }}/images/butterflys/cardinal.JPG)
+
+**Genus:** Argynnis
+
+**Species:** A. pandora
+
+**Date seen:** early June, 2019
+
+**Location:** Las Tuerces, Spain
 
 ### **Marbled White** (*Melanargia galathea*)
 ![Marbledwhite]({{ site.baseurl }}/images/butterflys/marbledwhite.JPG)
