@@ -130,9 +130,11 @@ Lycaenidae is the second-largest family of butterflies, with over 6,000 species 
 
 ### **Sooty copper** (*Lycaena tityrus*)
 The male:
+
 ![Sootycopper]({{ site.baseurl }}/images/butterflys/sootycopper.JPG)
 
 The female:
+
 ![Sootycopperfemale]({{ site.baseurl }}/images/butterflys/sootycopperfemale.JPG)
 
 **Genus:** Lycaena
