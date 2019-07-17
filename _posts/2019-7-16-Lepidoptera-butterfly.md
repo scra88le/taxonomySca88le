@@ -291,7 +291,7 @@ The Speckled wood colouring varies along a gradient (called a cline) from northe
 
 **Genus:**  Pararge 
 
-**Species:** P. aegeria
+**Species:** P. aegeria aegeria
 
 **Date seen:** mid June, 2019
 
