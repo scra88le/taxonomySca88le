@@ -13,7 +13,7 @@ Some intro text about the UK Ant families
 
 Something about red ants
 
-### **Myrmica ruginodis
+### **Myrmica ruginodis**
 
 ![ruginodis]({{ site.baseurl }}/images/ants/M.ruginodis1.JPG)
 
