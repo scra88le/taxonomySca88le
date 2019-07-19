@@ -6,13 +6,16 @@ title: Formicidae
 -----
 
 #Taxonomy of Ants
+
 Some intro text about the UK Ant families
 
 ##  Myrmica
+
 Something about red ants
 
 ### **Myrmica ruginodis
-![ruginodis]({{ site.baseurl }}/images/ants/M.ruginodis.JPG)
+
+![ruginodis]({{ site.baseurl }}/images/ants/M.ruginodis1.JPG)
 
 **Genus:** Myrmica
 
