@@ -16,6 +16,7 @@ Something about red ants
 ### **Myrmica ruginodis**
 
 ![ruginodis]({{ site.baseurl }}/images/ants/ruginodis1.JPG)
+![ruginodis]({{ site.baseurl }}/images/ants/ruginodis2.JPG)
 
 **Genus:** Myrmica
 
