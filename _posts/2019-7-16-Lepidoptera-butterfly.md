@@ -297,6 +297,19 @@ The Speckled wood colouring varies along a gradient (called a cline) from northe
 
 **Location:** Picos de Europa, Spain 
 
+### **Speckled wood** (*Pararge aegeria tircis*)
+The Speckled wood subspecies with cream spots instead of orange, is shown below:
+
+![SpeckledwoodUK]({{ site.baseurl }}/images/butterflys/speckledwooduk.JPG)
+
+**Genus:**  Pararge 
+
+**Species:** P. aegeria tircis
+
+**Date seen:** mid July, 2019
+
+**Location:** Lye Valley (BBOWT reserve), Oxford
+
 ### **Wall** (*Lasiommata megera*)
 ![Wall]({{ site.baseurl }}/images/butterflys/wall.JPG)
 
