@@ -342,6 +342,17 @@ The Pieridae family comprises around 76 genera containing about 1,100 species. M
 
 **Location:** Dry Sandford Pit (BBOWT reserve), Oxfordshire
 
+### **Large white** (*Pieris brassicae*)
+![Largewhite]({{ site.baseurl }}/images/butterflys/largewhite.JPG)
+
+**Genus:** Pieris
+
+**Species:** P. brassicae
+
+**Date seen:** early July, 2019
+
+**Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
+
 ----------
 
 ## Riodinidae
