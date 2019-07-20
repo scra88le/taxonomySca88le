@@ -30,4 +30,4 @@ Something about red ants
 
 **Identification**
 
-* 
+* two sharp spikes
