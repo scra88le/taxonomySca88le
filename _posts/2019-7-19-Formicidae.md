@@ -9,9 +9,29 @@ title: Formicidae
 
 Some intro text about the UK Ant families
 
+
+##  Formica
+
+### **Formica rufa**
+
+### **Formica sanguinea**
+
+##  Lasius
+
+### **Lasius brunneus**
+
+### **Lasius flavus**
+
+### **Lasius fuliginosus**
+
+### **Lasius niger**
+
+
 ##  Myrmica
 
-Something about red ants
+The *myrmica* genus contains around 200 known species worldwide. It is the largest formiciae genus in Britain, with ten known species.
+
+### **Myrmica rubra**
 
 ### **Myrmica ruginodis**
 
@@ -30,4 +50,6 @@ Something about red ants
 
 **Identification**
 
-* two sharp spikes
+* two sharp spikes on propodeum, as long as the distance between their tips
+* hind face of petiole strongly angled
+* the shape of the base of the antennae curved in *M. ruginodis* - sharply angled in *M. rubra*
