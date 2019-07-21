@@ -35,7 +35,8 @@ The *myrmica* genus contains around 200 known species worldwide. It is the large
 
 ### **Myrmica ruginodis**
 
-![ruginodis2]({{ site.baseurl }}/images/ants/ruginodis2.JPG)
+![ruginodis]({{ site.baseurl }}/images/ants/ruginodis2.JPG)
+
 
 **Genus:** Myrmica
 
