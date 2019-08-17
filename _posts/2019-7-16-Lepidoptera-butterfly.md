@@ -162,16 +162,16 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
-### **Heath fritillary** (*Melitaea athalia*)
-![HeathFritillary]({{ site.baseurl }}/images/butterflys/heathfritillary.JPG)
+### **Glanville fritillary** (*Melitaea cinxia*)
+![GlanvilleFritillary]({{ site.baseurl }}/images/butterflys/heathfritillary.JPG)
 
 **Genus:** Melitaea
 
-**Species:** M. athalia
+**Species:** M. cinxia
 
 **Date seen:** early June, 2019
 
-**Location:** Chobham Common, Surrey
+**Location:** Liencres, Spain
 
 ### **Pearl-bordered fritillary** (*Boloria euphrosyne*)
 ![PearlBorderedFritillary]({{ site.baseurl }}/images/butterflys/pearlborderedfritillary1.JPG)
@@ -261,6 +261,17 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 **Date seen:** late June, 2019
 
 **Location:** East Oxford
+
+### **Red Admiral** (*Vanessa atalanta*)
+![Redadmiral]({{ site.baseurl }}/images/butterflys/redadmiral.JPG)
+
+**Genus:** Vanessa
+
+**Species:** V. atalanta
+
+**Date seen:** mid August, 2019
+
+**Location:** RSPB Otmoor, Oxfordshire
 
 ### **Ringlet** (*Aphantopus hyperantus*)
 ![Ringlet]({{ site.baseurl }}/images/butterflys/ringlet.JPG)
