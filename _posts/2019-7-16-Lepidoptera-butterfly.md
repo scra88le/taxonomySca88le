@@ -377,6 +377,17 @@ The Pieridae family comprises around 76 genera containing about 1,100 species. M
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
+### **Small white** (*Pieris rapae*)
+![smallwhite]({{ site.baseurl }}/images/butterflys/smallwhite.JPG)
+
+**Genus:** Pieris
+
+**Species:** P. rapae
+
+**Date seen:** mid August, 2019
+
+**Location:** Oxford
+
 ----------
 
 ## Riodinidae
