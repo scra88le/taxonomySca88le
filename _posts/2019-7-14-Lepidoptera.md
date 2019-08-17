@@ -142,6 +142,18 @@ The geometer moths belong to the family Geometridae.
 
 **Location:** Pesaguero, Spain
 
+### **Greak Oak Beauty** (*Hypomecis roboraria*)
+
+![GreakOakBeauty]({{ site.baseurl }}/images/moths/greatoakbeauty.JPG)
+
+**Genus:** Hypomecis 
+
+**Species:** H. roboraria
+
+**Date seen:** early June, 2019
+
+**Location:** Pesaguero, Spain
+
 ### **Portland Ribbon Wave** (*Idaea degeneraria*)
 
 ![PortlandRibbonWave]({{ site.baseurl }}/images/moths/portlandribbonwave.JPG)
