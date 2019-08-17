@@ -259,6 +259,19 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 ## Notodontidae
 Notodontidae is a family of moths with approximately 3,800 known species. Adult Notodontidae do not feed. Prominents are well known species of this family.
 
+### **Great Prominent** (*Peridea anceps*)
+
+![Greatprominent]({{ site.baseurl }}/images/moths/greatprominent.JPG)
+
+**Genus:** Peridea
+
+**Species:** P. anceps
+
+**Date seen:** early June, 2019
+
+**Location:** Pesaguero, Spain
+
+
 ### **Pebble Prominent** (*Notodonta ziczac*)
 
 ![Pebbleprominent]({{ site.baseurl }}/images/moths/pebbleprominent.JPG)
