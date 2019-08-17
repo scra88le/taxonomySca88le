@@ -26,6 +26,7 @@ Some intro text about the UK Ant families
 
 ### **Lasius niger**
 
+### **Lasius umbratus**
 
 ##  Myrmica
 
