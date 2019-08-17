@@ -42,6 +42,18 @@ The Drepanidae is a family of moths with about 660 species described worldwide, 
 
 ## Erebidae
 
+### **Clouded Buff** (*Diacrisia sannio*)
+
+![CloudedBuff]({{ site.baseurl }}/images/moths/cloudedbuff.JPG)
+
+**Genus:** Diacrisia 
+
+**Species:** D. sannio
+
+**Date seen:** early June, 2019
+
+**Location:** Pesaguero, Spain
+
 ### **Cream-spot Tiger** (*Epicallia villica*)
 ![Creamspottiger]({{ site.baseurl }}/images/moths/creamspottiger.JPG)
 
@@ -113,18 +125,6 @@ The geometer moths belong to the family Geometridae.
 **Genus:** Opisthograptis 
 
 **Species:** O. luteolata
-
-**Date seen:** early June, 2019
-
-**Location:** Pesaguero, Spain
-
-### **Clouded Buff** (*Diacrisia sannio*)
-
-![CloudedBuff]({{ site.baseurl }}/images/moths/cloudedbuff.JPG)
-
-**Genus:** Diacrisia 
-
-**Species:** D. sannio
 
 **Date seen:** early June, 2019
 
