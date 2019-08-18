@@ -82,7 +82,7 @@ Locally present in Shetland!
 
 **Identification**
 
-* two sharp spikes on propodeum, as long as the distance between their tips - the key difference against M. rubra.
+* two sharp spikes on propodeum, is as least long as the distance between their tips - the key difference against M. rubra.
 * hind face of petiole strongly angled
 * the shape of the base of the antennae curved in *M. ruginodis* - sharply angled in *M. rubra*
 
