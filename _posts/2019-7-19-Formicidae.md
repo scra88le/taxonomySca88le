@@ -42,17 +42,35 @@ Unlike the common yellow ant Lasius flavus, L. umbratus workers have numerous er
 The *myrmica* genus contains around 200 known species worldwide. It is the largest ant genus in Britain, with ten known species.
 
 ### **Myrmica rubra**
-*Myrmica rubra* , often known as the European fire or red ant, is found throughout Britain. It forms colonies of around a hundred or so individuals under stones or in tree stumps. M. rubra is native to the Palearctic regions of Europe and Asia from Ireland to western Siberia, and is reported as being an invasive species on the east coast of the United States.
+*M. rubra* , often known as the European fire or red ant, is found throughout Britain. It forms colonies of around a hundred or so individuals under stones or in tree stumps. M. rubra is native to the Palearctic regions of Europe and Asia from Ireland to western Siberia, and is reported as being an invasive species on the east coast of the United States.
 
 ![rubra1]({{ site.baseurl }}/images/ants/rubra1.JPG)
 ![rubra2]({{ site.baseurl }}/images/ants/rubra2.JPG)
 
+**Genus:** Myrmica
+
+**Species:** T. rubra
+
+**Date seen:** early July, 2019
+
+**Location:** Polgeel, Cornwall
+
+**Microhabitat**: stones under driveway
+
+**Identification**
+
+* waist comprises two segements; the petiole and postpetiole
+* thorax spines are shorter than the distance between their tips; key difference to M. ruginodis
+* upper surface of petiole curved into hind face
+
+
 ### **Myrmica ruginodis**
+Locally present in Shetland!
 
 ![ruginodis]({{ site.baseurl }}/images/ants/ruginodis1.JPG)
-![ruginodis2]({{ site.baseurl }}/images/ants/ruginodis2.JPG)
+![ruginodis2]({{ site.baseurl }}/images/ants/ruginodis1.JPG)
 
-
+ 
 **Genus:** Myrmica
 
 **Species:** T. ruginodis
@@ -65,7 +83,7 @@ The *myrmica* genus contains around 200 known species worldwide. It is the large
 
 **Identification**
 
-* two sharp spikes on propodeum, as long as the distance between their tips
+* two sharp spikes on propodeum, as long as the distance between their tips - the key difference against M. rubra.
 * hind face of petiole strongly angled
 * the shape of the base of the antennae curved in *M. ruginodis* - sharply angled in *M. rubra*
 
