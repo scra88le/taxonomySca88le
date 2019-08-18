@@ -16,15 +16,31 @@ The UK has a very sparse ant fauna - globally there are thougth to be over [16,0
 
 A number of collected ants from the *formiciane* and *myrmicinae* are shown below.
 
-##  Formicinae - 
+# Formicinae
 
-
+## Formica
+Ants within the UK Formica genus are commonly known as the wood ants. The type species of the genus is the European red woodant or *Formica rufa*. 
 
 ### **Formica rufa**
+*F. rufa* build large dome shaped nests at the base of trees within confierous woodland. Workers typically forage upto 100m from their nests, where their primary diet is aphid honeydew, but they also prey on other insects in the canopies near their nest site. Wood ants are considered significant ecosystem engineers in that they have ecological effets over several trophic levels. Notably they affect soil nutrition levels and carbon cycles by collecting organic material as well as affecting the growth of trees negatively by tending aphids, and positively by preying on herbivores. This in turn has a negative effect on the breeding success of insectivorous birds.
+
+**Genus:** Formica
+
+**Species:** F. rufa
+
+**Date seen:** early May, 2018
+
+**Location:** Burnwood, Oxfordshire 
+
+**Microhabitat**: nest of confier needles, under
+
+**Identification**
+
+
 
 ### **Formica sanguinea**
 
-##  Formicinae - Lasius
+## Lasius
 
 ### **Lasius brunneus**
 
@@ -37,7 +53,9 @@ A number of collected ants from the *formiciane* and *myrmicinae* are shown belo
 ### **Lasius umbratus**
 Unlike the common yellow ant Lasius flavus, L. umbratus workers have numerous erect hairs on their scapes and tibia
 
-##  Myrmicinae - Myrmica
+# Myrmicinae
+
+## Myrmica
 
 The *myrmica* genus contains around 200 known species worldwide. It is the largest ant genus in Britain, with ten known species.
 
