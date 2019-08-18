@@ -378,6 +378,8 @@ The Pieridae family comprises around 76 genera containing about 1,100 species. M
 **Location:** Dry Sandford Pit (BBOWT reserve), Oxfordshire
 
 ### **Large white** (*Pieris brassicae*)
+It is not immediately obvious how to distinguish between small and large whites. The Large White has extensive black marks at the wing tips, with the black mark continuing a long way along the outer edge of the wing. The Small White has less extensive grey or black marks at the wing tips, with colouration only extending slightly along the outer edge of the wing.
+
 ![Largewhite]({{ site.baseurl }}/images/butterflys/largewhite.JPG)
 
 **Genus:** Pieris
