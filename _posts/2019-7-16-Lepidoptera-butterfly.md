@@ -151,6 +151,17 @@ The female:
 
 The Nymphalidae are the largest family of butterflies with 12 subfamilies, more than 600 genera and over 5,700 species distributed throughout most of the world. Most species of Nymphalidae stand on only four legs while the other two are curled up and many hold their colourful wings flat when resting.
 
+### **Comma** (*Polygonia c-album*)
+![Comma]({{ site.baseurl }}/images/butterflys/comma.jpg)
+
+**Genus:** Polygonia 
+
+**Species:** P. c-album
+
+**Date seen:** early August, 2019
+
+**Location:** Chilswell Valley Nature Reserve, Oxford
+
 ### **Gate keeper** (*Pyronia tithonus*)
 ![Gatekeeper]({{ site.baseurl }}/images/butterflys/gatekeeper.JPG)
 
