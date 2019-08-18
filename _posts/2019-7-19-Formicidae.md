@@ -11,16 +11,20 @@ The UK has a very sparse ant fauna - globally there are thougth to be over [16,0
 
 * *Ponerinae* - there are two rare UK species of this family; the native *Ponera coarctata* and *Hypoponera punctatissima*. *H. punctatissima* is thought to be an example of a *tramp* species; an introduced species that survies only in greenhouses.
 * *Dolichoderirnae* - a sub-family represented by four species; *Tapinoma erraticum*, *T. ambiguum*, *T. melanocephalum* and *Linepithema humile*; the later two being *tramp* species. 
-* *Myrmicinae* -
-* *Formicinae*
+* *Myrmicinae* - this sub-family together with *Formicinae* represent 80% of UK ant species. Members of the *Myrmicinae* sub-family have a wasit with two segments (known as the petiole and postpetiole)
+* *Formicinae* - the final sub-family are distingusied from *Myrmicinae* by the fact they only have one petiole between the thorax and gaster.
 
-##  Formica
+A number of collected ants from the *formiciane* and *myrmicinae* are shown below.
+
+##  Formicinae - 
+
+
 
 ### **Formica rufa**
 
 ### **Formica sanguinea**
 
-##  Lasius
+##  Formicinae - Lasius
 
 ### **Lasius brunneus**
 
@@ -33,11 +37,15 @@ The UK has a very sparse ant fauna - globally there are thougth to be over [16,0
 ### **Lasius umbratus**
 Unlike the common yellow ant Lasius flavus, L. umbratus workers have numerous erect hairs on their scapes and tibia
 
-##  Myrmica
+##  Myrmicinae - Myrmica
 
-The *myrmica* genus contains around 200 known species worldwide. It is the largest formiciae genus in Britain, with ten known species.
+The *myrmica* genus contains around 200 known species worldwide. It is the largest ant genus in Britain, with ten known species.
 
 ### **Myrmica rubra**
+*Myrmica rubra* , often known as the European fire or red ant, is found throughout Britain. It forms colonies of around a hundred or so individuals under stones or in tree stumps. M. rubra is native to the Palearctic regions of Europe and Asia from Ireland to western Siberia, and is reported as being an invasive species on the east coast of the United States.
+
+![rubra1]({{ site.baseurl }}/images/ants/rubra1.JPG)
+![rubra2]({{ site.baseurl }}/images/ants/rubra2.JPG)
 
 ### **Myrmica ruginodis**
 
