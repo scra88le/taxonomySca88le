@@ -269,9 +269,9 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Species:** V. cardui
 
-**Date seen:** late June, 2019
+**Date seen:** mid August, 2019
 
-**Location:** East Oxford
+**Location:** RSPB Otmoor, Oxfordshire
 
 ### **Red Admiral** (*Vanessa atalanta*)
 ![Redadmiral]({{ site.baseurl }}/images/butterflys/redadmiral.JPG)
