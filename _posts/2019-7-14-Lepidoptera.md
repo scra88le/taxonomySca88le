@@ -291,7 +291,7 @@ Commonrustic]({{ site.baseurl }}/images/moths/commonrustic.jpeg)
 
 ### **Heart & Dart** (*Agrotis exclamationis*)
 
-![Heartanddart]({{ site.baseurl }}/images/moths/heartanddart.jpeg)
+![Heartanddart]({{ site.baseurl }}/images/moths/heartanddart.JPG
 
 **Genus:** Agrotis
 
