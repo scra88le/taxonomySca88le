@@ -220,11 +220,22 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 ### **Broad-bordered Yellow Underwing** (*Noctua fimbriata*)
 
-![BridsWing]({{ site.baseurl }}/images/moths/broadborderedyellow.jpeg)
+![Broad-bordered]({{ site.baseurl }}/images/moths/broadborderedyellow.jpeg)
 
 **Genus:** Noctua
 
 **Species:** N.fimbriata
+
+**Date seen:**late August, 2019
+
+**Location:** East Oxford
+
+### **Common Rustic** (*Mesapamea secalis*)
+Commonrustic]({{ site.baseurl }}/images/moths/commonrustic.jpeg)
+
+**Genus:** Mesapamea secalis
+
+**Species:** M. secalis
 
 **Date seen:**late August, 2019
 
@@ -254,17 +265,6 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 **Location:** East Oxford
 
-### **Hebrew Character** (*Orthosia gothica*)
-
-![HebrewCharacter]({{ site.baseurl }}/images/moths/hebrewcharacter.jpeg)
-
-**Genus:** Orthosia
-
-**Species:** O. gothica
-
-**Date seen:** late August, 2019
-
-**Location:** East Oxford
 
 ### **L-album Wainscot** (*Mythimna l-album*)
 
@@ -301,6 +301,30 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 **Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
+
+### **Setaceous Hebrew Character** (*Xestia c-nigrum*)
+
+![HebrewCharacter]({{ site.baseurl }}/images/moths/hebrewcharacter.jpeg)
+
+**Genus:** Xestia
+
+**Species:** X. c-nigrum
+
+**Date seen:** late August, 2019
+
+**Location:** East Oxford
+
+### **Square-spot Rustic** (*Xestia xanthographa*)
+
+![HebrewCharacter]({{ site.baseurl }}/images/moths/squarespotrustic.jpeg)
+
+**Genus:** Xestia
+
+**Species:** X. xanthographa
+
+**Date seen:** late August, 2019
+
+**Location:** East Oxford
 
 ### **Treble Lines** (*Charanyca trigrammica*)
 
