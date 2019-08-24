@@ -230,9 +230,9 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Location:** East Oxford
 
-### **Copper Wunderwing** (*Amphipyra pyramidea*)
+### **Copper Underwing** (*Amphipyra pyramidea*)
 
-![CopperUnderwing]({{ site.baseurl }}/images/moths/copperunderwing.JPG)
+![CopperUnderwing]({{ site.baseurl }}/images/moths/copperunderwing.jpeg)
 
 **Genus:** Amphipyra pyramidea
 
