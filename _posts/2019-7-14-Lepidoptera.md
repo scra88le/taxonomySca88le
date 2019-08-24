@@ -218,6 +218,18 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 **Location:** Pesaguero, Spain
 
+### **Broad-bordered Yellow Underwing** (*Noctua fimbriata*)
+
+![BridsWing]({{ site.baseurl }}/images/moths/broadborderedyellow.jpeg)
+
+**Genus:** Noctua
+
+**Species:** N.fimbriata
+
+**Date seen:**late August, 2019
+
+**Location:** East Oxford
+
 ### **Commomn Wainscot** (*Mythimna pallens*)
 
 ![CommonWainscot]({{ site.baseurl }}/images/moths/commonwainscot.JPG)
