@@ -218,6 +218,18 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Location:** Pesaguero, Spain
 
+### **Commomn Wainscot** (*Mythimna pallens*)
+
+![CommonWainscot]({{ site.baseurl }}/images/moths/commonwainscot.JPG)
+
+**Genus:** Mythimna pallens
+
+**Species:** M. pallens
+
+**Date seen:** late August, 2019
+
+**Location:** East Oxford
+
 ### **L-album Wainscot** (*Mythimna l-album*)
 
 ![Lalbumwainscot]({{ site.baseurl }}/images/moths/L-albumwainscot.JPG)
