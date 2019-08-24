@@ -178,6 +178,18 @@ The geometer moths belong to the family Geometridae.
 
 **Location:** Pesaguero, Spain
 
+### **Willow Beauty** (*Peribatodes rhomboidaria*)
+
+![Willowbeauty]({{ site.baseurl }}/images/moths/willowbeauty.JPG)
+
+**Genus:** Peribatodes
+
+**Species:** P. rhomboidaria
+
+**Date seen:** late August, 2019
+
+**Location:** East Oxford
+
 ------------
 
 ## Noctuidae
@@ -265,6 +277,17 @@ Commonrustic]({{ site.baseurl }}/images/moths/commonrustic.jpeg)
 
 **Location:** East Oxford
 
+### **Heart & Dart** (*Agrotis exclamationis*)
+
+![Heartanddart]({{ site.baseurl }}/images/moths/heartanddart.jpeg)
+
+**Genus:** Agrotis
+
+**Species:** A. exclamationis
+
+**Date seen:** late July, 2019
+
+**Location:** East Oxford
 
 ### **L-album Wainscot** (*Mythimna l-album*)
 
