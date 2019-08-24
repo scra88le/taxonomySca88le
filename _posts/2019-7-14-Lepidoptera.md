@@ -290,6 +290,18 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 **Location:** Pesaguero, Spain
 
+### **Uncertain** (*Hoplodrina octogenaria*)
+
+![Uncertain]({{ site.baseurl }}/images/moths/uncertain.JPG)
+
+**Genus:** Hoplodrina
+
+**Species:** H. octogenaria
+
+**Date seen:** late August, 2019
+
+**Location:** East Oxford
+
 -----------
 
 ## Notodontidae
