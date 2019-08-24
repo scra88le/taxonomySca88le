@@ -277,6 +277,18 @@ Commonrustic]({{ site.baseurl }}/images/moths/commonrustic.jpeg)
 
 **Location:** East Oxford
 
+### **Flounced Rustic** (*Luperina testacea*)
+
+![Flouncedrustic]({{ site.baseurl }}/images/moths/flouncedrustic.jpeg)
+
+**Genus:** Luperina testacea
+
+**Species:** L. testacea
+
+**Date seen:** late August, 2019
+
+**Location:** East Oxford
+
 ### **Heart & Dart** (*Agrotis exclamationis*)
 
 ![Heartanddart]({{ site.baseurl }}/images/moths/heartanddart.jpeg)
