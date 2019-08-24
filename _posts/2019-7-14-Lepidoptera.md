@@ -222,9 +222,21 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 ![CommonWainscot]({{ site.baseurl }}/images/moths/commonwainscot.JPG)
 
-**Genus:** Mythimna pallens
+**Genus:** Mythimna
 
 **Species:** M. pallens
+
+**Date seen:** late August, 2019
+
+**Location:** East Oxford
+
+### **Copper Wunderwing** (*Amphipyra pyramidea*)
+
+![CopperUnderwing]({{ site.baseurl }}/images/moths/copperunderwing.JPG)
+
+**Genus:** Amphipyra pyramidea
+
+**Species:** A. pyramidea
 
 **Date seen:** late August, 2019
 
