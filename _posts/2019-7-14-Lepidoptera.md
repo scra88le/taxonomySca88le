@@ -126,9 +126,9 @@ The geometer moths belong to the family Geometridae.
 
 **Species:** O. luteolata
 
-**Date seen:** early June, 2019
+**Date seen:** late August, 2019
 
-**Location:** Pesaguero, Spain
+**Location:** East Oxford
 
 ### **Common Carpet** (*Epirrhoe alternata*)
 
