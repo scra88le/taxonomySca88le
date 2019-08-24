@@ -246,9 +246,21 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 ![CopperUnderwing]({{ site.baseurl }}/images/moths/copperunderwing.jpeg)
 
-**Genus:** Amphipyra pyramidea
+**Genus:** Amphipyra
 
 **Species:** A. pyramidea
+
+**Date seen:** late August, 2019
+
+**Location:** East Oxford
+
+### **Hebrew Character** (*Orthosia gothica*)
+
+![HebrewCharacter]({{ site.baseurl }}/images/moths/hebrewcharacter.jpeg)
+
+**Genus:** Orthosia
+
+**Species:** O. gothica
 
 **Date seen:** late August, 2019
 
