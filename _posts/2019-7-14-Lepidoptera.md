@@ -469,7 +469,6 @@ The Sphingidae are a family of moths, commonly known as hawk moths, sphinx moths
 
 **Location:** Polgeel, North Cornwall
 
-
 ------------
 
 ## Zygaenidae
