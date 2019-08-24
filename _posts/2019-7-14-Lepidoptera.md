@@ -181,7 +181,7 @@ The geometer moths belong to the family Geometridae.
 ------------
 
 ## Noctuidae
-The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,089 genera and 11,772 species. The type species is *Noctua pronuba* (the Large yellow underwing)
+Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,000 genera and 20,000 species worldwide. The type species is *Noctua pronuba* (the Large yellow underwing). Within the UK, the *Noctuidae* is the largest family of macro-moths, wiyth around 370 species.
 
 ### **Alder** (*Acronicta alni*)
 ![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
@@ -292,7 +292,7 @@ The Noctuidae are more often commonly known as owlet moths. Currently, Noctuidae
 
 ### **Uncertain** (*Hoplodrina octogenaria*)
 
-![Uncertain]({{ site.baseurl }}/images/moths/uncertain.JPG)
+![Uncertain]({{ site.baseurl }}/images/moths/uncertain.jpeg)
 
 **Genus:** Hoplodrina
 
