@@ -682,6 +682,8 @@ Likes insects! Slender plant with deep red flowers
 
 **Habitat:** favours damp, alkaline, unimproved soil. Found growing in beech woodlands, on forest path.
 
+**Pollination:** plant secretes sex pheromones that attract male Digger Wasps.
+
 **UK Classification:**  Vunerable
 
 **UK Distribution:** England
@@ -706,11 +708,13 @@ Likes insects! Slender plant with deep red flowers
 * narrow and short elongate petals
 * labellum hanging, velvety brown to blackish purple with yellow central lobe
 * thick H or X shape covering the lobe
-* thick central pollimia
+* stout column with central pollimia
 
-**Habitat:** 
+**Habitat:** full sun on alkaline soils, fallow fields or scrub
 
-**Classification:** 
+**Pollination:** no data
+
+**UK Classification:** N/A
 
 **UK Distribution:** N/A
 
@@ -719,40 +723,56 @@ Likes insects! Slender plant with deep red flowers
 ![EarlySpider]({{ site.baseurl }}/images/orchids/spider1.JPG)
 ![EarlySpider]({{ site.baseurl }}/images/orchids/spider2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Ophrys
 
 **Species:** O. sphegodes
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June
 
-**Habitat:** 
+**Identification:** 
 
-**Classification:** 
+* upto 20cm tall, four broad basal leaves
+* flower resembles flat hairy spider
+* large oblong sepals, yellow-green. Two upper petals, strapped shaped
+* central lobe is large and convex, velvety and rich brown with blue/grey H in the centre
+* two lateral lobesare golden brown furry humps, like shoulders
+* stout column, with pouch either sides like spider's eyes 
 
-**UK Distribution:** 
+**Habitat:** closely grazed chalk grassland
+
+**Pollination:** solitary bees
+
+**UK Classification:** Least Concern, though declining due to grazing management
+
+**UK Distribution:** coastal areas of southen England
 
 ## **Yellow Bee Orchid** (*Ophrys lutea*)
 
 ![YellowBee]({{ site.baseurl }}/images/orchids/yellowbee1.JPG)
 ![YellowBee]({{ site.baseurl }}/images/orchids/yellowbee2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Ophrys
 
 **Species:** O. lutea
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June
 
-**Habitat:** 
+**Identification:** 
 
-**Classification:** 
+* upto 30cm tall plant, upto six large flowers
+* sepals yellowish-green
+* labellum trilobed, light orange brown centre, bright yellow edges
+* lateral lobes bright yellow
+
+**Habitat:** full sun, alkaline dry soils and grassland
+
+**Pollination:** No data
+
+**UK Classification:** N/A
 
 **UK Distribution:** N/A
 
@@ -1123,7 +1143,7 @@ References
 
 [Orchid Observers identification guide](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/orchid-observers/orchid-observers-id-guide.pdf)
 
-[A begineer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
+[A beginer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
 
 [The UK Ghost Orchid Project](https://www.ghostorchidproject.co.uk/)
 
