@@ -507,23 +507,29 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 ![Lizard]({{ site.baseurl }}/images/orchids/lizard1.JPG)
 ![Lizard]({{ site.baseurl }}/images/orchids/lizard2.JPG)
 
-**Identification:** 
-
-**Sub-family:** 
-
 **Genus:** Himantoglossum
 
 **Species:** H. hircinum
 
-**Location:** Picos
+**Location:** Picos de Europa 
 
 **Dates seen:** early June 2019
 
-**Habitat:** 
+**Habitat:** chalk grassland and calcareous sand dunes, sunny aspect
 
-**Conservation Status:** ?
+**Identification:** 
 
-**UK Distribution:** 
+* upto 70cm tall, large plant
+* upto 80 flowers, upto five leaves
+* sepals and upper petals form tight grey-green hood, brown parallel lines on inside
+* lip is trilobed, long curly lateral lobes, very long centeal lobe (c5cm), tinged with green and purple
+* the flowers smell of goats (ref. Dr Andrew Lack)
+
+**Pollination:** solitary bees and small insects
+
+**UK Classification:** Near Threatened
+
+**UK Distribution:** restricted to southern England (mostly golf courses!)
 
 --------------
 
@@ -554,9 +560,9 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 **Pollination:** pollinated by numerous insects (due to abundant nectar).
 
-**Classification:** Least concern
+**UK Classification:** Least Concern
 
-**Distribution:** Throughout UK
+**UK Distribution:** Throughout UK
 
 ## **Birds Nest Orchid** (*Neottia nidus-avis*)
 The Bird's-nest orchid is leafless and without the green chlorophyll of other plants that enable them to gain energy from sunlight through photosynthesis; instead, it grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
@@ -566,19 +572,26 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 ![Birdsnest]({{ site.baseurl }}/images/orchids/birds1.JPG)
 ![Birdsnest]({{ site.baseurl }}/images/orchids/birds2.JPG)
 
-**Sub-family:** Epidendroideae
-
 **Genus:** Neottia
 
 **Species:** N. nidus-avis
 
-**Location:** Homefield Woods
+**Location:** Homefield Woods and Picos de Europa
 
 **Dates seen:** May 2019
 
-**Habitat:** Prefers shady woodland on akaline soils, typically amongst mature Beech trees
+**Identification:** 
 
-**Classification:** ?
+* the rhizome has short fleshy roots, resembling a birds nest
+* honey brown in colour, with stem upto 50cm tall
+* has upt 100 flowers, short petals and sepals, forming a hood above the lip
+* the plant is saprophytic and lacks chlorophyll
+
+**Habitat:** Prefers heavy shaded woodland on chalk soils, covered in leaf mould. Typically amongst mature Beech trees
+
+**Pollination:** small flys and self-fertilisation
+
+**UK Classification:** Near Threatened
 
 **UK Distribution:** Southern England
 
@@ -591,21 +604,27 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 ![Vanilla]({{ site.baseurl }}/images/orchids/vanilla1.JPG)
 ![Vanilla]({{ site.baseurl }}/images/orchids/vanilla2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Nigritella
 
 **Species:** N. nigra
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** June 2019
 
-**Habitat:** 
+**Identification:** 
 
-**Classification:** ?
+* plant is 5 to 30cm high, upto 11 linear leaves
+* compact influorescence, numerous small dark purple flowers 
+* strong spicy vanilla scent
 
-**UK Distribution:** 
+**Habitat:** apline praries, above 1000m. Full sun, alkaline soils
+
+**Pollination:** no data
+
+**UK Classification:** NA
+
+**UK Distribution:** NA
 
 --------------
 
@@ -616,8 +635,6 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 ![Bee]({{ site.baseurl }}/images/orchids/bee1.JPG)
 ![Bee]({{ site.baseurl }}/images/orchids/bee2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Ophrys
 
 **Species:** O. apifera
@@ -626,19 +643,27 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Dates seen:** June 2019
 
-**Habitat:** Chalk-grassland meadows
+**Identification:** 
 
-**Conservation Status:** ?
+* stem upto 50cm tall, upto six basal leaves
+* upto seven flowers that resemble a bumblebee
+* three erect pink sepals, each with a green vein
+* trilobed lip, velvety brown, golden at the base
+* column in the centre of the flower have two large pollinia 
 
-**UK Distribution:** Thoughtout England and coastal Wales, most common in South East England
+**Habitat:** Chalk-grassland, meadows and dunes
+
+**Pollination:** bee genera *Andrena* and *Eucera*
+
+**UK Classification:** Least Concern
+
+**UK Distribution:** Thoughtout England and coastal Wales
 
 ## **Fly Orchid** (*Ophrys insectifera*)
 Likes insects! Slender plant with deep red flowers
 
 ![Fly]({{ site.baseurl }}/images/orchids/fly1.JPG)
 ![Fly]({{ site.baseurl }}/images/orchids/fly2.JPG)
-
-**Sub-family:** Orchidoideae
 
 **Genus:** Ophrys
 
@@ -648,9 +673,16 @@ Likes insects! Slender plant with deep red flowers
 
 **Dates seen:** late April to May
 
+**Identification:** 
+
+* spindly stem upto 60cm tall, upto two small leaves
+* upto ten well spaced flowers, three pointed sepals, yellow-green
+* upper petals look like antennae, lip is long with rounded lateral lobes
+* lip is rich brown, with iridescent blue band
+
 **Habitat:** favours damp, alkaline, unimproved soil. Found growing in beech woodlands, on forest path.
 
-**Classification:** Vunerable
+**UK Classification:**  Vunerable
 
 **UK Distribution:** England
 
@@ -659,15 +691,22 @@ Likes insects! Slender plant with deep red flowers
 ![Woodcock]({{ site.baseurl }}/images/orchids/woodcock1.JPG)
 ![Woodcock]({{ site.baseurl }}/images/orchids/woodcock2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Ophrys
 
 **Species:** O. scolopax
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June
+
+**Identification:** 
+
+* upto 40cm tall, upto 12 flowers
+* sepals white to pink, central green vein, oval edges
+* narrow and short elongate petals
+* labellum hanging, velvety brown to blackish purple with yellow central lobe
+* thick H or X shape covering the lobe
+* thick central pollimia
 
 **Habitat:** 
 
@@ -1095,7 +1134,7 @@ References
 Acknowledgements
 ================
 
-I would like to acknowledge the help and knowledge of [Teresa Farino](http://www.iberianwildlife.com/teresa-farino.htm). Also Dr Andrew Lack for his help in indentification of the Marsh Orchids.
+I would like to acknowledge the help and knowledge of [Teresa Farino](http://www.iberianwildlife.com/teresa-farino.htm) for her help in locating species in and around the Picos de Europa in northern Spain. Also Dr Andrew Lack for his help in indentification of the Marsh Orchids.
 
 
 [bw link]: https://www.bbowt.org.uk/nature-reserves/bernwood-meadows
