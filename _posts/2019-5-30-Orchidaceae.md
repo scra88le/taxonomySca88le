@@ -797,7 +797,7 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Habitat:** full sun to shade. Likes alkaline soils, grassland upto 1800m
 
-**Pollination:** hymenoptera
+**Pollination:** various hymenoptera
 
 **UK Classification:** NA
 
@@ -808,7 +808,6 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 # Orchis
 
 ## **Early Purple Orchid** (*Orchis mascula*)
-Generally found in shady areas
 
 ![EarlyPurple]({{ site.baseurl }}/images/orchids/earlypurple1.JPG)
 ![EarlyPurple]({{ site.baseurl }}/images/orchids/earlypurple2.JPG)
@@ -823,14 +822,21 @@ Generally found in shady areas
 
 **Dates seen:** late April to May
 
-**Habitat:** edge of woodland in meadow
+**Identification:** 
 
-**Classification:** ?
+* Height upto 60cm, with six to eight dark spotted basal leaves
+* 20-50 pinkish-purple flowers, sepals spread upwards
+* broad trilobed lip with, centre of which is marked with dark spots 
 
-**UK Distribution:** ?
+**Habitat:** neutral to calcareous soils, prefers woodland margin
+
+**Pollination:** buff-tailed bumblebees and solitary bees
+
+**UK Classification:** Least concern
+
+**UK Distribution:** Widespread throughout the UK
 
 ## **Lady Orchid** (*Orchis purpurea*)
-The shape of the labellum is distinct between the Monkey, Military and Lady orchid's. They freely hybridize (See below) 
 
 ![Lady]({{ site.baseurl }}/images/orchids/lady1.JPG)
 ![Lady]({{ site.baseurl }}/images/orchids/lady2.JPG)
@@ -843,13 +849,22 @@ The shape of the labellum is distinct between the Monkey, Military and Lady orch
 
 **Dates seen:** mid to late May 2019
 
-**Habitat:** Chalk grassland meadow
+**Identification:** 
 
-**Classification:** ?
+* upto 100cm tall, upto five broad leaves
+* upto 50 large flowers in a dense spike
+* sepals and upper petals form a broad hood of dark red, which forms a *Lady's bonnet*
+* broad three-lobed white lip is shaped like a *womans dress*, two narrow side lobes forming the *arms*
 
-**UK Distribution:** Southern England
+**Habitat:** open beech woodland, rarely in grassland
 
-## **Monkey Orchid** (*Orchis purpurea*)
+**Pollination:** the Digger Wasp *Odynerus parietus*
+
+**UK Classification:**  Least Concern, though nationally scarce
+
+**UK Distribution:** Southern England (Oxfordshire and Kent)
+
+## **Monkey Orchid** (*Orchis simia*)
 
 ![Monkey]({{ site.baseurl }}/images/orchids/monkey1.JPG)
 ![Monkey]({{ site.baseurl }}/images/orchids/monkey2.JPG)
@@ -862,11 +877,41 @@ The shape of the labellum is distinct between the Monkey, Military and Lady orch
 
 **Dates seen:** mid to late May 2019
 
-**Habitat:** Chalk grassland meadow
+**Identification:** 
+
+* upto 30cm tall, three to four basal leaves
+* flower spike opens from the top downwards
+* sepals and petals form a pointed hood, white in colour
+* lip has four pinkish narrow lobes; the paws and tail of the monkey
+
+**Habitat:** open well drained and chalky soils, sunny south facing grassland
+
+**Pollination:** short-tonuged bees and Large White butterflies
+
+**UK Classification:** Vulnerable
+
+**UK Distribution:** Southern England, three known sites
+
+## **Military Orchid** (*Orchis militaris*)
+
+Note the Burnet Companion moth (*Euclidia glyphica*) pollinating the *Orchis militaris*.
+
+![Military]({{ site.baseurl }}/images/orchids/military1.JPG)
+![Military]({{ site.baseurl }}/images/orchids/military2.JPG)
+
+**Genus:** Orchis
+
+**Species:** O. militaris
+
+**Location:** Homefield Woods
+
+**Dates seen:** early May 2019
+
+**Habitat:** chalk grassland
 
 **Classification:** ?
 
-**UK Distribution:** Southern England
+**UK Distribution:** 
 
 ## **Lady x Monkey Orchid** (*Orchis x angusticrucis*)
 
@@ -889,24 +934,6 @@ Distingushing hybrids from parents at Hartslock
 
 **UK Distribution:** 
 
-## **Military Orchid** (*Orchis militaris*)
-
-![Military]({{ site.baseurl }}/images/orchids/military1.JPG)
-![Military]({{ site.baseurl }}/images/orchids/military2.JPG)
-
-**Genus:** Orchis
-
-**Species:** O. militaris
-
-**Location:** Homefield Woods
-
-**Dates seen:** early May 2019
-
-**Habitat:** chalk grassland
-
-**Classification:** ?
-
-**UK Distribution:** 
 
 ## **Pink Butterfly Orchid** (*Orchis papilionacea*)
 
