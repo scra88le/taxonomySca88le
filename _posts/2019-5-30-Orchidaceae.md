@@ -3,6 +3,7 @@ layout: post
 title: Orchidaceae
 ---
 
+# Taxonomy
 The taxonomy of the *Orchidaceae* has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. Whilst there are 50 or so native speices within Britain and Ireland, 36 of which are found within Berkshire, Buckinghamshire and Oxfordshire. Worldwide there are thought to be around 28,000 accepted species, distributed amongst some 900 genera. Orchid taxonomy is still actively being revised and each year approximately 150 new species are discovered. 
 
 There are currently five recognised subfamilies, comprising 22 tribes, 70 subtribes:
@@ -16,7 +17,7 @@ There are currently five recognised subfamilies, comprising 22 tribes, 70 subtri
 All UK species are within the Orchidoideae and Epidendroideae subfamilies, with a single species *Cypripedium calceolus*, commonly known as Lady's Slipper, in the Cypripedioideae family. The type genus for the Orchidaceae family is *Orchis*, which is within the sub-family *Orchidoideae*. 
 
 
-# Orchid Anatomy
+# Anatomy
 * Roots - terrestrial orchids may have rhizomes or tubers. Some terrestrial orchids have two subterranean tubers; one being used as a food reserve for winter. Epiphytic orchids have aerial roots that can be several meters long.
 * Leaves - all Orchids that have leaves are simple with parallel veins. Leaves may be ovate, lanceolate or orbiulate. Note that Orchids of the genus *Corallorhiza* (Coralroot orchids) lack leaves altogether, and instead are parasitic on the roots of mature trees and use specialized fungi to harvest sugars.
 * Flowers - the flowers of orchids are bilaterally symmetrical and orchids found in Europe are typically made up of three sepals and three petals, where one petal is distrinctly different from the others in that it forms a lip or *labellum*. The lip is often highly decorated or of a very different shape to the other petals. The labellum is actually the upper medial petal; as the flower develops, the inferior ovary usually rotates 180°.
