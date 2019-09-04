@@ -273,7 +273,7 @@ The white and yellow variant:
 
 **Species:** D. sambucina
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
@@ -286,7 +286,9 @@ The white and yellow variant:
 * lateral sepals erect, labellum trilobed and slightly convex
 * elder-flower scented
 
-**UK Classification:** NA.
+**Pollination:** ?
+
+**UK Classification:** NA. Classifed as Vulnerable in northern Spain.
 
 **UK Distribution:** NA.
 
@@ -322,13 +324,11 @@ The white and yellow variant:
 ![SouthernMarsh]({{ site.baseurl }}/images/orchids/southernmarsh1.JPG)
 ![SouthernMarsh]({{ site.baseurl }}/images/orchids/southernmarsh2.JPG)
 
-**Identification:** 
-
 **Genus:** Dactylorhiza 
 
 **Species:** D. praetermissa
 
-**Location:** Dry Sandford Pit BBWOT Reserve, Picos
+**Location:** Dry Sandford Pit BBWOT Reserve, Picos de Europa
 
 **Dates seen:** late June 2019
 
@@ -342,7 +342,9 @@ The white and yellow variant:
 * flower lip is broad, often with downward pointing central spur
 * upper lateral sepals are spreading, becomming erect
 
-**Conservation Status:** ?
+**Pollination:** Large Skipper butterflies have been observed removing pollinia
+
+**UK Classification:**  Least Concern
 
 **UK Distribution:** Widespread in southern England, less common in south-east England
 
@@ -351,23 +353,27 @@ The white and yellow variant:
 ![Sicillian]({{ site.baseurl }}/images/orchids/markusii1.JPG)
 ![Sicillian]({{ site.baseurl }}/images/orchids/markusii2.JPG)
 
-**Identification:** 
-
-**Sub-family:** 
-
 **Genus:** Dactylorhiza 
 
 **Species:** D. markusii
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
-**Habitat:** 
+**Habitat:** prefers acidic soils and poor grass land, above 700m elevation
 
-**Conservation Status:** ?
+**Identification:** 
 
-**UK Distribution:** Not found. Seen in northern Spain
+* up to 40cm tall, bright green lanceolate leaves
+* 10 to 40 flowers whiteish yellow flowers, inflorescence quite compact
+* hood formed with petals, labellum brighter yellow than sepals and trilobed
+
+**Pollination:** Bees
+
+**UK Classification:** NA. Classified as Vulnerable to Critically Endangered in northern Spain.
+
+**UK Distribution:** Not found in the UK. 
 
 -----------
 
@@ -379,21 +385,27 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 ![E. kleinii]({{ site.baseurl }}/images/orchids/kleinii1.JPG)
 ![E. kleinii]({{ site.baseurl }}/images/orchids/kleinii2.JPG)
 
-**Identification:** 
-
-**Sub-family:** 
-
 **Genus:** Epipactis
 
 **Species:** E. kleinii
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
-**Habitat:** 
+**Habitat:** semi-shade on poor alkaline soils, above 700m elevation
 
-**Conservation Status:** ?
+**Identification:** 
+
+* up to 50cm tall, lanky. Long greyish-green leaves
+* stem and leaves are hairy
+* small 10 to 40 flowers along stem
+* sepals and petals yellow-green , tinted purple
+* labellum stained rose-purple inside
+
+**Pollination:** self pollinated
+
+**UK Classification:** no data found
 
 **UK Distribution:** Not found. Seen in northern Spain
 
@@ -402,32 +414,33 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 ![Broad leaveed]({{ site.baseurl }}/images/orchids/broadleaved1.JPG)
 ![Broad leaveed]({{ site.baseurl }}/images/orchids/broadleaved2.JPG)
 
-**Identification:** 
-
-**Sub-family:** 
-
 **Genus:** Epipactis
 
 **Species:** E. helleborine
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
-**Habitat:** 
+**Habitat:** prefers alkaline soils, on the edges of woodland
 
-**Conservation Status:** ?
+**Identification:** 
 
-**UK Distribution:** 
+* tall - upto 90cm. Leaves are broad, strongly ribed and spiral up the stem
+* upto 100 flowers, coloured green to brown, blunt sepals
+* ovary strongly ribbed
+
+**Pollination:** Ants and wasps
+
+**UK Classification:** Least Concern
+
+**UK Distribution:** widely distributed throughout England, Wales and central Scotland.
 
 
 ## Marsh Helleborine (*Epipactis palustris*)
 
 ![MarshHelleborine]({{ site.baseurl }}/images/orchids/marshhell1.JPG)
 ![MarshHelleborine]({{ site.baseurl }}/images/orchids/marshhell2.JPG)
-
-**Identification:** 
-
 
 **Genus:** Epipactis
 
@@ -437,11 +450,19 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 **Dates seen:** early June 2019
 
-**Habitat:** 
+**Habitat:** Calcareous fens and marshes.
 
-**Conservation Status:** ?
+**Identification:** 
 
-**UK Distribution:** 
+* up to 60cm tall, leaves are numerous and pointed
+* sepals pointed, purple-brown, petals white with pink base
+* broad white epichile with frilly edge, hypochile marked with parallel red veins
+
+**Pollination:** honey bees, hoverflies and a small black wasp (*Psen palustris*)
+
+**UK Classification:**  Least Concern, but decreasing in most areas it is found.
+
+**UK Distribution:** coastal East Anglia, southern England
 
 ---------------
 
@@ -449,28 +470,33 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 ## Fragrant Orchid (*Gymnadenia conopsea*)
 
-Should be marked as chalk fragrant?
 
 ![Fragrant]({{ site.baseurl }}/images/orchids/fragrant1.JPG)
 ![Fragrant]({{ site.baseurl }}/images/orchids/fragrant2.JPG)
-
-**Identification:** 
-
-**Sub-family:** 
 
 **Genus:** Gymnadenia 
 
 **Species:** G. conopsea
 
-**Location:** Picos
+**Location:** Picos de Europa 
 
 **Dates seen:** early June 2019
 
-**Habitat:** 
+**Habitat:** full sun, dry calcareous soils
 
-**Conservation Status:** ?
+**Identification:** 
 
-**UK Distribution:** 
+* slender plant, upto 60cm tall
+* 5 to 12 erect lindear-lanceolated leaves
+* upto 200 densley packed strongly scented pink flowers
+* lateral sepals are narrow and droop down
+* lip clearly divided into three lobes
+
+**Pollination:** butterflys and day flying moths (six-spot burnet moth)
+
+**UK Classification:** Least Concern
+
+**UK Distribution:** locally abundant across the UK. 
 
 ----------
 
