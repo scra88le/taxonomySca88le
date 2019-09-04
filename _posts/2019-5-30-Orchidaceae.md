@@ -660,7 +660,6 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 **UK Distribution:** Thoughtout England and coastal Wales
 
 ## **Fly Orchid** (*Ophrys insectifera*)
-Likes insects! Slender plant with deep red flowers
 
 ![Fly]({{ site.baseurl }}/images/orchids/fly1.JPG)
 ![Fly]({{ site.baseurl }}/images/orchids/fly2.JPG)
@@ -707,7 +706,7 @@ Likes insects! Slender plant with deep red flowers
 * sepals white to pink, central green vein, oval edges
 * narrow and short elongate petals
 * labellum hanging, velvety brown to blackish purple with yellow central lobe
-* thick H or X shape covering the lobe
+* thick H or X shape covering the lobe, lateral lobes very hairy
 * stout column with central pollimia
 
 **Habitat:** full sun on alkaline soils, fallow fields or scrub
@@ -765,7 +764,7 @@ Likes insects! Slender plant with deep red flowers
 
 * upto 30cm tall plant, upto six large flowers
 * sepals yellowish-green
-* labellum trilobed, light orange brown centre, bright yellow edges
+* labellum trilobed, light orange brown centre, bright yellow margin
 * lateral lobes bright yellow
 
 **Habitat:** full sun, alkaline dry soils and grassland
@@ -781,21 +780,28 @@ Likes insects! Slender plant with deep red flowers
 ![Sawfly]({{ site.baseurl }}/images/orchids/sawfly1.JPG)
 ![Sawfly]({{ site.baseurl }}/images/orchids/sawfly2.JPG)
 
-**Sub-family:** Orchidoideae
-
 **Genus:** Ophrys
 
 **Species:** O. tenthredinifera
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June
 
-**Habitat:** 
+**Identification:** 
 
-**Classification:** 
+* upto 30cm tall, 4 to 9 oval-lanceolate leaves
+* sepals oval-rounded, purple to pink.
+* labellum is trapezoidal, deep brown to red, with bright yellow margin
+* bright green-yellow column, contains pollinia
 
-**UK Distribution:** 
+**Habitat:** full sun to shade. Likes alkaline soils, grassland upto 1800m
+
+**Pollination:** hymenoptera
+
+**UK Classification:** NA
+
+**UK Distribution:** NA
 
 -----------
 
