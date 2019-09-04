@@ -243,7 +243,7 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 **Location:** East Oxford
 
 ### **Common Rustic** (*Mesapamea secalis*)
-Commonrustic]({{ site.baseurl }}/images/moths/commonrustic.jpeg)
+![Commonrustic]({{ site.baseurl }}/images/moths/commonrustic.jpeg)
 
 **Genus:** Mesapamea secalis
 
