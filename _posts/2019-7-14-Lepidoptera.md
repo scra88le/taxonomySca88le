@@ -291,7 +291,7 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 ### **Heart & Dart** (*Agrotis exclamationis*)
 
-![Heartanddart]({{ site.baseurl }}/images/moths/heartanddart.jpeg)
+![Heartanddart]({{ site.baseurl }}/images/moths/heartanddart.JPG)
 
 **Genus:** Agrotis
 
