@@ -505,7 +505,7 @@ The *Gymnadenia* genus contains 22 speciesm which are typically found in damp me
 
 # Himantoglossum
 
-There are four species of this genus within Europe. They all have a central central where the central lobe is much longer than the lateral lobes.
+There are four species of this genus within Europe. They all have a central labellum with a central lobe that is much longer than the lateral lobes.
 
 ## Lizard Orchid (*Himantoglossum hircinum*)
 
