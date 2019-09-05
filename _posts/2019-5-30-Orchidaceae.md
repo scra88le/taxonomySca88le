@@ -56,6 +56,7 @@ The following sites across Oxfordshire, Bedfordshire and Buckinghamshire were vi
 * **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
 * **[Dry Sandford Pit][ds link], Dry Sandford** - Marsh Helleborine, Southern Marsh and Common Spotted
 * **[Cothill Fen][ch link], Cothill** - Marsh Helleborine and Common Spotted
+* and many others!
 
 ## Picos de Europa Sites
 I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east of Picos massif. The following sites were visited:
@@ -894,8 +895,6 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 ## **Military Orchid** (*Orchis militaris*)
 
-Note the Burnet Companion moth (*Euclidia glyphica*) pollinating the *Orchis militaris*.
-
 ![Military]({{ site.baseurl }}/images/orchids/military1.JPG)
 ![Military]({{ site.baseurl }}/images/orchids/military2.JPG)
 
@@ -907,52 +906,73 @@ Note the Burnet Companion moth (*Euclidia glyphica*) pollinating the *Orchis mil
 
 **Dates seen:** early May 2019
 
-**Habitat:** chalk grassland
+**Identification:** 
 
-**Classification:** ?
+* upto 60cm tall, upto five broad basal leaves, small pinkish bracts
+* normally around 30 whote to lilac flowers, sepals and upper petals form a distinctive hood 
+* long pinkish lip, line of mauve coloured hairs forming 'soldiers buttons'
+* two long side lobes forming 'arms', with lip bottom divided into two square lobes
 
-**UK Distribution:** 
+**Habitat:** chalk grassland, along the edge of broad-leaved woodland
+
+**Pollination:** solitary bees and day flying moths; see picture above of Burnet Companion moth (*Euclidia glyphica*) pollinating *Orchis militaris*.
+
+**UK Classification:** Vulnerable
+
+**UK Distribution:** four known sites in the UK.
 
 ## **Lady x Monkey Orchid** (*Orchis x angusticrucis*)
-
-Distingushing hybrids from parents at Hartslock
 
 ![LadyxMonkey]({{ site.baseurl }}/images/orchids/ladymonkey1.JPG)
 ![LadyxMonkey]({{ site.baseurl }}/images/orchids/ladymonkey2.JPG)
 
 **Genus:** Orchis
 
-**Species:** Orchis x angusticrucis (aka. *O.purpurea x O.simia*)
+**Species:** Orchis x angusticrucis ( sym. *O.purpurea x O.simia*)
 
 **Location:** Hartslock
 
 **Dates seen:** early May 2019
 
-**Habitat:** chalk grassland
+**Identification:**
 
-**Classification:** ?
+* tall and vigourous, typically more flowers than parent species
+* the 'tail' from the Monkey Orchid is much shorter in the Hybrid
+* the two central lobes of the Lady orchid are much thinner in the Hybrid, more like legs
 
-**UK Distribution:** 
+**Pollination:** no data
 
+**Habitat:** chalk grassland, sunny aspect, edge of beech woodland
+
+**UK Classification:** no data.
+
+**UK Distribution:** one site (Hartslock)
 
 ## **Pink Butterfly Orchid** (*Orchis papilionacea*)
 
 ![PinkButterfly]({{ site.baseurl }}/images/orchids/pinkbutt1.JPG)
 ![PinkButterfly]({{ site.baseurl }}/images/orchids/pinkbutt2.JPG)
 
-**Sub-family:** Orchidoideae
 
 **Genus:** Orchis
 
 **Species:** O. papilionacea
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
-**Habitat:** limestone grassland meadow
+**Identification:**
 
-**Classification:** ?
+* upto 40cm tall, upto 9 linear to lanceolate basal leaves
+* sepals and petals forming loose pink hood
+* wide labellum , marked with long pink lines and dashes
+
+**Pollination:** hymenopterans
+
+**Habitat:** limestone grassland meadow, full sun, above 700m
+
+**UK Classification:** NA
 
 **UK Distribution:** NA
 
@@ -961,7 +981,6 @@ Distingushing hybrids from parents at Hartslock
 ![GreenWing]({{ site.baseurl }}/images/orchids/greenwing1.JPG)
 ![GreenWing]({{ site.baseurl }}/images/orchids/greenwing2.JPG)
 
-**Sub-family:** Orchidoideae
 
 **Genus:** Orchis
 
@@ -971,18 +990,26 @@ Distingushing hybrids from parents at Hartslock
 
 **Dates seen:** early May 2019
 
-**Habitat:** grassland meadow
+**Identification:**
 
-**Classification:** ?
+* upto 15cm, eight basal leaves, purplish bracts
+* upto 12 flowers varying from light lilac to purple
+* lateral sepals marked with broad green veins
+* broad trilobed lip, with shorter central lobe
+* centre of the lip is marked with purple flecks
 
-**UK Distribution:** NA
+**Pollination:** red-tailed bumblebee
+
+**Habitat:** unimproved meadow, slightly acidic
+
+**UK Classification:** Near Threatened
+
+**UK Distribution:** coastal Wales and South East England
 
 ## **Bug Orchid** (*Orchis coriophora*)
 
 ![GreenWing]({{ site.baseurl }}/images/orchids/bug1.JPG)
 ![GreenWing]({{ site.baseurl }}/images/orchids/bug2.JPG)
-
-**Sub-family:** Orchidoideae
 
 **Genus:** Orchis
 
@@ -992,9 +1019,19 @@ Distingushing hybrids from parents at Hartslock
 
 **Dates seen:** early June 2019
 
-**Habitat:** limestone grassland
+**Identification:**
 
-**Classification:** ?
+* upto 40cm tall, 4 to 10 basal linear-lanceolate leaves
+* bracts green with red edges, exceeding flower ovary
+* sepals and petals form narrow hood
+* numerous flowers, deep garnet coloured - smelling of bed-bugs
+* labellum fleshy and trilobed
+
+**Habitat:** impoverished grassland, full sun
+
+**Pollination:** no data
+
+**UK Classification:** NA
 
 **UK Distribution:** NA
 
@@ -1002,8 +1039,6 @@ Distingushing hybrids from parents at Hartslock
 
 ![PaleFlowered]({{ site.baseurl }}/images/orchids/pale1.JPG)
 ![PaleFlowered]({{ site.baseurl }}/images/orchids/pale2.JPG)
-
-**Sub-family:** Orchidoideae
 
 **Genus:** Orchis
 
@@ -1013,9 +1048,15 @@ Distingushing hybrids from parents at Hartslock
 
 **Dates seen:** early June 2019
 
-**Habitat:** limestone grassland
+**Identification:**
 
-**Classification:** ?
+* upto 40cm tall, four basel leaves forming a rosette
+* upto 30 pale yellow flowers, lateral sepals are vertical
+* labellum is wide with three lobes, middle lobe wider than laterals
+
+**Habitat:** alpine pastures, edge of woodland, semi-shade
+
+**UK Classification:** NA
 
 **UK Distribution:** NA
 
