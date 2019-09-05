@@ -1056,6 +1056,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Habitat:** alpine pastures, edge of woodland, semi-shade
 
+**Pollination:** no data
+
 **UK Classification:** NA
 
 **UK Distribution:** NA
@@ -1069,15 +1071,24 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Species:** O. anthropophora
 
-**Location:** 
+**Location:** Totternhoe Knolls
 
 **Dates seen:** early May 2019
 
-**Habitat:** 
+**Identification:**
 
-**Classification:** ?
+* upto 40cm tall, four basal leaves
+* upto 90 yellow-green flowers
+* sepals and petals form tight hood, with edges of sepals a dark red
+* lip shaped like a hanging human figure: two narrow side lobes form the arms, forked central lobe forming the legs
 
-**UK Distribution:** 
+**Habitat:** calcareous grassland, abandonded chalk or limestone quarries
+
+**Pollination:** red ants and hoverflies
+
+**UK Classification:** Endangered, nationally scarce
+
+**UK Distribution:** restricted mostely to Kent and Surrey
 
 -------------
 
@@ -1096,7 +1107,11 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Dates seen:** late May 2019
 
+**Identification:**
+
 **Habitat:** chalk grassland
+
+**Pollination:** 
 
 **Classification:** Red - Endangered & Critically Endangered
 
