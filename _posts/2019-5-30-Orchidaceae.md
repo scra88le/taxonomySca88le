@@ -469,6 +469,8 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 # Gymnadenia 
 
+The *Gymnadenia* genus contains 22 speciesm which are typically found in damp meadows, fens and marshes.
+
 ## Fragrant Orchid (*Gymnadenia conopsea*)
 
 
@@ -502,6 +504,8 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 ----------
 
 # Himantoglossum
+
+There are four species of this genus within Europe. They all have a central central where the central lobe is much longer than the lateral lobes.
 
 ## Lizard Orchid (*Himantoglossum hircinum*)
 
@@ -600,6 +604,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 # Nigritella
 
+This is a small genus of plants. There are thought to be nine species all confined to alpine zones.
+
 ## **Black Vanilla Orchid** (*Nigritella nigra*)
 
 ![Vanilla]({{ site.baseurl }}/images/orchids/vanilla1.JPG)
@@ -630,6 +636,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 --------------
 
 # Ophrys
+
+This is a large genus. They specialists in reproducing through pseudocopulation. The *type* species is the fly orchid, *Ophrys insectifera*.
 
 ## **Bee Orchid** (*Ophrys apifera*)
 
@@ -807,6 +815,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 -----------
 
 # Orchis
+
+The genus name is derived from the ancient greek meaning *testicle*. This is related to the paired subterranean tuberoids common to all species within the genus.
 
 ## **Early Purple Orchid** (*Orchis mascula*)
 
@@ -1094,6 +1104,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 # Neotinea
 
+A very small genus containing only five species.
+
 ## **Burnt-tip Orchid** (*Neotinea ustulata*)
 
 ![BurntTip]({{ site.baseurl }}/images/orchids/burnt1.JPG)
@@ -1126,6 +1138,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 ------------
 
 # Platanthera
+
+The genus comprises approximately 100 species. The type species is *Platanthera bifolia*, the Lesser Butterfly orchid. All species are distributed amongst the temperate regions of the Northern hemisphere.
 
 ## **Greater Butterfly Orchid** (*Platanthera chlorantha*)
 
@@ -1186,6 +1200,8 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 --------------
 
 # Serapias
+
+This genus is relatively small at 15 species, but seems to hybridise very easily.
 
 ## **Heart-flowered Orchid** (*Serapias cordigera*)
 
