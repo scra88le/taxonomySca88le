@@ -1109,13 +1109,19 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Identification:**
 
-**Habitat:** chalk grassland
+* small, upto 10cm tall. Basal rosette of broad leaves
+* 15 to 50 small densley packed flowers
+* sepals and petals form a tight hood that is dark red-brown
+* lip is white, two rounded side lobes, forked central lobe marked with crimson spots
+* sweetly scented flowers
 
-**Pollination:** 
+**Habitat:** unimproved chalk and limestone grassland
 
-**Classification:** Red - Endangered & Critically Endangered
+**Pollination:** flys have been observed as pollinators. Plants take 15 years to reach flowering maturity
 
-**UK Distribution:** 
+**UK Classification:** Endangered, nationally scarce
+
+**UK Distribution:** south east England
 
 ------------
 
@@ -1130,15 +1136,25 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Species:** P. chlorantha
 
-**Location:** 
+**Location:** Homefield Woods, Warburg NR, Bald Hill
 
 **Dates seen:** late May 2019
 
-**Habitat:** chalk grassland
+**Identification:**
 
-**Classification:** 
+* upto 60cm tall, two large elliptical basal leaves
+* 10 to 40 white-green flowers
+* ovate lateral sepals spread outwards, upper sepal and petals form a loose hood above the pollinia
+* translucent lip is long with greenish tip
+* the two pollinia diverge - in the lesser butterly orchid they are parallel 
 
-**UK Distribution:** 
+**Habitat:** well drained chalk grassland
+
+**Pollination:** Silver-Y moth, Elephant and Small Elephant Hawk moths
+
+**UK Classification:** Near Threatened
+
+**UK Distribution:** Wales, England and western Scotland
 
 ## **Lesser Butterfly Orchid** (*Platanthera bifolia*)
 
@@ -1149,15 +1165,23 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Species:** P. biofolia
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
-**Habitat:** sand dunes
+**Identification:**
 
-**Classification:** 
+* upto 55cm tall, two large elliptical basal leaves
+* upto 25 white flowers, sometimes tinged yellow-green
+* in contrast to the Greater Butterfly orchid, the pollinia lie parallel and close together
 
-**UK Distribution:** 
+**Habitat:** sand dunes, more acid tollerant than the Greater Butterly orchid
+
+**Pollination:** *Sphingid* moths, as well as Small Elephant and Elephant Hawk moths
+
+**UK Classification:** Vulnerable
+
+**UK Distribution:** west side of Britain, as far north as Orkney
 
 --------------
 
@@ -1172,17 +1196,24 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 **Species:** S. cordigera
 
-**Location:** Picos (Liencres)
+**Location:** Picos de Europa (Liencres)
 
 **Dates seen:** early June 2019
 
-**Habitat:** sand dunes
+**Identification:**
 
-**Classification:** 
+* upto 40cm tall, bracts wide and purple tinged
+* 3 to ten flowers, very dark red
+* elongate hairy labellum, heart shaped central lobe
+* rounded lateral lobes, emerging from hood
 
-**UK Distribution:** 
+**Habitat:** full sun, acid soils (seen on sand dunes)
 
-The sepals and petals are brownish-purple with dark stripes. The central lobe is darker, heart shaped, 20-35 mm long, and has two black lumps near the base.
+**Pollination:** no data
+
+**UK Classification:** NA
+
+**UK Distribution:** recorded once in Kent.
 
 ## **Tongue Orchid** (*Serapias linuga*)
 
@@ -1193,17 +1224,27 @@ The sepals and petals are brownish-purple with dark stripes. The central lobe is
 
 **Species:** S. lingua
 
-**Location:** Picos 
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
+**Identification:**
+
+* upto 30cm tall, bracts shorter than hood
+* two to six flowers, pale violet, horizontal hood with violet-purple veins
+* labellum long (upto 3cm) , fleshy pink and hairy
+* lateral lobes dark purple and concealed within hood
+* pollinia greenish yellow, coffee bean swelling at base of labellum
+
 **Habitat:** meadows
 
-**Classification:** 
+**Pollination:** no data
 
-**UK Distribution:** 
+**UK Classification:** NA
 
-## **Serapias x ambigua **
+**UK Distribution:** NA
+
+## **Serapias x ambigua**
 
 ![Ambigua]({{ site.baseurl }}/images/orchids/ambigua1.JPG)
 ![Ambigua]({{ site.baseurl }}/images/orchids/ambigua2.JPG)
@@ -1212,15 +1253,22 @@ The sepals and petals are brownish-purple with dark stripes. The central lobe is
 
 **Species:** S. x ambigua
 
-**Location:** Picos 
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
-**Habitat:** meadows
+**Identification:**
 
-**Classification:** 
+* as per heart-flowered, but no ridge on labellum
+* labellum very hairy, dark plum red
 
-**UK Distribution:** 
+**Habitat:** unimproved meadows, south facing
+
+**Pollination:** no data
+
+**UK Classification:** NA
+
+**UK Distribution:** NA
 
 ------------
 
@@ -1228,15 +1276,11 @@ References
 ==========
 [Wikipedia entry on the Orchidaceae](https://en.wikipedia.org/wiki/Orchidaceae)
 
-[John and Gerry's Orchids of Britain and Europe](http://www.orchidsofbritainandeuropetest.uk/index.htm)
+Orchids of Britain & Europe - Pierre Delforge
 
-[Orchid Observers identification guide](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/Citizenscience/orchid-observers/orchid-observers-id-guide.pdf)
-
-[A beginer's vegative guide to orchids of the British Isles - NHM](https://www.nhm.ac.uk/content/dam/nhmwww/take-part/identify-nature/british-orchids-vegetative-id-guide.pdf)
+Britain's Orchids - David Lang
 
 [The UK Ghost Orchid Project](https://www.ghostorchidproject.co.uk/)
-
-[ICUN Red List of Threatened Species](https://www.iucnredlist.org/)
 
 [Vascular Plant Red Data List for Great Britain](http://jncc.defra.gov.uk/pdf/pub05_speciesstatusvpredlist3_web.pdf)
 
@@ -1258,5 +1302,3 @@ I would like to acknowledge the help and knowledge of [Teresa Farino](http://www
 [tk link]: https://www.wildlifebcn.org/sites/default/files/2018-06/case_study_-_totternhoe_orchids_final.pdf
 [ds link]: https://www.bbowt.org.uk/nature-reserves/dry-sandford-pit
 [ch link]: https://freshwaterhabitats.org.uk/cothill-fen-flagship-site/
-
-
