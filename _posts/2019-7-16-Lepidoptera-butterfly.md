@@ -23,6 +23,17 @@ Originally Linnaeus placed all butterflies and moths in the same genus Papilio. 
 
 Hesperiidae, known as skippers, are recognised by their rapid and darting flight. There are more than 3,500 species described, with the type species being *Hesperia comma*, the Silver-spotted skipper. The Lulworth skipper shown below is distinguished from the small skipper from the cresent shaped light marking on the forewing. 
 
+### **Dingy Skipper** (*Erynnis tages*)
+![dingyskipper]({{ site.baseurl }}/images/butterflys/dingy.JPG)
+
+**Genus:** Erynnis
+
+**Species:** E. tages
+
+**Date seen:** early June, 2019
+
+**Location:** Hartlock
+
 ### **Lulworth skipper** (*Thymelicus acteon*)
 ![Lulworthskipper]({{ site.baseurl }}/images/butterflys/lulworthskipper.JPG)
 
