@@ -323,9 +323,9 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 **Location:** East Oxford
 
-### **Frosted Oranse** (*Gortyna flavago*)
+### **Frosted Orange** (*Gortyna flavago*)
 
-![FrostedOrange]({{ site.baseurl }}/images/moths/frostedorange.jpeg)
+![FrostedOrange]({{ site.baseurl }}/images/moths/frostedorange.JPG)
 
 **Genus:** Gortyna flavago
 
@@ -409,7 +409,7 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 ### **Small Wainscot** (*Denticucullus pygmina*)
 
-![SmallWainscot]({{ site.baseurl }}/images/moths/smallwainscot.jpeg)
+![SmallWainscot]({{ site.baseurl }}/images/moths/smallwainscot.JPG)
 
 **Genus:** Denticucullus
 
