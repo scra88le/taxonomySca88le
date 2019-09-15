@@ -46,6 +46,27 @@ Ants within the UK Formica genus are commonly known as the wood ants. The type s
 
 ### **Formica sanguinea**
 
+Formica sanguinea is a slave-maker. The queen invades nests and kills the incumbent queen. F. sanguinea workers are also known to raid the nests of nearby *Serviformica* nests in order to make slaves from pupae
+
+**Genus:** Formica
+
+**Species:** F. sanguinea
+
+**Date seen:** early June, 2018
+
+**Location:** Chobham Common, Surrey
+
+**Microhabitat**: small nest in tree stump by railway line
+
+**Identification**
+
+* front of head bright red
+* gaster much darker, brownish black
+* Clypeus has notch that is variable in size and shape, but always present
+
+![sanguinea1]({{ site.baseurl }}/images/ants/sanguinea1.jpg)
+![sanguinea2]({{ site.baseurl }}/images/ants/sanguinea2.jpg)
+
 ## Lasius
 
 ### **Lasius brunneus**
