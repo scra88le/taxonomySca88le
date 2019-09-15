@@ -14,7 +14,7 @@ The UK has a very sparse ant fauna - globally there are thougth to be over [16,0
 * *Myrmicinae* - this sub-family together with *Formicinae* represent 80% of UK ant species. Members of the *Myrmicinae* sub-family have a wasit with two segments (known as the petiole and postpetiole)
 * *Formicinae* - the final sub-family are distingusied from *Myrmicinae* by the fact they only have one petiole between the thorax and gaster.
 
-A number of collected ants from the *formiciane* and *myrmicinae* are shown below.
+A number of ant species from the *formiciane* and *myrmicinae* are shown below.
 
 # Formicinae
 
@@ -104,5 +104,6 @@ Locally present in Shetland!
 * hind face of petiole strongly angled
 * the shape of the base of the antennae curved in *M. ruginodis* - sharply angled in *M. rubra*
 
+# References
 
 [antweb]: https://www.antweb.org
