@@ -1,4 +1,4 @@
----
+s---
 layout: post
 title: Lepidoptera (Moths)
 ---
@@ -153,6 +153,18 @@ The geometer moths belong to the family Geometridae.
 **Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
+
+### **Green Carpet** (*Colostygia pectinataria*)
+
+![GreenCarpet]({{ site.baseurl }}/images/moths/greencarpet.JPG)
+
+**Genus:** Colostygia pectinataria
+
+**Species:** C. pectinataria
+
+**Date seen:** early September, 2019
+
+**Location:** Peppercombe Valley, North Devon
 
 ### **Portland Ribbon Wave** (*Idaea degeneraria*)
 
