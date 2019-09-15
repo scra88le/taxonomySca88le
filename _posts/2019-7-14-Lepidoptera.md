@@ -76,6 +76,28 @@ The Drepanidae is a family of moths with about 660 species described worldwide, 
 
 **Location:** Picos de Europa, Spain
 
+### **Pinion-streaked Snout** (*Schrankia costaestrigalis*)
+![PinionStreakedSnout]({{ site.baseurl }}/images/moths/pinionstreakedsnout.JPG)
+
+**Genus:** Schrankia costaestrigalis
+
+**Species:** S. costaestrigalis
+
+**Date seen:** early September, 2019
+
+**Location:** Heddon Valley, North devon
+
+### **Snout** (*Hypena proboscidalis*)
+![Snout]({{ site.baseurl }}/images/moths/snout.JPG)
+
+**Genus:** Hypena
+
+**Species:** H. proboscidalis
+
+**Date seen:** early September, 2019
+
+**Location:** Peppercombe Valley, North devon
+
 ### **Pale Tussock** (*Calliteara pudibunda*)
 The female Pale Tussock is shown below on the left, and the male on the right:
 
@@ -205,7 +227,7 @@ The geometer moths belong to the family Geometridae.
 ------------
 
 ## Noctuidae
-Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,000 genera and 20,000 species worldwide. The type species is *Noctua pronuba* (the Large yellow underwing). Within the UK, the *Noctuidae* is the largest family of macro-moths, wiyth around 370 species.
+Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,000 genera and 20,000 species worldwide. The type species is *Noctua pronuba* (the Large yellow underwing). Within the UK, the *Noctuidae* is the largest family of macro-moths, with around 370 species.
 
 ### **Alder** (*Acronicta alni*)
 ![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
@@ -265,7 +287,7 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 **Location:** East Oxford
 
-### **Commomn Wainscot** (*Mythimna pallens*)
+### **Common Wainscot** (*Mythimna pallens*)
 
 ![CommonWainscot]({{ site.baseurl }}/images/moths/commonwainscot.JPG)
 
@@ -293,13 +315,25 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 ![Flouncedrustic]({{ site.baseurl }}/images/moths/flouncedrustic.jpeg)
 
-**Genus:** Luperina testacea
+**Genus:** Luperina
 
 **Species:** L. testacea
 
 **Date seen:** late August, 2019
 
 **Location:** East Oxford
+
+### **Frosted Oranse** (*Gortyna flavago*)
+
+![FrostedOrange]({{ site.baseurl }}/images/moths/frostedorange.jpeg)
+
+**Genus:** Gortyna flavago
+
+**Species:** G. flavago
+
+**Date seen:** early September, 2019
+
+**Location:** Heddon Valley, North Devon
 
 ### **Heart & Dart** (*Agrotis exclamationis*)
 
@@ -349,6 +383,18 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 
 **Location:** Pesaguero, Spain
 
+### **Rosy Rustic** (*Hydraacia micacea*)
+
+![RosyRustic]({{ site.baseurl }}/images/moths/rosyrustic.JPG)
+
+**Genus:** Hydraacia micacea
+
+**Species:** H.micacea
+
+**Date seen:** early September, 2019
+
+**Location:** Peppercombe Valley, North Devon
+
 ### **Setaceous Hebrew Character** (*Xestia c-nigrum*)
 
 ![HebrewCharacter]({{ site.baseurl }}/images/moths/hebrewcharacter.jpeg)
@@ -360,6 +406,18 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 **Date seen:** late August, 2019
 
 **Location:** East Oxford
+
+### **Small Wainscot** (*Denticucullus pygmina*)
+
+![SmallWainscot]({{ site.baseurl }}/images/moths/smallwainscot.jpeg)
+
+**Genus:** Denticucullus
+
+**Species:** D. pygmina
+
+**Date seen:** early September, 2019
+
+**Location:** Heddon Valley, North Devon
 
 ### **Square-spot Rustic** (*Xestia xanthographa*)
 
