@@ -561,9 +561,9 @@ Some of the 1000 or so species commonly known as burnet or forester moths, are i
 
 Field Guide to the Moths of Great Britain and Ireland (Third Edition) - Waring, Townsend and Lewington
 
-[UK Moth Guide]:(https://www.antweb.orghttps://ukmoths.org.uk)
+[UK Moth Guide](https://www.antweb.orghttps://ukmoths.org.uk)
 
-[What's flying tonight]:(https://shiny-apps.ceh.ac.uk/whats_flying_tonight/)
+[What's flying tonight](https://shiny-apps.ceh.ac.uk/whats_flying_tonight/)
 
 
 
