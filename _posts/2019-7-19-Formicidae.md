@@ -70,6 +70,28 @@ Formica sanguinea is a slave-maker. The queen invades nests and kills the incumb
 ## Lasius
 
 ### **Lasius brunneus**
+This species is typically found in broad-leaved woodland across Europe. It nests within the interior of Oak trees, where it tends aphids for food.
+
+![brunneus]({{ site.baseurl }}/images/ants/brunneus.JPG)
+
+**Genus:** Lasius
+
+**Species:** L. brunneus
+
+**Date seen:** early May, 2018
+
+**Location:** Wytham Woods, Oxfordshire
+
+**Microhabitat**: woodland path
+
+**Identification**
+
+* gaster dark brown, pale reddish brown head and alitrunk
+* not many body hairs
+* scapes and tibiae never with erect hairs
+* back of head flat or feebly concave
+* single waister
+
 
 ### **Lasius flavus**
 
