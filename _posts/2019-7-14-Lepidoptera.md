@@ -557,11 +557,12 @@ Some of the 1000 or so species commonly known as burnet or forester moths, are i
 
 **Location:** Dry Sandford (BBWOT reserve), Oxfordshire
 
-
 # References
 
 Field Guide to the Moths of Great Britain and Ireland (Third Edition) - Waring, Townsend and Lewington
+
 [UK Moth Guide]:(https://www.antweb.orghttps://ukmoths.org.uk)
+
 [What's flying tonight]:(https://shiny-apps.ceh.ac.uk/whats_flying_tonight/)
 
 
