@@ -87,10 +87,10 @@ This species is typically found in broad-leaved woodland across Europe. It nests
 **Identification**
 
 * gaster dark brown, pale reddish brown head and alitrunk
-* not many body hairs
+* sparse body hairs
 * scapes and tibiae never with erect hairs
 * back of head flat or feebly concave
-* single waister
+* single waisted
 
 
 ### **Lasius flavus**
