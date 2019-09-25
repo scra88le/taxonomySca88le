@@ -33,14 +33,15 @@ Ants within the UK Formica genus are commonly known as the wood ants. The type s
 
 **Date seen:** early May, 2018
 
-**Location:** Burnwood, Oxfordshire 
+**Location:** Bernwood, Oxfordshire 
 
 **Microhabitat**: nest of confier needles, under
 
 **Identification**
 
-* Bicoloured; red and brownish black
-* Large works; upto 9mm in length
+* opening of propodeal spiricale on side of propodeum, is elongate
+* bicoloured; red and brownish black
+* a large UK species; upto 9mm in length
 * Single segment waist (petiole)
 * no notch in margin of the clypeus
 
@@ -60,6 +61,8 @@ Formica sanguinea is a slave-maker. The queen invades nests and kills the incumb
 
 **Identification**
 
+* opening of propodeal spiricale on side of propodeum, is elongate
+* single segment waist (petiole)
 * front of head bright red
 * gaster much darker, brownish black
 * Clypeus has notch that is variable in size and shape, but always present
@@ -86,6 +89,7 @@ This species is typically found in broad-leaved woodland across Europe. It nests
 
 **Identification**
 
+* opening of propodeal spirical on hind faces, is circular
 * gaster dark brown, pale reddish brown head and alitrunk
 * sparse body hairs
 * scapes and tibiae without erect hairs
@@ -109,13 +113,33 @@ L. flavus is one of the UK's smallest ants. It is yellow and nests in undisturbe
 
 **Identification**
 
-* single waisted
-* small to other Lasius species, and yellow in colour
+* opening of propodeal spirical on hind faces, is circular
+* single waisted, and yellow in colour
+* size is variable but typically small compared to other Lasius species
 * antennal scape without hairs, hairs on upper surface of gaster
 * diameter of compound eyes less than length of the last segment of antennal scape
 
 ### **Lasius fuliginosus**
+L. fuliginosus exhibits a complex biology, known as temporary social parasitism. The queen invades the nest of a host species where it kills the queen, leaving the host worker population to care for the *fuliginosus* brood.
 
+![fluliginosus]({{ site.baseurl }}/images/ants/fuliginosus.JPG)
+
+**Genus:** Lasius
+
+**Species:** L. fuliginosus
+
+**Date seen:** early May, 2019
+
+**Location:** Kings lock, Oxfordshire
+
+**Microhabitat**: tree stump at side of river Thames
+
+**Identification**
+
+* single waisted
+* opening of propodeal spirical on hind faces, is circular
+* shiny and jet black body
+* heart shaped head; strongly concave behind
 
 
 ### **Lasius niger**
