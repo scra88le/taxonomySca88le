@@ -12,15 +12,15 @@ There are some 160,000 species of moths in the world, compared to 17,500 species
 
 * **Geometridae** - some 15,000 described species, this Family is the second largest of moths in the world. They typically rest with their wings spread open.
 
-* **Noctuidae** - by far the largest moth family, with some 25,000 known species in the world. 
+* **Noctuidae** - by far the largest moth family, with some 25,000 known species world wide. 
 
-* **Saturniidae** - this family includes the largest of moths, and incorporates some 1,000 worldwide species. The Luna Moth is an example of this family.
+* **Saturniidae** - this family includes the largest of moths, and incorporates some 1,000 worldwide species. The Luna Moth is within this family.
 
-* **Sphingidae** -  members of this family are generally large, and contains about 1,000 species. The Privet hawk-moth is an example of this family, and is the UK's largest moth species.
+* **Sphingidae** -  members of this family are generally large, and contains about 1,000 species. The Privet hawk-moth is within the family, and is the UK's largest moth species.
 
-In the UK there are over 2,500 species of moths. Making it one of the more diverse fauna. UK macro moths comprise approximately 900 species which are divided into 19 different families. Microlepidoptera is the term given to a wide variety of very small moths, as opposed to macrolepidoptera. The group contains many thousands of tiny species; the division is arbitrary.
+In the UK there are over 2,500 species of moths. Making it one of the more diverse UK fauna. UK macro moths comprise approximately 900 species which are divided into 19 different families. 
 
-The following presents some of the moth species that I photographed in the UK (north Cornwall, Devon and Oxfordshire) and whilst on a field trip to the Picos de Europa during the summer of 2019.
+This page shows moth species that I photographed in the UK (north Cornwall, Devon and Oxfordshire) and whilst on a field trip to the Picos de Europa during the early summer of 2019.
 
 ----------
 
