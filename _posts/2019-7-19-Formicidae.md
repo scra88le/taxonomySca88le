@@ -7,9 +7,9 @@ title: Formicidae
 
 # Taxonomy of Ants
 
-The UK has a very sparse ant fauna - globally there are thougth to be over [16,000 described species][antweb] within the *formicidae*, of which Britain hosts around 70 of them. This is most likely due to the relatively cool climate of the UK (ants love warmth).  The four UK sub-families are:
+The UK has a sparse ant fauna - globally there are thought to be over [16,000 described species][antweb] within the *formicidae*, of which Britain hosts around 70 of them. This is most likely due to the relatively cool climate of the UK (ants love warmth).  The four UK sub-families are:
 
-* *Ponerinae* - there are two rare UK species of this family; the native *Ponera coarctata* and *Hypoponera punctatissima*. *H. punctatissima* is thought to be an example of a *tramp* species; an introduced species that survies only in greenhouses.
+* *Ponerinae* - there are two rare UK species of this family; the native *Ponera coarctata* and *Hypoponera punctatissima*. *H. punctatissima* is thought to be an example of a *tramp* species; an introduced species that survies only in glass-houses.
 * *Dolichoderirnae* - a sub-family represented by four species; *Tapinoma erraticum*, *T. ambiguum*, *T. melanocephalum* and *Linepithema humile*; the later two being *tramp* species. 
 * *Myrmicinae* - this sub-family together with *Formicinae* represent 80% of UK ant species. Members of the *Myrmicinae* sub-family have a wasit with two segments (known as the petiole and postpetiole)
 * *Formicinae* - the final sub-family are distingusied from *Myrmicinae* by the fact they only have one petiole between the thorax and gaster.
@@ -19,7 +19,7 @@ A number of ant species from the *formiciane* and *myrmicinae* are shown below.
 # Formicinae
 
 ## Formica
-Ants within the UK Formica genus are commonly known as the wood ants. The type species of the genus is the European red woodant or *Formica rufa*. 
+Ants within the UK Formica genus are commonly known as the wood ants. The type species of the genus is the European red woodant or *Formica rufa*. The genera *Formica* and *Lasius* can be differentiated by the shape of the breathing spore, the propodeal spiricale. For *Laisus* it is circular, and for *Formica* it is elongate. 
 
 ### **Formica rufa**
 *F. rufa* build large dome shaped nests at the base of trees within confierous woodland. Workers typically forage upto 100m from their nests, where their primary diet is aphid honeydew, but they also prey on other insects in the canopies near their nest site. Wood ants are considered significant ecosystem engineers in that they have ecological effets over several trophic levels. Notably they affect soil nutrition levels and carbon cycles by collecting organic material as well as affecting the growth of trees negatively by tending aphids, and positively by preying on herbivores. This in turn has a negative effect on the breeding success of insectivorous birds.
@@ -172,7 +172,7 @@ This species is perhaps more commonly known as the *common black ant*, although 
 
 ## Myrmica
 
-The *myrmica* genus contains around 200 known species worldwide. It is the largest ant genus in Britain, with ten known species. The photos below show species within the genus (they are not sufficently detailed to classify to species level):
+The *myrmica* genus contains around 200 known species worldwide. It is the largest ant genus in Britain, with ten known species. All UK Myrmica have a waist comprising of two segments; the petiole and post-petiole. The photos below show species within the genus (they are not sufficently detailed to classify to species level):
 
 
 ![rubra1]({{ site.baseurl }}/images/ants/rubra1.JPG)
@@ -215,4 +215,12 @@ A common species found throughour Britain; locally present in Shetland.
 
 # References
 
-[antweb]: https://www.antweb.org
+Ants - Skinner & Allen
+[antweb] https://www.antweb.org
+[antwiki - UK Species list] https://www.antwiki.org/wiki/United_Kingdom_of_Great_Britain_and_Northern_Ireland
+
+# Acknowledgements
+
+I would like to acknowledge the help of [Dr James Hogan][james] at the Oxford University Museum of Natural History, for helping to verify my species identifications.
+
+[james]:https://oumnh.ox.ac.uk/people/dr-james-hogan 
