@@ -4,26 +4,18 @@ title: Orchidaceae
 ---
 
 # Taxonomy
-The taxonomy of the *Orchidaceae* has evolved slowly during the last 250 years, starting with Carl Linnaeus who in 1753 recognized eight genera. Whilst there are 50 or so native speices within Britain and Ireland, 36 of which are found within Berkshire, Buckinghamshire and Oxfordshire. Worldwide there are thought to be around 28,000 accepted species, distributed amongst some 900 genera. Orchid taxonomy is still actively being revised and each year approximately 150 new species are discovered. 
+Starting with Carl Linnaeus who in 1753 recognized eight genera, the taxonomy of the *Orchidaceae* has evolved continuously during the last 250 years. Whilst there are 50 or so native speices within Britain and Ireland, 36 of which are found within Berkshire, Buckinghamshire and Oxfordshire. Worldwide there are thought to be around 28,000 accepted species, distributed across some 900 genera. Orchid taxonomy is still actively being revised and each year approximately 150 new species are discovered.  There are currently five recognised subfamilies:
 
-There are currently five recognised subfamilies, comprising 22 tribes, 70 subtribes:
-
-* *Apostasioideae* - only two genera and 15 species are recognised within the Apostasioideae, they are thought to be the basal lineage for the Orchid family
-* *Cypripedioideae* - five genera and 165 species, this group is known as the slipper orchids
+* *Apostasioideae* - only two genera and 15 species are recognised within what is thought to be the basal lineage of the Orchidaceae
+* *Cypripedioideae* - this group is known as the slipper orchids and is split amongst five genera
 * *Orchidoideae* - typically single stamen terrestrial plants, with tubers or rhizomes, of around 62 genera and 3200 species
 * *Epidendroideae* - the largest subfamily by far, with 576 genera and 15,000 species; most are ephiphytes or parasitic upon mycorrhizal fungi
 * *Vanilloideae* - there are 15 genera and around 180 species whose distribution is pantropical, throughout Asia, Australia and the Americas 
 
 All UK species are within the Orchidoideae and Epidendroideae subfamilies, with a single species *Cypripedium calceolus*, commonly known as Lady's Slipper, in the Cypripedioideae family. The type genus for the Orchidaceae family is *Orchis*, which is within the sub-family *Orchidoideae*. 
 
-
-# Anatomy
-* Roots - terrestrial orchids may have rhizomes or tubers. Some terrestrial orchids have two subterranean tubers; one being used as a food reserve for winter. Epiphytic orchids have aerial roots that can be several meters long.
-* Leaves - all Orchids that have leaves are simple with parallel veins. Leaves may be ovate, lanceolate or orbiulate. Note that Orchids of the genus *Corallorhiza* (Coralroot orchids) lack leaves altogether, and instead are parasitic on the roots of mature trees and use specialized fungi to harvest sugars.
-* Flowers - the flowers of orchids are bilaterally symmetrical and orchids found in Europe are typically made up of three sepals and three petals, where one petal is distrinctly different from the others in that it forms a lip or *labellum*. The lip is often highly decorated or of a very different shape to the other petals. The labellum is actually the upper medial petal; as the flower develops, the inferior ovary usually rotates 180°.
-
 # Species Recorded
-From May 2019 I visited a number of Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust (BBOWT) nature reserves to photograph native UK speices. The following list shows the BBOWT sites I visted, together with the species observed. I also took a field trip to the Picos de Europa, in northern Spain, in early June. This area is renowned within Europe for a high density of Orchid specimens, and whilst having many similar species to those which are native to the UK, there are a some that are not found in the UK.
+From May 2019 I visited a number of Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust (BBOWT) nature reserves to photograph native UK speices. The following list records the BBOWT sites I visted, together with the species observed for a given time of year. I also took a field trip to the Picos de Europa, in northern Spain in early June. This area is renowned within Europe for a high density of Orchid species, and whilst many are similar to those which are native to the UK, there are a some that are not found in the UK.
 
 Each species recorded in the sections below has the following information:
 
@@ -31,17 +23,16 @@ Each species recorded in the sections below has the following information:
 * Genus
 * Species 
 * Location - where I observed the species
-* Dates seen - what time of year did I make the observation(s)
-* Habitat - what type of habitat(s) was the species recorded in
+* Dates seen - the time of year the observation was made
+* Habitat - what habitat(s) the species was recorded in
 
 ## Other data
-* Identification - what are the distinguishing morphological features that allow identification
-* Pollination - how is the plant typically pollinated
+* Identification - what are the distinguishing features that allow identification
+* Pollination - how is the plant typically pollinated (most as recorded in the field guide - see references)
 * UK classification - what is the current conservation status of the species according to the *Vascular Plant Red Data List for Great Britain*
 * UK distribution - where within the UK is the species typically found.
 
 ## BBOWT Sites
-
 The following sites across Oxfordshire, Bedfordshire and Buckinghamshire were visited to collect photographs of orchids:
 
 * **[Bernwood][bw link], Oxford** - Green winged
@@ -56,7 +47,6 @@ The following sites across Oxfordshire, Bedfordshire and Buckinghamshire were vi
 * **[Totternhoe Knolls][tk link], Totternhoe** - Man, Common Twayblade and Common Spotted
 * **[Dry Sandford Pit][ds link], Dry Sandford** - Marsh Helleborine, Southern Marsh and Common Spotted
 * **[Cothill Fen][ch link], Cothill** - Marsh Helleborine and Common Spotted
-* and many others!
 
 ## Picos de Europa Sites
 I also had a one week field trip to the Picos de Europa mountain range in northern Spain, and a number of sites to the south east of Picos massif. The following sites were visited:
@@ -90,7 +80,7 @@ The rare white flowered variant of the Pyramdial Orchid *Anacamptis pyramidalis 
 **Habitat:** Anacamptis pyramidalis requires a sunny spot typically on well drain chalk soils
 
 **Identification:** 
-* plant is 10 to 60cm tall
+* the plant is 10 to 60cm tall
 * 3 to 4 linear to lanceolate basal leaves
 * flowers arranged in a distrinctive compact pyramidal shape
 * flowers typically pink to purple, rarely white
@@ -146,7 +136,7 @@ This genus have rhizomes rather than tubers. About 15 species are currently reco
 
 **Dates seen:** early June 2019
 
-**Habitat:** scrub in woodland magin, on steep limestone gorge 
+**Habitat:** scrub in woodland magin, within steep limestone gorge 
 
 **Identification:**
 * plant is 15 to 60cm tall, spindly stem with greyish hairs
@@ -188,7 +178,7 @@ Coeloglossum is thought to have only one species, *Coeloglossum viride*, the fro
 * 5 to 25 flowers, oval-triangular sepals green, sometimes purple
 * pendant like labellum, three lobes at tip
 
-**Pollination:** bees and small wasps, or autogamously
+**Pollination:** bees and small wasps, or self-pollinated
 
 **UK Classification:** Vulnerable
 
@@ -197,15 +187,13 @@ Coeloglossum is thought to have only one species, *Coeloglossum viride*, the fro
 ---------------
 
 # Dactylorhiza
-Plants in the *Dactylorhiza* are hardy tuberous geophytes. They typically have long lanceolate leaves which are often also speckled, with an inflorescence consisting of 25 to 50 . The flowers are typically white or shades of pink to red. The name Dactylorhiza derives from daktylos = finger and rhiza = root
+Plants in the *Dactylorhiza* are hardy tuberous geophytes. They typically have long lanceolate leaves which are often also speckled. The flowers are typically white or shades of pink to red.
 
 ## **Common Spotted Orchid** (*Dactylorhiza fuchsii*)
-D. fuchsii is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where various specimens started to emerge as of late May. 
+*D. fuchsii* is a widespread and abundant orchid with a distribution throughout temperate Europe. I came across the Common Spotted at my local nature reserve, [Lye Valley](http://www.friendsoflyevalley.org.uk/about/index.html), a tufa-forming valley-head alkaline spring fen. I also saw it at Homefield wood where various specimens started to emerge as of late May. 
 
 ![Common Spotted]({{ site.baseurl }}/images/orchids/commonspot1.JPG)
 ![Common Spotted]({{ site.baseurl }}/images/orchids/commonspot2.JPG)
-
-**Identification:** green leaves with many oval spots, forming a rossette before the flower spike appears. The flower colour is variable; ranging from white, pale pink, through to purple. They have distinctive darker pink spots and stripes on their three-lobed lips. The flowers are densely packed in short, cone-shaped clusters, which emerge from the bottom up. The scent of the flowers are highly attractive to day-flying moths. The Common Spotted can grow to a height of 60cm, but typically smaller than this.
 
 **Genus:** Dactylorhiza 
 
@@ -230,7 +218,7 @@ D. fuchsii is a widespread and abundant orchid with a distribution throughout te
 **UK Distribution:** UK wide, except the Scottish Highlands
 
 ## **Early Marsh Orchid** (*Dactylorhiza incarnata*)
-Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May. Incarnate is similar to the Southern Marsh; but this is typically a larger plant, with larger flowers that are a darker pink.  
+Generally found in wet meadows, calcareous marshes and sand-dunes, this is the most widespread of the marsh-orchids. There are five identified sub-species, which sometimes identification difficult. The best site for the Early Marsh that I found was at [Pixey Mead][px link], a SSSI, just north of Oxford. This ancient wet meadow had dozens of plants that were starting to flower as of late May. *D. incarnate* is similar to the Southern Marsh; but this is typically a larger plant, with larger flowers that are a darker pink.  
 
 ![Early Marsh]({{ site.baseurl }}/images/orchids/earlymarsh1.JPG)
 ![Early Marsh]({{ site.baseurl }}/images/orchids/earlymarsh2.JPG)
@@ -243,7 +231,7 @@ Generally found in wet meadows, calcareous marshes and sand-dunes, this is the m
 
 **Dates seen:** late May to June 2019
 
-**Habitat:** Wet (not improved) meadows and marsh that are alkaline
+**Habitat:** wet (not improved) meadows and marsh that are alkaline
 
 **Identification:**
 * 4 to 8 unmarked, slender leaves with hooded tips
@@ -287,7 +275,7 @@ The white and yellow variant:
 * lateral sepals erect, labellum trilobed and slightly convex
 * elder-flower scented
 
-**Pollination:** ?
+**Pollination:** Not known.
 
 **UK Classification:** NA. Classifed as Vulnerable in northern Spain.
 
@@ -343,9 +331,9 @@ The white and yellow variant:
 * flower lip is broad, often with downward pointing central spur
 * upper lateral sepals are spreading, becomming erect
 
-**Pollination:** Large Skipper butterflies have been observed removing pollinia
+**Pollination:** Large Skipper butterflies have been observed
 
-**UK Classification:**  Least Concern
+**UK Classification:** Least Concern
 
 **UK Distribution:** Widespread in southern England, less common in south-east England
 
@@ -362,7 +350,7 @@ The white and yellow variant:
 
 **Dates seen:** early June 2019
 
-**Habitat:** prefers acidic soils and poor grass land, above 700m elevation
+**Habitat:** acidic soils and poor grass land, above 700m elevation
 
 **Identification:** 
 
@@ -379,7 +367,7 @@ The white and yellow variant:
 -----------
 
 # Epipactis
-Epipactis is a genus consisting of approximately 70 species. These orchids grow in open spaces in forests, in undergrowth, on calcareous soils and are often found in wet dune-slacks near the sea.
+*Epipactis* is a genus consisting of approximately 70 species. They orchids grow in open spaces in forests, in undergrowth, on calcareous soils and are often found in wet dune-slacks near the sea.
 
 ## (*Epipactis kleinii*)
 
@@ -406,9 +394,9 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 **Pollination:** self pollinated
 
-**UK Classification:** no data found
+**UK Classification:** NA
 
-**UK Distribution:** Not found. Seen in northern Spain
+**UK Distribution:** NA. Seen in northern Spain
 
 ## Broad Leaved Helleborine (*Epipactis helleborine*)
 
@@ -451,7 +439,7 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 **Dates seen:** early June 2019
 
-**Habitat:** Calcareous fens and marshes.
+**Habitat:** Calcareous fens and marshes
 
 **Identification:** 
 
@@ -469,10 +457,9 @@ Epipactis is a genus consisting of approximately 70 species. These orchids grow 
 
 # Gymnadenia 
 
-The *Gymnadenia* genus contains 22 speciesm which are typically found in damp meadows, fens and marshes.
+The *Gymnadenia* genus contains 22 species which are typically found in damp meadows, fens and marshes.
 
 ## Fragrant Orchid (*Gymnadenia conopsea*)
-
 
 ![Fragrant]({{ site.baseurl }}/images/orchids/fragrant1.JPG)
 ![Fragrant]({{ site.baseurl }}/images/orchids/fragrant2.JPG)
@@ -495,7 +482,7 @@ The *Gymnadenia* genus contains 22 speciesm which are typically found in damp me
 * lateral sepals are narrow and droop down
 * lip clearly divided into three lobes
 
-**Pollination:** butterflys and day flying moths (six-spot burnet moth)
+**Pollination:** butterflys and day flying moths (six-spot burnet moth observed)
 
 **UK Classification:** Least Concern
 
@@ -527,7 +514,7 @@ There are four species of this genus within Europe. They all have a central labe
 * upto 70cm tall, large plant
 * upto 80 flowers, upto five leaves
 * sepals and upper petals form tight grey-green hood, brown parallel lines on inside
-* lip is trilobed, long curly lateral lobes, very long centeal lobe (c5cm), tinged with green and purple
+* lip is trilobed, long curly lateral lobes, very long centeal lobe (c.5cm), tinged with green and purple
 * the flowers smell of goats (ref. Dr Andrew Lack)
 
 **Pollination:** solitary bees and small insects
@@ -563,16 +550,14 @@ There are four species of this genus within Europe. They all have a central labe
 * labellum pendant, 7 to 15mm long, tip divided into two elongated lobes
 * globular ovary
 
-**Pollination:** pollinated by numerous insects (due to abundant nectar).
+**Pollination:** pollinated by numerous insects (due to abundant nectar)
 
 **UK Classification:** Least Concern
 
 **UK Distribution:** Throughout UK
 
 ## **Birds Nest Orchid** (*Neottia nidus-avis*)
-The Bird's-nest orchid is leafless and without the green chlorophyll of other plants that enable them to gain energy from sunlight through photosynthesis; instead, it grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
-
-Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No chrlorofilm, mycorrhizal fungi? reference to the tangled mass of roots that support the short creeping rhizome
+The Bird's-nest orchid is leafless and with the green chlorophyll of photosynthesising plants. The Bird's-nest grows as a parasite on the roots of trees, gaining its nutrients from its host. Usually found in woodland, particularly under Beech trees, 
 
 ![Birdsnest]({{ site.baseurl }}/images/orchids/birds1.JPG)
 ![Birdsnest]({{ site.baseurl }}/images/orchids/birds2.JPG)
@@ -604,7 +589,7 @@ Neottia nidus-avis, the bird's-nest orchid, is a non-photosynthetic orchid. No c
 
 # Nigritella
 
-This is a small genus of plants. There are thought to be nine species all confined to alpine zones.
+This is a small genus of plants. There are thought to be nine species, all of which are confined to alpine zones.
 
 ## **Black Vanilla Orchid** (*Nigritella nigra*)
 
@@ -637,7 +622,7 @@ This is a small genus of plants. There are thought to be nine species all confin
 
 # Ophrys
 
-This is a large genus. They specialists in reproducing through pseudocopulation. The *type* species is the fly orchid, *Ophrys insectifera*.
+This is a large genus. They specialise in reproducing through pseudocopulation. The *type* species is the fly orchid, *Ophrys insectifera*.
 
 ## **Bee Orchid** (*Ophrys apifera*)
 
@@ -831,7 +816,7 @@ The genus name is derived from the ancient greek meaning *testicle*. This is rel
 
 **Location:** Sydlings Copse
 
-**Dates seen:** late April to May
+**Dates seen:** late April to early May
 
 **Identification:** 
 
@@ -940,7 +925,7 @@ The genus name is derived from the ancient greek meaning *testicle*. This is rel
 
 **Species:** Orchis x angusticrucis ( sym. *O.purpurea x O.simia*)
 
-**Location:** Hartslock
+**Location:** Hartslock BBWOT reserve
 
 **Dates seen:** early May 2019
 
@@ -1054,7 +1039,7 @@ The genus name is derived from the ancient greek meaning *testicle*. This is rel
 
 **Species:** O. pallens
 
-**Location:** Picos
+**Location:** Picos de Europa
 
 **Dates seen:** early June 2019
 
