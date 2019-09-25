@@ -21,7 +21,7 @@ Originally Linnaeus placed all butterflies and moths in the same genus Papilio. 
 
 ## Hesperiidae
 
-Hesperiidae, known as skippers, are recognised by their rapid and darting flight. There are more than 3,500 species described, with the type species being *Hesperia comma*, the Silver-spotted skipper. The Lulworth skipper shown below is distinguished from the small skipper from the cresent shaped light marking on the forewing. 
+Hesperiidae, known as skippers, are recognised by their rapid and darting flight. There are more than 3,500 species described, with the type species being *Hesperia comma*, the Silver-spotted skipper. 
 
 ### **Dingy Skipper** (*Erynnis tages*)
 ![dingyskipper]({{ site.baseurl }}/images/butterflys/dingy.JPG)
@@ -35,6 +35,7 @@ Hesperiidae, known as skippers, are recognised by their rapid and darting flight
 **Location:** Hartlock
 
 ### **Lulworth skipper** (*Thymelicus acteon*)
+The Lulworth skipper shown below is distinguished from the small skipper from the cresent shaped light marking on the forewing. 
 ![Lulworthskipper]({{ site.baseurl }}/images/butterflys/lulworthskipper.JPG)
 
 **Genus:** Thymelicus
@@ -358,7 +359,7 @@ The Speckled wood subspecies with yellow spots instead of orange, is shown below
 
 ## Papilionidae
 
-Swallowtail butterflies are large, colorful butterflies in the family Papilionidae, and include over 550 species. The European Swallowtail is the type species of the genus Papilio, and the type genus of the Papilonidae is Papilio.. 
+Swallowtail butterflies are large, colorful butterflies in the family Papilionidae, and include over 550 species. The European Swallowtail is the type species of the genus Papilio.
 
 ### **Swallowtail** (*Papilio machaon*)
 ![Swallowtail]({{ site.baseurl }}/images/butterflys/swallowtail.JPG)
