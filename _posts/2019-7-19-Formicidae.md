@@ -120,7 +120,7 @@ L. flavus is one of the UK's smallest ants. It is yellow and nests in undisturbe
 * diameter of compound eyes less than length of the last segment of antennal scape
 
 ### **Lasius fuliginosus**
-L. fuliginosus exhibits a complex biology, known as temporary social parasitism. The queen invades the nest of a host species where it kills the queen, leaving the host worker population to care for the *fuliginosus* brood.
+L. fuliginosus exhibits a complex biology, known as temporary social parasitism. The queen invades the nest of a host species where it kills the queen, leaving the host worker population to care for the *fuliginosus* brood. It has a southerly distribution within the UK.
 
 ![fluliginosus]({{ site.baseurl }}/images/ants/fuliginosus.JPG)
 
@@ -143,9 +143,30 @@ L. fuliginosus exhibits a complex biology, known as temporary social parasitism.
 
 
 ### **Lasius niger**
+This species is perhaps more commonly known as the *common black ant*, although it's body colour is typically dark brown. It is widely distributed around the. Colonies can reach a population size of upto 40,000. Although worker ants live for at least four years, queens can survive for almost 30 years. The butterfly *Plebejus argus* (Silver-studed Blue) lays its eggs near nests of *L. niger*, in order to form a mutualistic relationship; *L.niger* workers protect the larvae in return for a saccharine secretion fortified with amino acids. 
 
-### **Lasius umbratus**
-Unlike the common yellow ant Lasius flavus, L. umbratus workers have numerous erect hairs on their scapes and tibia
+*L.niger* comprises two species within the UK; *L. niger* and the very similar *L.platythorax*. The worker of the later is known to have more dense hairs on the antennae and legs. Making it very hard to identify by a non-expert...
+
+![niger]({{ site.baseurl }}/images/ants/niger.JPG)
+
+**Genus:** Lasius
+
+**Species:** L. niger
+
+**Date seen:** early April, 2019
+
+**Location:** back garden, Oxfordshire
+
+**Microhabitat**: nesting under large garden planter
+
+**Identification**
+
+* single waisted
+* opening of propodeal spirical on hind faces, is circular
+* pale or dark brown body
+* diameter ofcompound eyes are about equal to the length of the last antennal segment
+* scape of antenna and hind tibia have hairs 
+
 
 # Myrmicinae
 
