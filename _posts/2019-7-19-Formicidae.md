@@ -148,7 +148,7 @@ This species is perhaps more commonly known as the *common black ant*, although 
 *L.niger* comprises two species within the UK; *L. niger* and the very similar *L.platythorax*. The worker of the later is known to have more dense hairs on the antennae and legs. Making it very hard to identify by a non-expert...
 
 ![niger]({{ site.baseurl }}/images/ants/niger.JPG)
-
+~Z~Z~
 **Genus:** Lasius
 
 **Species:** L. niger
@@ -172,52 +172,46 @@ This species is perhaps more commonly known as the *common black ant*, although 
 
 ## Myrmica
 
-The *myrmica* genus contains around 200 known species worldwide. It is the largest ant genus in Britain, with ten known species.
+The *myrmica* genus contains around 200 known species worldwide. It is the largest ant genus in Britain, with ten known species. The photos below show species within the genus (they are not sufficently detailed to classify to species level):
 
-### **Myrmica rubra**
-*M. rubra* , often known as the European fire or red ant, is found throughout Britain. It forms colonies of around a hundred or so individuals under stones or in tree stumps. M. rubra is native to the Palearctic regions of Europe and Asia from Ireland to western Siberia, and is reported as being an invasive species on the east coast of the United States.
 
 ![rubra1]({{ site.baseurl }}/images/ants/rubra1.JPG)
 ![rubra2]({{ site.baseurl }}/images/ants/rubra2.JPG)
 
+![ruginodis1]({{ site.baseurl }}/images/ants/ruginodis1.JPG)
+![ruginodis2]({{ site.baseurl }}/images/ants/ruginodis2.jpg)
+
+
+Idenitifaction of the two most commonly found UK species within *Mymica* are detailed below.
+
+### **Myrmica rubra**
+*M. rubra*, often known as the European fire or red ant, is found throughout Britain. It forms colonies of around a hundred or so individuals under stones or in tree stumps. 
+
 **Genus:** Myrmica
 
-**Species:** T. rubra
-
-**Date seen:** early July, 2019
-
-**Location:** Polgeel, Cornwall
-
-**Microhabitat**: stones under driveway
+**Species:** M. rubra
 
 **Identification**
 
 * waist comprises two segements; the petiole and postpetiole
 * thorax spines are shorter than the distance between their tips; key difference to M. ruginodis
 * upper surface of petiole curved into hind face
+* scape gently curved, frontal triangle smooth and shining.
 
 
 ### **Myrmica ruginodis**
-Locally present in Shetland!
+A common species found throughour Britain; locally present in Shetland.
 
-![ruginodis1]({{ site.baseurl }}/images/ants/ruginodis1.JPG)
-![ruginodis2]({{ site.baseurl }}/images/ants/ruginodis2.jpg)
- 
 **Genus:** Myrmica
 
-**Species:** T. ruginodis
-
-**Date seen:** early July, 2019
-
-**Location:** Dancer's End (BBOWT reserve), Buckinghamshire
-
-**Microhabitat**: chalk grassland
+**Species:** M. ruginodis
 
 **Identification**
 
 * two sharp spikes on propodeum; at least long as the distance between their tips - the key difference against M. rubra.
 * hind face of petiole strongly angled
 * the shape of the base of the antennae curved in *M. ruginodis* - sharply angled in *M. rubra*
+* scape gently curved, frontal triangle smooth and shining.
 
 # References
 
