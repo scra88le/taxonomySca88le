@@ -70,7 +70,7 @@ Formica sanguinea is a slave-maker. The queen invades nests and kills the incumb
 ## Lasius
 
 ### **Lasius brunneus**
-This species is typically found in broad-leaved woodland across Europe. It nests within the interior of Oak trees, where it tends aphids for food.
+This species is typically found in broad-leaved woodland across Europe. It nests within dead tree trunks or timber, where it tends aphids for food.
 
 ![brunneus]({{ site.baseurl }}/images/ants/brunneus.JPG)
 
@@ -78,7 +78,7 @@ This species is typically found in broad-leaved woodland across Europe. It nests
 
 **Species:** L. brunneus
 
-**Date seen:** early May, 2018
+**Date seen:** late April, 2019
 
 **Location:** Wytham Woods, Oxfordshire
 
@@ -88,14 +88,35 @@ This species is typically found in broad-leaved woodland across Europe. It nests
 
 * gaster dark brown, pale reddish brown head and alitrunk
 * sparse body hairs
-* scapes and tibiae never with erect hairs
-* back of head flat or feebly concave
+* scapes and tibiae without erect hairs
+* back of head flat or slightly concave
 * single waisted
 
-
 ### **Lasius flavus**
+L. flavus is one of the UK's smallest ants. It is yellow and nests in undisturbed grassland and meadows where it builds and nests in large mounds. Their nests may exist for many years, and there maybe hundreds of nests in a single meadow. They are typically subterranean and not often seen above ground.
+
+![flavus]({{ site.baseurl }}/images/ants/flavus.JPG)
+
+**Genus:** Lasius
+
+**Species:** L. flavus
+
+**Date seen:** early May, 2019
+
+**Location:** Watlington Hill
+
+**Microhabitat**: meadows off hillside
+
+**Identification**
+
+* single waisted
+* small to other Lasius species, and yellow in colour
+* antennal scape without hairs, hairs on upper surface of gaster
+* diameter of compound eyes less than length of the last segment of antennal scape
 
 ### **Lasius fuliginosus**
+
+
 
 ### **Lasius niger**
 
