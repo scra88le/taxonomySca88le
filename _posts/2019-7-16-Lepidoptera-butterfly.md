@@ -184,12 +184,12 @@ The Nymphalidae are the largest family of butterflies with 12 subfamilies, more 
 
 **Location:** Aston Clinton Ragpits (BBOWT reserve), Buckinghamshire
 
-### **Glanville fritillary** (*Melitaea cinxia*)
-![GlanvilleFritillary]({{ site.baseurl }}/images/butterflys/heathfritillary.JPG)
+### **Heath fritillary** (*Melitaea athalia*)
+![HeathFritillary]({{ site.baseurl }}/images/butterflys/heathfritillary.JPG)
 
 **Genus:** Melitaea
 
-**Species:** M. cinxia
+**Species:** M. athalia
 
 **Date seen:** early June, 2019
 
@@ -428,5 +428,11 @@ Riodinidae is the family of metalmark butterflies. The common name "metalmarks" 
 **Date seen:** early June, 2019
 
 **Location:** near Areños, Spain
+
+# References
+
+[UK Butterflies](https://www.ukbutterflies.co.uk/index.php)
+[Butterfly Conservation](https://butterfly-conservation.org/butterflies/identify-a-butterfly)
+
 
 
