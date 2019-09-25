@@ -148,7 +148,7 @@ This species is perhaps more commonly known as the *common black ant*, although 
 *L.niger* comprises two species within the UK; *L. niger* and the very similar *L.platythorax*. The worker of the later is known to have more dense hairs on the antennae and legs. Making it very hard to identify by a non-expert...
 
 ![niger]({{ site.baseurl }}/images/ants/niger.JPG)
-~Z~Z~
+
 **Genus:** Lasius
 
 **Species:** L. niger
@@ -177,10 +177,6 @@ The *myrmica* genus contains around 200 known species worldwide. It is the large
 
 ![rubra1]({{ site.baseurl }}/images/ants/rubra1.JPG)
 ![rubra2]({{ site.baseurl }}/images/ants/rubra2.JPG)
-
-![ruginodis1]({{ site.baseurl }}/images/ants/ruginodis1.JPG)
-![ruginodis2]({{ site.baseurl }}/images/ants/ruginodis2.jpg)
-
 
 Idenitifaction of the two most commonly found UK species within *Mymica* are detailed below.
 
