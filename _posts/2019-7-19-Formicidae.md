@@ -120,7 +120,7 @@ L. flavus is one of the UK's smallest ants. It is yellow and nests in undisturbe
 * diameter of compound eyes less than length of the last segment of antennal scape
 
 ### **Lasius fuliginosus**
-L. fuliginosus exhibits a complex biology, known as temporary social parasitism. The queen invades the nest of a host species where it kills the queen, leaving the host worker population to care for the *fuliginosus* brood. It has a southerly distribution within the UK.
+L. fuliginosus exhibits a complex biology, known as temporary social parasitism. The queen invades the nest of a host species where it kills the host queen, leaving the host worker population to care for the *fuliginosus* brood. It has a southerly distribution within the UK.
 
 ![fluliginosus]({{ site.baseurl }}/images/ants/fuliginosus.JPG)
 
