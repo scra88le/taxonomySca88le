@@ -212,7 +212,9 @@ A common species found throughour Britain; locally present in Shetland.
 # References
 
 Ants - Skinner & Allen
+
 [antweb] https://www.antweb.org
+
 [antwiki - UK Species list] https://www.antwiki.org/wiki/United_Kingdom_of_Great_Britain_and_Northern_Ireland
 
 # Acknowledgements
