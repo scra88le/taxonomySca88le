@@ -230,7 +230,7 @@ The geometer moths belong to the family Geometridae.
 Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,000 genera and 20,000 species worldwide. The type species is *Noctua pronuba* (the Large yellow underwing). Within the UK, the *Noctuidae* is the largest family of macro-moths, with around 370 species.
 
 ### **Alder** (*Acronicta alni*)
-![Ader]({{ site.baseurl }}/images/moths/alder.JPG)
+![Alder]({{ site.baseurl }}/images/moths/alder.JPG)
 
 **Genus:** Acronicta
 
@@ -239,6 +239,17 @@ Currently, Noctuidae is the second largest family in Noctuoidea, with about 1,00
 **Date seen:** early June, 2019
 
 **Location:** Pesaguero, Spain
+
+### **Angle Shades** (*Phlogophora meticulosa*)
+![Alder]({{ site.baseurl }}/images/moths/angleshades.JPG)
+
+**Genus:** Phlogophora
+
+**Species:** P. meticulosa
+
+**Date seen:** late September, 2019
+
+**Location:** Oxford Brookes, Headington
 
 ### **Beautiful Marbled** (*Eublemma purpurina*)
 
@@ -499,6 +510,21 @@ Notodontidae is a family of moths with approximately 3,800 known species. Adult 
 
 
 -------
+
+## Pterophoridae
+This is a family of micromoths, often found in every month of the year.
+
+### **Common Plume** (*Emmelina monodactyla*)
+
+![CommonPlume]({{ site.baseurl }}/images/moths/plume.JPG)
+
+**Genus:** Emmelina
+
+**Species:** E. monodactyla
+
+**Date seen:** late September, 2019
+
+**Location:** East Oxford
 
 ## Sphingidae
 The Sphingidae are a family of moths, commonly known as hawk moths, sphinx moths, and hornworms; it includes about 1,450 species. The type species is *Sphinx ligustri*, the Privet hawk moth.
